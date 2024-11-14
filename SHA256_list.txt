@@ -1,5 +1,10 @@
 # SHA256 - List
 
+# Malicious File
+
+4431b2a4d7758907f8f1b1a0c1e36b2ce03e08d43123b1c398487770afd20727
+6f765dda126e830c6cd2c7938dbb970d03be7288e2c00388903a4ef3f9ecc853
+
 # BeaverTail
 
 1cbffebbf65b211ba3b687fbab3b2286c4ba05b9faa6f7eabd3c173ff63be6cc
