@@ -1,5 +1,10 @@
 # SHA1 - List
 
+# Anonymous-For-Justic
+
+a8670f465b13abf97956990d6ef5870c990cff86
+230a4dee85e47866a7ef8a5ed6ea726cc9bd61c9
+
 # BeaverTail
 
 b9c48210a45da59e7918c7d72bbf84bc91e5460e
