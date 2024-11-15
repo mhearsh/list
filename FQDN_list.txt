@@ -1,5 +1,8 @@
 # DNS - FQDN
 
+microsoftonlines.com
+sharepointonline.uk
+microsoft-store.network
 onlinelive.info
 zeusistalking.io
 zeusistalking.net
