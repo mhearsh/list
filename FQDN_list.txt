@@ -1,5 +1,8 @@
 # DNS - FQDN
 
+il-cert.net
+connect.il-cert.net
+onlinelive.info
 careers2find.com
 xboxapicenter.com
 microsoftonlines.com
