@@ -1,5 +1,11 @@
 # SHA1 - List
 
+# MuddyWater
+
+605dcc8db2e05b23a1e1da0d198e68175f535502
+fcebea4217c4750bd3dd46d15a5859bf4a96a9e7
+4270855a7a9e998a5d57d111d27e35074929badf
+
 # Iranian Dream Job
 
 2a29ba7302024ec1255811abec2a532136d12fef
