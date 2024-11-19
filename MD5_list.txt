@@ -1,5 +1,12 @@
 # MD5 - List
 
+# MuddyWater
+
+d5930dee0c750bebbdfcaf5dbd021dda
+9ef72118fc7a2262b6bdcef1b95e3b2c
+dc9945e4be642c2a40019008b53800cf
+bd4efa792a5858b31898c0df342698c1
+
 # Anonymous-For-Justic
 
 df0c85012d1f2614db745908969cccb0
