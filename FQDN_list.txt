@@ -1,5 +1,12 @@
 # DNS - FQDN
 
+portal.pdq.com
+auth2.pdq.com
+websocket.app.pdq.com
+app.pdq.com
+cfcdn.pdq.com
+connect-package-library.e9d69694c3d8f7465fd531512c22bd0f.r2.cloudflarestorage.com
+connect.e9d69694c3d8f7465fd531512c22bd0f.r2.cloudflarestorage.com
 il-cert.net
 connect.il-cert.net
 onlinelive.info
