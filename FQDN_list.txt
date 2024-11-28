@@ -1,5 +1,6 @@
 # DNS - FQDN
 
+ilstrik.xyz
 portal.pdq.com
 auth2.pdq.com
 websocket.app.pdq.com
