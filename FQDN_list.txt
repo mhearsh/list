@@ -1,5 +1,6 @@
 # DNS - FQDN
 
+s3api.shop
 ilstrik.xyz
 portal.pdq.com
 auth2.pdq.com
