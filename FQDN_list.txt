@@ -1,4 +1,6 @@
 # DNS - FQDN
+gamma.app
+watchmedier.peytzmail.com
 office.sedonaphermgroup.com
 app.appsmith.com
 zyxgate.com
