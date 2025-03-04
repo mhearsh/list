@@ -1,4 +1,6 @@
 # DNS - FQDN
+zyxgate.com
+fluxcount.com
 app.appsmith.com
 pages.lemlist.com
 bo_5.jetadmin.io
