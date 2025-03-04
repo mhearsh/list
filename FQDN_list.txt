@@ -1,4 +1,6 @@
 # DNS - FQDN
+office.sedonaphermgroup.com
+app.appsmith.com
 zyxgate.com
 fluxcount.com
 app.appsmith.com
