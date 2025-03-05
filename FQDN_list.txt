@@ -1,4 +1,6 @@
 # DNS - FQDN
+Login.partner.microsoftonline.cn
+portal.partner.microsoftonline.cn
 gamma.app
 watchmedier.peytzmail.com
 office.sedonaphermgroup.com
