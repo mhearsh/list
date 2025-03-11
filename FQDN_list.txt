@@ -1,4 +1,5 @@
 # DNS - FQDN
+app.safe.global
 Login.partner.microsoftonline.cn
 portal.partner.microsoftonline.cn
 gamma.app
