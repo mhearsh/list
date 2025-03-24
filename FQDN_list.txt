@@ -1,4 +1,5 @@
 # DNS - FQDN
+gabh.gotdns.ch
 jojo.ath.cx
 directfilesjo.com
 jofilesjo.com
