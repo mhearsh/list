@@ -1,4 +1,9 @@
 # DNS - FQDN
+fuckedserver.net
+encrypthub.net
+encrypthub.org
+ciphercall.net
+cryptolabstudio.com
 gabh.gotdns.ch
 jojo.ath.cx
 directfilesjo.com
