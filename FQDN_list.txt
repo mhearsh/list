@@ -1,4 +1,18 @@
 # DNS - FQDN
+cert-gov-il.com
+cert-gov-il.help
+cert-gov-il.info
+cert-gov-il.org
+cyber-gov-il.com
+cyber-gov-il.help
+cyber-gov-il.org
+incd-gov-il.com
+incd-gov-il.info
+incd-gov-il.org
+lncd-gov-il.biz
+lncd-gov-il.com
+lncd-gov-il.info
+lncd-gov-il.org
 fuckedserver.net
 encrypthub.net
 encrypthub.org
