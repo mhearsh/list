@@ -1,4 +1,9 @@
 # DNS - FQDN
+paste.rs
+is.gd
+t.me
+t2m.co
+tr.ee
 cert-gov-il.com
 cert-gov-il.help
 cert-gov-il.info
