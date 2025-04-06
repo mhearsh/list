@@ -1,4 +1,6 @@
 # DNS - FQDN
+veinstreatmentmiami.com
+talsound.de
 paste.rs
 is.gd
 t.me
