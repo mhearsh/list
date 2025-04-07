@@ -1,4 +1,12 @@
 # DNS - FQDN
+note.youdao.com
+myqcloud.com
+cos.ap-nanjing.myqcloud.com
+11-1318622059.cos.ap-nanjing.myqcloud.com
+todesk-1316713808.cos.ap-nanjing.myqcloud.com
+mytodesktest-1257538800.cos.ap-nanjing.myqcloud.com
+yuehai-1316713808.cos.ap-nanjing.myqcloud.com
+530-1316713808.cos.ap-nanjing.myqcloud.com
 goo.su
 microsoftmiddlename.tk
 cloudservicesdevc.tk
