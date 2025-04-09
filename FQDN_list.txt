@@ -1,4 +1,7 @@
 # DNS - FQDN
+transletegooge.com
+itechnnos.com
+pccwproxygrouppro.network
 note.youdao.com
 myqcloud.com
 cos.ap-nanjing.myqcloud.com
