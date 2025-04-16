@@ -1,5 +1,6 @@
 # DNS - FQDN
 
+relay.ziadpaneel.com
 user993049.digital/import/welcome
 herbonlines.com/mt
 s-hf.info/story.html
