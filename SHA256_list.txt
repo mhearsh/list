@@ -1,5 +1,7 @@
 # SHA256 - List
 
+# Titan - 39935
+7d536b5691736ebdb00b102d22eb47733ea3ac89948e27028ddcdf076cf073cb
 
 # ResolverRAT-IOC
 ec189b7ce68cb308139f6a5cf93fd2dc91ccf4432dc09ccaecb9de403a000c73
