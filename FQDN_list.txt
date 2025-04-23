@@ -1,4 +1,5 @@
 # DNS - FQDN
+relay.ziadpaneel.com
 secure312.inmotionhosting.com
 appr0vtlog.de
 mega.nz/file/jXx1VIDC#-nHA6FK2inaINZZsvcfF-A_jHitBvRPKGT2QvceyXLU
