@@ -1,4 +1,6 @@
 # DNS - FQDN
+dub.sh
+emiliomartins.adv.br
 postil.email
 bkefotografia.com
 postil.store
