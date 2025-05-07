@@ -1,4 +1,6 @@
 # DNS - FQDN
+dual.saltuta.com
+verify.uniupdate.net
 ilsvart.cyou
 qasvart.cyou
 qapolaes.cyou
