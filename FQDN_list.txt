@@ -1,4 +1,5 @@
 # DNS - FQDN
+policeisrael.com
 srv51931.dus4.dedi.server-hosting.expert
 hihetetlenmagazin.hu
 dual.saltuta.com
