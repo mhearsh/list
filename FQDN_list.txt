@@ -1,4 +1,18 @@
 # DNS - FQDN
+brandnav-cms-storage.s3.amazonaws.com
+abode-dashboard-media.s3.ap-south-1.amazonaws.com
+overseas-recognized-athens-oakland.trycloudflare.com
+ocr-freespace.oss-cn-beijing.aliyuncs.com
+devocional.click
+update.zoho-software.com
+ocr-freespace.oss-cn-beijing.aliyuncs.com/2025/config.sh
+abode-dashboard-media.s3.ap-south-1.amazonaws.com/BCYVrrHX
+brandnav-cms-storage.s3.amazonaws.com:80/ZGHU5tVaLk
+overseas-recognized-athens-oakland.trycloudflare.com/v2.js
+23.95.123.5:666/xmrigCCall/8bq.sh
+devocional.click/download/forwardsap.jsp
+temp.sh/vvgtW/webhelper
+update.zoho-software.com:443/webhelper
 policeisrael.com
 srv51931.dus4.dedi.server-hosting.expert
 hihetetlenmagazin.hu
