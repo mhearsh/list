@@ -1,4 +1,5 @@
 # DNS - FQDN
+search-email.com
 brandnav-cms-storage.s3.amazonaws.com
 abode-dashboard-media.s3.ap-south-1.amazonaws.com
 overseas-recognized-athens-oakland.trycloudflare.com
