@@ -1,4 +1,6 @@
 # DNS - FQDN
+hihetetlenmagazin.hu
+evagamedev.com
 dual.saltuta.com
 verify.uniupdate.net
 search-email.com
