@@ -1,4 +1,7 @@
 # DNS - FQDN
+aghata.pl
+msportatiles.es
+atentaconsulting.es
 serverlogs295.xyz
 servblog475.cfd
 demblog797.xyz
