@@ -1,4 +1,13 @@
 # DNS - FQDN
+cloudmediaportal.com
+njala.dev
+falercllod.com
+security.falercllod.com
+mingei-project.eu
+goclouder.com
+security.clodufshield.com
+daoeidk.info
+smartlifeshift.com
 aghata.pl
 msportatiles.es
 atentaconsulting.es
