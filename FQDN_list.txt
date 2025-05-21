@@ -1,4 +1,6 @@
 # DNS - FQDN
+azozd.theabovedomain.com
+fax-servicesh.serveirc.com
 cloudmediaportal.com
 njala.dev
 falercllod.com
