@@ -1,4 +1,9 @@
 # DNS - FQDN
+zenmap.pro
+winmtr.org
+milestonesys.org
+software-server.online
+soft-server.online
 h2b-loginbhapoalim.com
 us.s1c.me/onTZ4
 bituahleumisecret.com
