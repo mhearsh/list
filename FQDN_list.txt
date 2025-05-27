@@ -1,4 +1,11 @@
 # DNS - FQDN
+twist2katz.com
+pub-ce02802067934e0eb072f69bf6427bf6.r2.dev
+katz-stealer.com
+katzstealer.com
+h2b-loginbhapoalim.com
+bituahleumisecret.com
+hb2-secretleumidigital.com
 1cooldns.com
 42web.io
 4cloud.click
