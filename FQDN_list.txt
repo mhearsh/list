@@ -1,4 +1,14 @@
 # DNS - FQDN
+encoremir.com	docs.google.com/document/export?format=txt&id=1YwJBwB5vc4uuSA3iebzUb0zd93bidEDzyhs-xbK7vvc
+appstgs.com	docs.google.com/document/export?format=txt&id=1Zg3DwBqKRuAjyhdlS-P29Jn5odm1mr36j3_xsEF8Uvc N
+hewlettpackardupdates.info	docs.google.com/document/export?format=txt&id=1gSrKZd2I1Toj4f7G8TbzSf2A_sm8r1v5UHDUoKZGKbc
+apps.gist.githubapp.net	docs.google.com/document/export?format=txt&id=13njrS8e3Y3hUrVxHSQ0sALSoQBcQthLt4RGE-EyserQ
+cdn.gupdate.net	docs.google.com/document/export?format=txt&id=1_DXc1ushx-Cb0L4N_P2p2iT4Dpx3_9YjCKnL7IeRPjM H
+connect.mozilla.one	drive.usercontent.google.com/download?id=1VKzmgdpSLWVl1CrC9qVqOOABk2Xf7Bbe&export=view
+savooks.com	gitlab.com/ocr-view/mmocr-ref-manual/-/raw/main/IM0077782.png
+cluster.amazonaws.work	raw.githubusercontent.com/Ocr-text2image-mos/mmocr_ref/refs/heads/main/demo/resources/mmocr logo .png
+schema.postman.sh	s3.solarcom.ch/gist.github.com/resources/logo.png
+social.zerotier.app:443/agent.ashx
 45.150.108.61/bibi_fucker.txt
 gamma.app/docs/You-have-received-a-new-PDF-Document-8oa1upj4r4fqvt2
 shorten.is/CopY2
