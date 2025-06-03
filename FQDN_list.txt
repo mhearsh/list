@@ -1,4 +1,11 @@
 # DNS - FQDN
+word.msapp.workers.dev
+cloud.msapp.workers.dev
+term-restore-satisfied-hence.trycloudflare.com
+ways-sms-pmc-shareholders.trycloudflare.com
+resource.infinityfreeapp.com
+pubs.infinityfreeapp.com
+104075625139-l53k83pb6jbbc2qbreo4i5a0vepen41j.apps.googleusercontent.com
 lihi.cc/6dekU
 lihi.cc/v3OyQ
 lihi.cc/5nlgd
