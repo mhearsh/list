@@ -1,4 +1,18 @@
 # DNS - FQDN
+postil.blog
+support1.mousemod.com
+postil.blog
+github.com/esetsecurity
+postil.blog/eset_security_ultimate
+bit.ly/eset_security_ultimate
+github.com/esetsecurity/eset_security/raw/refs/heads/main/InvoiceReceipt_409306.exe
+postil.blog/InvoiceReceipt_409306
+raw.githubusercontent.com/esetsecurity/eset_security/refs/heads/main/eset_security_ultimate_live_installer.exe
+github.com/coinverification
+raw.githubusercontent.com/coinverification
+raw.githubusercontent.com/coinverification/coinverify/refs/heads/main/Avast.exe
+github.com/esetsecurity
+raw.githubusercontent.com/esetsecurity
 xayfarer.live
 authorizev.site
 hemispheredodnkkl.pw
