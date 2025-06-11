@@ -1,9 +1,9 @@
 # DNS - FQDN
 mail.ctdi.com.ph
-hxxp://mail.ctdi.com.ph:587
-hxxps://mail.ctdi.com.ph:587
-hxxp://mail.ctdi.com.ph
-hxxps://mail.ctdi.com.ph
+mail.ctdi.com.ph:587
+mail.ctdi.com.ph:587
+mail.ctdi.com.ph
+mail.ctdi.com.ph
 esetnod-installer-latestversion.pages.dev
 esetnod-installer-latestversions.pages.dev
 putinswin.es
