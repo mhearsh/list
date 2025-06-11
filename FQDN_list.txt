@@ -1,4 +1,12 @@
 # DNS - FQDN
+mail.ctdi.com.ph
+hxxp://mail.ctdi.com.ph:587
+hxxps://mail.ctdi.com.ph:587
+hxxp://mail.ctdi.com.ph
+hxxps://mail.ctdi.com.ph
+esetnod-installer-latestversion.pages.dev
+esetnod-installer-latestversions.pages.dev
+putinswin.es
 coda.io/@documents-to-review/documents-to-review-Wednesday
 coda.io/@documents-to-review/documents-to-review-wednesda
 aka.ms/AAb9ysg
