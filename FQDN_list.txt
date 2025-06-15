@@ -1,4 +1,6 @@
 # DNS - FQDN
+cyber-legal-directorate.com
+mestopravdi.tilda.ws
 nuklearcnc.duckdns.org
 jimmyudp-raw.xyz
 pangacnc.com
