@@ -1,4 +1,5 @@
 # DNS - FQDN
+lpngo.com
 encoremir.com
 hewlettpackardupdates.info
 apps.gist.githubapp.net
