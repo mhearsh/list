@@ -1,4 +1,5 @@
 # DNS - FQDN
+phcia.duckdns.org
 esetnod-installer-latestversion.pages.dev
 esetnod-installer-latestversions.pages.dev
 putinswin.es
