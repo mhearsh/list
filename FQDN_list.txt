@@ -1,4 +1,7 @@
 # DNS - FQDN
+esetnod-installer-latestversion.pages.dev
+esetnod-installer-latestversions.pages.dev
+putinswin.es
 lpngo.com
 encoremir.com
 hewlettpackardupdates.info
