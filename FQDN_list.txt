@@ -1,4 +1,9 @@
 # DNS - FQDN
+postil.blog
+support1.mousemod.com
+esetnod-installer-latestversion.pages.dev
+esetnod-installer-latestversions.pages.dev
+putinswin.es
 updaterputty.com
 zephyrhype.com
 putty.run
