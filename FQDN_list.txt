@@ -1,4 +1,10 @@
 # DNS - FQDN
+185.196.8.217
+185.28.119.113:443/reg
+185.28.119.113:443/login
+185.28.119.113:443/secure
+185.196.8.217/api/kcehc
+185.196.8.217/api/jgfnsfnuefcnegfnehjbfncejfh
 postil.ceo/InvoiceReceipt_404243
 postil.blog
 postil.blog/InvoiceReceipt_409306
