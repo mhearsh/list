@@ -1,4 +1,5 @@
 # DNS - FQDN
+gos-usa.xyz
 Malicious Domain Indicators
 admitab.com
 edmitab.com
