@@ -1,4 +1,18 @@
 # DNS - FQDN
+Malicious Domain Indicators
+admitab.com
+edmitab.com
+click.videocontrolls.com
+c.undiscord.com
+click.darktheme.net
+c.jermikro.com
+c.untwitter.com
+c.unyoutube.net
+admitclick.net
+addmitad.com
+admiitad.com
+abmitab.com
+admitlink.net
 pub-164d8d82c41c4e1b871bc21802a18154.r2.dev
 pub-626890a630d8418ea6c2ef0fa17f02ef.r2.dev
 pub-a5a2932dc7f143499b865f8580102688.r2.dev
