@@ -1,4 +1,5 @@
 # DNS - FQDN
+netivtech.org
 existed-bunch-balance-councils.trycloudflare.com
 ferrari-rolling-facilities-lounge.trycloudflare.com
 galleries-physicians-psp-wv.trycloudflare.com
