@@ -1,6 +1,6 @@
 # DNS - FQDN
 siraco.net/acheck3.dat
-"	5y9pfu.missileries-fenagle.yelocom.com"
+5y9pfu.missileries-fenagle.yelocom.com
 irritaspec.xyz.parsvana-grp.biz
 netivtech.org
 existed-bunch-balance-councils.trycloudflare.com
