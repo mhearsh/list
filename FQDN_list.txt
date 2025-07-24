@@ -1,4 +1,13 @@
 # DNS - FQDN
+stayathomeclasses.com/slpw/up.php
+c34718cbb4c6.ngrok-free.app/file.ps1
+39.107.156.136/api/v1/namespaces/kube-system/services
+8.140.62.166/api/v1/namespaces/kube-system/services
+38.55.194.34/api/v1/namespaces/kube-system/services
+47.116.178.227/api/v1/namespaces/kube-system/services
+121.41.14.96/api/v1/namespaces/kube-system/services
+47.116.178.227:443/api/v1/namespaces/kube-system/services
+ynlp.co.il/installer-v01.12.324.msi
 stayathomeclasses.com
 swenku.xyz/gaok
 lnofi.xyz/qoei
