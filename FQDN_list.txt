@@ -1,4 +1,6 @@
 # DNS - FQDN
+communicative-pelican-3tch.dovetail.com
+docusign-review.netforge.za.com
 twtich.cc
 capchabot.cc
 s3-azure.com
