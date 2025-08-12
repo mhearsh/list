@@ -1,4 +1,24 @@
 # DNS - FQDN
+twtich.cc
+capchabot.cc
+s3-azure.com
+ns1.s3-azure.com
+ns2.s3-azure.com
+upload-microsoft.com
+msn-microsoft.org
+api.nova-blight.top
+shadow.nova-blight.top
+nova-blight.site
+nova-blight.xyz
+bamboulacity.nova-blight.xyz
+ev2sirbd269o5j.org
+2rxyt9urhq0bgj.org
+opmanager.pro
+angryipscanner.org
+axiscamerastation.org
+ip-scanner.org
+dovetail.com
+fevalentineo.ru
 stayathomeclasses.com/slpw/up.php
 c34718cbb4c6.ngrok-free.app/file.ps1
 39.107.156.136/api/v1/namespaces/kube-system/services
