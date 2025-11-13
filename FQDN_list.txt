@@ -1,4 +1,11 @@
 # DNS - FQDN
+appoitment.dotoit.media
+genuinashop.com
+oldfoxcompany.com
+professionaltutors.net
+sparkwebsolutions.space
+xcellentrenovations.com
+youkhanhdoit.co
 microsoftnet.ru
 byzentium.com
 asylimed.azurewebsites.net
