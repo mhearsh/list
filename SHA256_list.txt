@@ -1,3 +1,14 @@
+###############################################################################
+#                                                                             #
+#                        SHA256 HASH DATABASE                                 #
+#                  Malicious File Hashes - SHA256                             #
+#                                                                             #
+#  Purpose: Indicators of Compromise (IOC) - SHA256 Hash Collection           #
+#  Format:  64-character hexadecimal SHA256 hashes                            #
+#  Usage:   Threat detection, malware identification, security monitoring     #
+#                                                                             #
+###############################################################################
+
 00218B08FB18D8AA987B1AD21AB5A3D6D32D4C82C485AA6FD2DE7A6A5B5741CF
 00218b08fb18d8aa987b1ad21ab5a3d6d32d4c82c485aa6fd2de7a6a5b5741cf
 # MuddyViper-MuddyWater-INCD

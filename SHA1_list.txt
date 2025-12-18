@@ -1,3 +1,14 @@
+###############################################################################
+#                                                                             #
+#                         SHA1 HASH DATABASE                                  #
+#                   Malicious File Hashes - SHA1                              #
+#                                                                             #
+#  Purpose: Indicators of Compromise (IOC) - SHA1 Hash Collection             #
+#  Format:  40-character hexadecimal SHA1 hashes                              #
+#  Usage:   Threat detection, malware identification, security monitoring     #
+#                                                                             #
+###############################################################################
+
 006647477b06e19a5fe03f0604b7cdd83f12a0b2
 0076795b220fa48c92b57994b015119aae8242ca
 # MuddyViper-MuddyWater-INCD
