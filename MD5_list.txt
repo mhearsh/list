@@ -1,3 +1,14 @@
+###############################################################################
+#                                                                             #
+#                          MD5 HASH DATABASE                                  #
+#                    Malicious File Hashes - MD5                              #
+#                                                                             #
+#  Purpose: Indicators of Compromise (IOC) - MD5 Hash Collection              #
+#  Format:  32-character hexadecimal MD5 hashes                               #
+#  Usage:   Threat detection, malware identification, security monitoring     #
+#                                                                             #
+###############################################################################
+
 002bb77063c4108731f8c191b14f8fce
 0038f120b2b5093cf1a35190260c0677
 # MuddyViper-MuddyWater-INCD-40634
