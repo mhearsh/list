@@ -3,9 +3,7 @@ name: Auto-merge Claude branches to main
 on:
   push:
     branches:
-      - 'claude/*-Hz8KT'
-      - 'claude/*-6RE5i'
-      - 'claude/*-JY2xT'
+      - 'claude/*'
 
 permissions:
   contents: write
