@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - 'claude/*-Hz8KT'
+      - 'claude/*-6RE5i'
 
 permissions:
   contents: write
