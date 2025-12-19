@@ -5,6 +5,7 @@ on:
     branches:
       - 'claude/*-Hz8KT'
       - 'claude/*-6RE5i'
+      - 'claude/*-JY2xT'
 
 permissions:
   contents: write
