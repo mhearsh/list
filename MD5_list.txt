@@ -9,6 +9,14 @@
 #                                                                             #
 ###############################################################################
 
+
+# Telegram-IOC-Feeds
+# @ShadowChasing1
+# 2025-12-20
+
+fc59fc3d4b2af739014de04428ce2fb5
+d92fac74e6d7f4d8fc96c9ce6239435f
+
 # MuddyViper-MuddyWater-INCD-40634
 # 2025-12-18
 
