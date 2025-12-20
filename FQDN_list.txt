@@ -1528,11 +1528,6 @@ zxehyf.enseblezom.com
 zytonhealth.com
 zyxgate.com
 
-# Test IOC
-# 2025-12-20
-
-test.com
-
 # @skocherhan + @urldna_bot
 # 2025-12-20
 
