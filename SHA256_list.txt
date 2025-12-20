@@ -9,6 +9,13 @@
 #                                                                             #
 ###############################################################################
 
+
+# Telegram-IOC-Feeds
+# @malwrhunterteam
+# 2025-12-20
+
+14d374ea0604f70e6f39306efd948e7962fdd21cdb3e187ba461312027ebd3f5
+
 # MuddyViper-MuddyWater-INCD-40634
 # 2025-12-18
 
