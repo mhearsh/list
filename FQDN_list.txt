@@ -9,6 +9,14 @@
 #                                                                             #
 ###############################################################################
 
+
+# Telegram-IOC-Feeds
+# @FalconFeedsio
+# 2025-12-20
+
+byret.dk
+handelsretten.dk
+
 # MuddyViper-MuddyWater-INCD-40634
 # 2025-12-18
 
@@ -1525,9 +1533,3 @@ zytonhealth.com
 zyxgate.com
 usaatodayslives.com
 btnearinternet11.weebly.com
-
-# @FalconFeedsio
-# 2025-12-20
-
-byret.dk
-handelsretten.dk
