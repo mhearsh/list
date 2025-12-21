@@ -11,6 +11,14 @@
 
 
 # Telegram-IOC-Feeds
+# @suyog41
+# 2025-12-21
+
+162.232.180.50
+172.232.116.205
+
+
+# Telegram-IOC-Feeds
 # @FalconFeedsio
 # 2025-12-20
 
