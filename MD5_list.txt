@@ -10,6 +10,23 @@
 ###############################################################################
 
 
+# Telegram-IOC-Feeds
+# @suyog41
+# 2025-12-22
+
+88741c78143c140faed244b0ff921272
+95f2ab2edfba233b80ed68d7cde7a949
+d23e234ed9e7ffdb7b019976ad524acf
+8f16969d7a0d1fde1d5d7ec2dd1bb564
+
+
+# Telegram-IOC-Feeds
+# @skocherhan
+# 2025-12-22
+
+7d83c059660a41b29cbdfc4358b0513e
+
+
 # SimpleHelp-NetMonitor-INCD-40701
 # 2025-12-21
 
