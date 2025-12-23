@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# RansomHouse-Mario-INCD-40706
+# 2025-12-23
+
+9fd32ffbe2bfe0f1b9bf8c0ebd09697d
+0dcbb7c7af77efd4a2b39f2303806fcd
+7e35c5a7ff185dbff35e05fa91385cbf
+d2853c1d92c73dc047cdb1f201900a99
+
+
 # Telegram-IOC-Feeds
 # @suyog41
 # 2025-12-23
