@@ -11,6 +11,28 @@
 
 
 # Telegram-IOC-Feeds
+# @FalconFeedsio
+# 2025-12-23
+
+147.45.211.80
+45.93.20.134
+
+
+# Telegram-IOC-Feeds
+# @malwrhunterteam
+# 2025-12-23
+
+166.1.60.218
+
+
+# Telegram-IOC-Feeds
+# @smica83
+# 2025-12-23
+
+83.136.211.85
+
+
+# Telegram-IOC-Feeds
 # @suyog41
 # 2025-12-22
 
