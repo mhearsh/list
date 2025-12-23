@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# Police-Phishing-INCD-40676
+# 2025-12-23
+
+ispolic.com
+wiaqz.com
+demo.wpmajesty.com
+
+
 # Telegram-IOC-Feeds
 # @malwrhunterteam
 # 2025-12-23
