@@ -10,6 +10,20 @@
 ###############################################################################
 
 
+# CERT-Alert-1950
+# 2025-12-23
+
+usapdfa.com
+soka-nline.com
+byzentium.com
+flip-book.wpmajesty.com
+dfg456tgdg.ddns.net
+sdfe46tyg.ddns.net
+myclients.ddns.net
+dfg56yhgv.ddns.net
+uc3fc91857b30178abe85740dd5d.dl.dropboxusercontent.com
+
+
 # Police-Phishing-INCD-40676
 # 2025-12-23
 
