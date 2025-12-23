@@ -1,3 +1,14 @@
+###############################################################################
+#                                                                             #
+#                   MALICIOUS IP ADDRESSES DATABASE                           #
+#                  Command & Control / Malicious IPs                          #
+#                                                                             #
+#  Purpose: Indicators of Compromise (IOC) - Malicious IP Collection          #
+#  Format:  IPv4 and IPv6 addresses                                           #
+#  Usage:   Network filtering, firewall rules, threat blocking                #
+#                                                                             #
+###############################################################################
+
 
 # Telegram-IOC-Feeds
 # @FalconFeedsio
