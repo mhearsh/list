@@ -12,6 +12,13 @@
 
 # Telegram-IOC-Feeds
 # @malwrhunterteam
+# 2025-12-23
+
+b591bfbab57cc69ce985fbc426002ef00826605257de0547f20ebcfecc3724c2
+
+
+# Telegram-IOC-Feeds
+# @malwrhunterteam
 # 2025-12-22
 
 d4eb4ff02df659fdeec17d36b77084627469623bb3c7d16383d257404b52d1c3
