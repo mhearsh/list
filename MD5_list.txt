@@ -10,6 +10,17 @@
 ###############################################################################
 
 
+# Telegram-IOC-Feeds
+# @skocherhan @naumovax @suyog41
+# 2025-12-24
+
+a0f723e65bdd8a27fb5dc0010409224e
+bc2b689730b74966bcbb2d58f492959f
+139d75fb471239107fedbcbed7a3cc52
+7fd203e5023eaf5050818fc0f7df89ce
+250040ed2878619b31bb411c31aff53a
+
+
 # CERT-Alert-1950
 # 2025-12-23
 

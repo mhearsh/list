@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# Telegram-IOC-Feeds
+# @malwrhunterteam @ShadowChasing1
+# 2025-12-24
+
+84363809a16939c41a6766373a033c9ddb257c719b9ca59abe79e68dcfe80ae6
+0d2c1adf36df47199ee1ca42417660ac5027f77671d4f3c59cce0c23d94e25f8
+a2d4323628a3e0b8baca3a8aea85c8482c47078ef8933f4c25d6e36dfbcf0f6b
+
+
 # CERT-Alert-1950
 # 2025-12-23
 
