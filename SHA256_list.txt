@@ -11,6 +11,13 @@
 
 
 # Telegram-IOC-Feeds
+# @akudryk007
+# 2025-12-25
+
+d792ec4dc1e5fca5dac1f612d86168f36b701e44ea4d13f4cc79b308644f3724
+
+
+# Telegram-IOC-Feeds
 # @malwrhunterteam @ShadowChasing1
 # 2025-12-24
 
