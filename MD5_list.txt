@@ -10,6 +10,26 @@
 ###############################################################################
 
 
+# Phishing-Infrastructure-INCD-40715
+# 2025-12-25
+
+5f8c6e6b1081487e8b546ab326243771
+b6c6c5212f20262a708ff1dfe3de10ed
+b3e7e1eedd8e502fb9a5a512944b30cb
+3f2cb64532110ec9387a8ac9d08dce16
+67991ce76f09043854479bf9eae440ef
+28129921ed134f29653691ffc6e600ff
+
+
+# Ink-Dragon-INCD-40714
+# 2025-12-25
+
+a83639e65bf14d8a1a1dcbbbbc96e05a
+293d4db492cdea1da4f4a3b58e83331f
+2965ddbcd11a08a3ca159af187ef754c
+238206aec34cedba2910c1fb2a997151
+
+
 # Telegram-IOC-Feeds
 # @skocherhan
 # 2025-12-25

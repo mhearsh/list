@@ -10,6 +10,26 @@
 ###############################################################################
 
 
+# Phishing-Infrastructure-INCD-40715
+# 2025-12-25
+
+e7bbd9aa69ec4e60bf53cb5de464aa5165fd763f
+4818df16ad16d666ed536e8cad9f6f781a63ced8
+8a6f67eebc74c8233f7c3af89f194f021cff2805
+435130c3267e9648111e5ee95fcd123198d03994
+66d1dcd5e165fd611445c9b624fcd693bc1a3ed3
+b646742573f7a104f1d83ab6a5dcbd8c6b417370
+
+
+# Ink-Dragon-INCD-40714
+# 2025-12-25
+
+b5cdb3a67908b9ec8c96aabdceb6788841097820
+300bcd3a8a0a5a0597b8e469ab4e2f4c86aa4434
+1c85aa9f61d92cfb9107b8ec5303ed60990509b1
+45c70be2c3107e72fcf8f3c34699f7d52e011abc
+
+
 # CERT-Alert-1950
 # 2025-12-23
 
