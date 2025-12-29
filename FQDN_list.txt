@@ -10,6 +10,22 @@
 ###############################################################################
 
 
+# Qilin-Ransomware-INCD-40725
+# 2025-12-29
+
+cloudflariz.com
+
+
+# COOSEAGROUP-Ransomware-INCD-40724
+# 2025-12-29
+
+upxsystems.com
+occoman.com
+elfinindia.com
+elyeso.ip-ddns.com
+republicadominica2025.ip-ddns.com
+
+
 # Telegram-IOC-Feeds
 # 2025-12-25
 
