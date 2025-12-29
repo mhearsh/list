@@ -10,6 +10,21 @@
 ###############################################################################
 
 
+# Qilin-Ransomware-INCD-40725
+# 2025-12-29
+
+aa62bc55bd1ca782c471fe0d057ec4f6
+
+
+# COOSEAGROUP-Ransomware-INCD-40724
+# 2025-12-29
+
+bf75e3a378d8a7cfeb9279d84c389488
+cec66b066886611e069c9335c95e7512
+d09d036ffbfdc4c73b3382a4911880c0
+2ba8bc980e3a265bbbea25cad2be7540
+
+
 # Phishing-Infrastructure-INCD-40715
 # 2025-12-25
 
