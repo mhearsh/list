@@ -10,6 +10,19 @@
 ###############################################################################
 
 
+# Telegram-IOC-Feeds
+# @skocherhan @suyog41 @RakeshKrish12
+# 2025-12-29
+
+c746af4d7d3b51ad39586802e9394bad
+8785fb217213e116aad49fe0f2f2b072
+60b0e928a22d2710c945ae255de9adea
+b51568fb3a22f9816fe412dc01e3ae34
+2013f585541386405a6af8949809fffa
+242463ea674d06c4d4715ef8ba3864fc
+b15db57aa21680e1c6f38c786ccc4dbe
+
+
 # Qilin-Ransomware-INCD-40725
 # 2025-12-29
 
