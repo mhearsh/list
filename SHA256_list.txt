@@ -10,6 +10,21 @@
 ###############################################################################
 
 
+# ClickFix-Campaign-INCD-40729
+# 2025-12-30
+
+655289bab85bf42ebfba2bee493ff705ff12e12341170463062eda0425c31270
+f3f7213da738ee4dab776986d5482d3baa9defa6bff9143ceca6305d97a64e1f
+
+
+# Phishing-Campaign-INCD-40728
+# 2025-12-30
+
+5748c4a7b2c28021706f47ae099257e1c00e60afcc4ecbe9f090fbf9eab859f4
+d45c795dd777c538d7beb08ec9caa68a6a2eeabc75fb030f30b32ef4c3959a0d
+536b910405fb7edb3ba2d632a629d646819d45a8a6381031afb1f1fa56cfd472
+
+
 # Telegram-IOC-Feeds
 # @akudryk007
 # 2025-12-29

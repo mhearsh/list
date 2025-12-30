@@ -10,6 +10,21 @@
 ###############################################################################
 
 
+# ClickFix-Campaign-INCD-40729
+# 2025-12-30
+
+83d51ab413efe404263c55d38437e7207ef5f87e
+88977d69d4dd801a13d4b6f9a628b713d8682057
+
+
+# Phishing-Campaign-INCD-40728
+# 2025-12-30
+
+79d23df72fc871839848c7e7e3638ff0f64abfb1
+fe899977ad00da91aa4da03075ee53fa1b4bafb6
+92c957be57fc1e65f20c934db7572a11d7056918
+
+
 # Qilin-Ransomware-INCD-40725
 # 2025-12-29
 

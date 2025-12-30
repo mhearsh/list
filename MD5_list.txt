@@ -10,6 +10,21 @@
 ###############################################################################
 
 
+# ClickFix-Campaign-INCD-40729
+# 2025-12-30
+
+66e3fce0b82f090e8d376a533a318f23
+94b406f0aed45ad3a39dede68e9ecf76
+
+
+# Phishing-Campaign-INCD-40728
+# 2025-12-30
+
+f1c1311635d1917af725051e8a25e9ab
+e8b1fd91bb3db1713078ed23c524390a
+d5b5622be1621badfd6a672bc491aad9
+
+
 # Telegram-IOC-Feeds
 # @romonlyht
 # 2025-12-30
