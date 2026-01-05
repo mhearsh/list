@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# APT36-IOCs-INCD-40742
+# 2026-01-04
+
+innlive.in
+drjagrutichavan.com
+
+
 # Telegram-IOC-Feeds
 # @Fact_Finder03 @smica83 @kubotaa3 @urldna_bot @illegalFawn @c9lab_soc
 # 2025-12-30
