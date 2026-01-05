@@ -10,6 +10,23 @@
 ###############################################################################
 
 
+# BQTLock-Ransomware-INCD-40746
+# 2026-01-05
+
+yywhylvqeqynzik6ibocb53o2nat7lmzn5ynjpar3stndzcgmy6dkgid.onion
+
+
+# Gh0st-RAT-Impersonation-Campaign-INCD-40743
+# 2026-01-04
+
+xiazailianjieoss.com
+fs-im-kefu.7moor-fs1.com
+xiaobaituziha.com
+yqmqhjgn.com
+djbzdhygj.com
+xiaofeige.icu
+1235saddfs.icu
+
 # APT36-IOCs-INCD-40742
 # 2026-01-04
 
