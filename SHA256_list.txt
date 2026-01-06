@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# Telegram-IOC-Feeds
+# @malwrhunterteam
+# 2025-12-30
+
+13d2a8cc4f0371786724a1c76452ef1b819de90455b80ef01461f09cf8ae5f87
+f655c276abb6f67aa3d279e0a33fa654c6924e126bdaf2493f5371b698811a4a
+
+
 # BQTLock-Ransomware-INCD-40746
 # 2026-01-05
 
