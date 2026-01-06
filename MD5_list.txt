@@ -10,6 +10,18 @@
 ###############################################################################
 
 
+# Telegram-IOC-Feeds
+# @JAMESWT_WT @suyog41
+# 2025-12-31
+
+9e4e8a03031260cc533ebeb2fca575b8
+ed179eedf4f2176dde5cdc009d29e5fe
+69fd71031174fc9260851073c0795c6b
+3aba6f83b8c934fb2f201590f40572f2
+3634c2879d8acb867d1d27c52313ee1a
+5520bfda4b490f9564711203382fd3a3
+
+
 # BQTLock-Ransomware-INCD-40746
 # 2026-01-05
 
