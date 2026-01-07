@@ -10,6 +10,96 @@
 ###############################################################################
 
 
+# ShadyPanda-APT-INCD-40789
+# 2026-01-07
+
+extensionplay.com
+yearnnewtab.com
+cgatgpt.net
+dergoodting.com
+cleanmasters.store
+gotocdn.com
+
+# HoneyMyte-APT-INCD-40790
+# 2026-01-07
+
+avocadomechanism.com
+potherbreference.com
+
+# SMS-Phishing-Campaign-INCD-40791
+# 2026-01-07
+
+icloud.com-remove-device.top
+flde-lity.com-lg.icu
+michigan.gov-etczhh.cc
+utah.gov-etcfr.win
+irs.gov-tax.cfd
+irs.org.gov-tax.icu
+anpost.com-pay.online
+kveesh6.il-363.com
+dhl.de-yiore.store
+usps.com-posewxts.top
+e-zpass.com-etcha.win
+usps.com-isjjz.top
+flde-lity.com-jw.icu
+e-zpass.com-tollbiler.icu
+e-zpassny.com-pvbfd.win
+e-zpass.com-statementzz.world
+e-zpass.com-emea.top
+pikepass.com-chargedae.world
+e-zpass.com-etcoz.win
+e-zpassny.com-kien.top
+e-zpassny.com-xxai.vip
+sunpass.com-hbg.vip
+usps.com-hzasr.bid
+e-zpassny.gov-tosz.live
+michigan.gov-imky.win
+e-zpass.org-yga.xin
+e-zpass.org-qac.xin
+ezpass.org-pvwh.xin
+ezpassnj.gov-mhmt.xin
+e-zpassny.gov-hzwy.live
+irs.gov-addpayment.info
+irs.gov-mo.net
+israeipost.co-ykk.vip
+canpost.id-89b98.com
+anpost.id-39732.info
+il-363.com
+com-posewxts.top
+com-jw.icu
+com-emea.top
+gov-mo.net
+com-etcoz.win
+gov-imky.win
+gov-hzwy.live
+gov-etcfr.win
+com-pay.online
+com-tollbiler.icu
+com-statementzz.world
+com-chargedae.world
+gov-tosz.live
+id-39732.info
+gov-addpayment.info
+com-lg.icu
+gov-tax.cfd
+com-pvbfd.win
+com-xxai.vip
+com-hzasr.bid
+id-89b98.com
+gov-tax.icu
+de-yiore.store
+org-yga.xin
+org-qac.xin
+org-pvwh.xin
+gov-mhmt.xin
+com-remove-device.top
+com-etcha.win
+com-isjjz.top
+com-hbg.vip
+co-ykk.vip
+gov-etczhh.cc
+com-kien.top
+
 # Telegram-IOC-Feeds
 # @romonlyht @urldna_bot @skocherhan @smica83 @CarlyGriggs13 @JAMESWT_WT @suyog41 @MalwareHawk @illegalFawn @TeamDreier @fbgwls245 @johnk3r @malwrhunterteam @harugasumi @SarlackLab @masaomi346 @yvesago @Anlegerhelfer
 # 2026-01-06 to 2026-01-07
