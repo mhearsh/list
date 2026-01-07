@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# Telegram-IOC-Feeds
+# @smica83 @malwrhunterteam
+# 2026-01-06 to 2026-01-07
+
+9c3a440c5b4dd36f5ac69f1a5d1b122dd7423aac36af6e01fa4e202532361d9d
+9f0dee619a75f144e77177679279b88daaa6c374bcfc7308b522dc43edc314ae
+
+
 # Patchwork-APT-IOCs-INCD-40749
 # 2026-01-06
 
