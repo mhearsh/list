@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# HoneyMyte-APT-INCD-40790
+# 2026-01-07
+
+e44657710d6e525f6807eb32ae74ba8fa4578574e60bd82774bf4b735adf70eb
+9f882afd44ed1e9ec1875dd5e1362bb2216815a84b3709b7bb72b1206c5e7b86
+13c4583048ebee27a2983feab18e6e4fdcb676f2c4f9880e6433839cc2d520bb
+
+
 # Telegram-IOC-Feeds
 # @smica83 @malwrhunterteam
 # 2026-01-06 to 2026-01-07
