@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Active-Phishing-Campaign-INCD-40799
+# 2026-01-11
+
+159.198.66.153
+159.198.68.25
+161.35.228.250
+
 # Telegram-IOC-Feeds
 # @romonlyht @skocherhan @smica83 @harugasumi @SarlackLab
 # 2026-01-06 to 2026-01-07
