@@ -10,6 +10,21 @@
 ###############################################################################
 
 
+# Phishing-Spyware-INCD-40800
+# 2026-01-11
+
+8eh18dhq9wd.click
+2fa-bns.com
+wmk77.com
+
+# Phishing-Campaign-INCD-40801
+# 2026-01-11
+
+2fa.valoufroo.in.net
+valoufroo.in.net
+integralsm.cl
+absoluteprintgroup.com
+
 # ShadyPanda-APT-INCD-40789
 # 2026-01-07
 
