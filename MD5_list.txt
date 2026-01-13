@@ -10,6 +10,18 @@
 ###############################################################################
 
 
+# Telegram-IOC-Feeds
+# @suyog41 @JRoosen @PaduckLee @skocherhan
+# 2026-01-07 to 2026-01-11
+
+1dab533ea146f1deb3ab74de5796aa85
+511a2d7cc35ef965e99c3b3c33dac431
+3db74b74f741ffb25261086188a9934c
+d762a79258667ee965a32b2983a4339e
+640f54bb6d29d98d92344136fee49d07
+7a1de3fc204f3e9d1c46cda756e99582
+c463ae1ba749ad0b99a51c57cefa018b
+
 # CERT-Alert-INCD-1882
 # 2026-01-08
 
