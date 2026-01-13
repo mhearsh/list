@@ -79,25 +79,26 @@ jobs:
           echo "Fetching ThreatFox data (last 48 hours)..."
           curl -s https://threatfox.abuse.ch/export/csv/recent/ -o /tmp/threatfox_raw.csv
 
+          # CSV Structure: col3=IOC value, col4=IOC type
           # Extract domains (ioc_type = domain)
-          grep ',domain,' /tmp/threatfox_raw.csv | \
-            cut -d',' -f6 | tr -d '"' | \
+          grep -v '^#' /tmp/threatfox_raw.csv | grep '"domain"' | \
+            cut -d',' -f3 | tr -d '"' | tr -d ' ' | \
             sort -u > /tmp/threatfox_domains.txt
 
-          # Extract IPs (ioc_type = ip:port)
-          grep ',ip:port,' /tmp/threatfox_raw.csv | \
-            cut -d',' -f6 | tr -d '"' | \
+          # Extract IPs (ioc_type = ip:port) - remove port
+          grep -v '^#' /tmp/threatfox_raw.csv | grep '"ip:port"' | \
+            cut -d',' -f3 | tr -d '"' | tr -d ' ' | \
             sed 's/:.*$//' | \
             sort -u > /tmp/threatfox_ips.txt
 
           # Extract SHA256 hashes
-          grep ',sha256_hash,' /tmp/threatfox_raw.csv | \
-            cut -d',' -f6 | tr -d '"' | \
+          grep -v '^#' /tmp/threatfox_raw.csv | grep '"sha256_hash"' | \
+            cut -d',' -f3 | tr -d '"' | tr -d ' ' | \
             sort -u > /tmp/threatfox_sha256.txt
 
           # Extract MD5 hashes
-          grep ',md5_hash,' /tmp/threatfox_raw.csv | \
-            cut -d',' -f6 | tr -d '"' | \
+          grep -v '^#' /tmp/threatfox_raw.csv | grep '"md5_hash"' | \
+            cut -d',' -f3 | tr -d '"' | tr -d ' ' | \
             sort -u > /tmp/threatfox_md5.txt
 
           echo "ThreatFox: $(wc -l < /tmp/threatfox_domains.txt) domains, $(wc -l < /tmp/threatfox_ips.txt) IPs"
