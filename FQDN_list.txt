@@ -914,7 +914,6 @@ viral123.org
 tribelio.page
 fornyelse-sundhedskort-net.com
 ns3.1domainregistry.com
-bu7zr6fotni3qxxoxlcmpikwtp5mjzy7jkxt7akflnm2kwkbdtgtjuid.onion
 clemson-university.webflow.io
 minacu.go.gov.br
 atomicwallet-app.com
@@ -999,7 +998,6 @@ dzutwp.cn
 twxxfxx.cn
 iqwuiib.cn
 kxstl.iqwuiib.cn
-yvykpee.cn
 tx4h1lbrn.localto.net
 lpniqsb.cn
 hbattba.cn
@@ -1219,14 +1217,10 @@ stakingsreward.one
 eethusdc4.top
 attttxcvhh.weebly.com
 register-purk.live
-bj.baidubce.com
-su.baidubce.com
-digitalneeraj.in.net
 remont-center.ru.com
 sarahl.ru.com
 koz2.in.net
 koz1.in.net
-dianqi1.jiayongdianqi.xyz
 retool.bondex.app
 tex-ttt.weebly.com
 hyperliquidfilters.xyz
@@ -1270,7 +1264,6 @@ trumptokenairdrop.com
 stakingreward.dev
 209494.com
 app-puffer.xyz
-twxxfxx.cn
 ublack.me
 app-myx.finance
 soshandorangevocal.godaddysites.com
@@ -1285,11 +1278,9 @@ eqsctme.cn
 parafbk.cn
 ycenlw.cn
 nlwcfoz.cn
-eiiqray.cn
 vfemwol.cn
 twvvkvv.cn
 lfw2duh2f.cn
-tmsert.cn
 hbvvkvk.cn
 xrsviofu.hbvvkvk.cn
 qlqv.cn
@@ -1297,7 +1288,6 @@ kmpdspl.cn
 fslxgwt.cn
 lsuablz.cn
 twwwuww.cn
-cutgpj.cn
 kabuto.solgrid.trade
 hyperliquid-dash.org
 jxxnuhx.cn
@@ -1402,7 +1392,6 @@ sadxssaw-41989.portmap.host
 shinkopqili.com
 syqozgaming.weebly.com
 whitedate.net
-uomwebmail.weebly.com
 
 # Telegram-IOC-Feeds
 # @CarlyGriggs13 @urldna_bot @SarlackLab @malwrhunterteam @mayank_cti @smica83 @TeamDreier @ViriBack
@@ -1459,7 +1448,6 @@ fun-referal-1jolxind.lol
 jsonkeeper.com
 scan.page
 metamask-secureverify.com
-sarahl.ru.com
 elijah.ru.com
 soft.mydiv.net
 web-ledger-live.onrender.com
@@ -1639,7 +1627,6 @@ xiaofeige.icu
 # APT36-IOCs-INCD-40742
 # 2026-01-04
 
-innlive.in
 drjagrutichavan.com
 
 
@@ -1687,7 +1674,6 @@ hhyfitk.cn
 vaqnzfp.cn
 qflskgl.cn
 rozhbzy.cn
-wbuhzij.cn
 twttwtt.cn
 lys8ziut.cn
 erxaey.cn
@@ -1697,8 +1683,6 @@ qefrmdm.cn
 tsukugj.cn
 mbippd.cn
 jpsjmyfoj.0q94ei9a.cn
-dzutwp.cn
-twxxfxx.cn
 officedinisacombr.weebly.com
 elmtrce.cyou
 garnevf.cyou
@@ -1716,13 +1700,10 @@ scirpvu.cyou
 # 2025-12-30
 
 resa.in
-bj.baidubce.com
 at.ply.gg
-su.baidubce.com
 gl.ply.gg
 upscholarship.co.com
 aromatic-salad.sa.com
-remont-center.ru.com
 fgvhbjf.weebly.com
 gignimis.weebly.com
 eyadcrypto.linkpc.net
@@ -1732,7 +1713,6 @@ marveloussolutionenterprise.com
 amazon.jpkaimon.com
 neondrift.cfd
 lpccdm.cn
-dbiboyy.cn
 shikhu127-bit.github.io
 twuuzuu.cn
 oagchkf.cn
@@ -1740,7 +1720,6 @@ xuzrfep.cn
 pairs.deakeshop.com
 lyrium.cfd
 twwwgww.cn
-fslxgwt.cn
 djfcalu.cn
 wcoswaj.cn
 twxxhxx.cn
@@ -1771,7 +1750,6 @@ barbermoo.today
 famtel.weebly.com
 learn-coinbasspro.framer.media
 radiantyard.com
-amusedagilescooter.co
 agileravioli.com
 bitekeyboardrat.co
 fascinatedbanjo.com
@@ -2247,7 +2225,6 @@ discord.bond
 
 ouythnmk.weebly.com
 bafybeibi3azpv4l5jnrkaudilpvkqxjtdhpateq642uaous4mckedowr3u.ipfs.dweb.link
-ipfs.io
 roblox.al
 
 
@@ -2281,14 +2258,13 @@ simd.allocated.live
 # @malwrhunterteam
 # 2025-12-20
 
-github.com/Mafin111/MafinREP111
+github.com
 
 
 # Telegram-IOC-Feeds
 # @urldna_bot
 # 2025-12-20
 
-reviewinvoiceeek.weebly.com
 
 
 # Telegram-IOC-Feeds
@@ -2555,7 +2531,6 @@ brwebssl.icu
 bugildbett.top
 buildacampervan.com
 bumbleshrimp.com
-byzentium.com
 c.jermikro.com
 c.undiscord.com
 c.untwitter.com
@@ -2677,7 +2652,6 @@ ddnsguru.com
 decreaserid.world
 deepymouthi.sbs
 demblog797.xyz
-demo.wpmajesty.com
 devocional.click
 diamondtrustshipping.com
 did.li
@@ -2999,7 +2973,6 @@ iplogger.co
 ironloxp.live
 irritaspec.xyz.parsvana-grp.biz
 is.gd
-ispolic.com
 israetax.com
 itcfabkcy.streetpiss.com
 itechnnos.com
@@ -3077,7 +3050,6 @@ m-r.pw
 macawiwmaacckuow.xyz
 mail.111ir.net
 mail.ctdi.com.ph
-mail.ctdi.com.ph:587
 mainrepo10.azurewebsites.net
 malebachhew2506090936.onlyoffice.com
 manage.keepasses.com
@@ -3618,7 +3590,6 @@ wellnessfirstgroup.azurewebsites.net
 wellnessglowluth.azurewebsites.net
 wessper.com
 whiskymuseum.at
-wiaqz.com
 winmtr.org
 woatqkdvmrsu.com
 word.msapp.workers.dev
@@ -3675,50 +3646,6 @@ zestmodp.top
 zeusistalking.com
 zeusistalking.io
 zeusistalking.net
-zeusistalking.com
-rgud-group.net
-rgud-group.com
-cyberflood.io
-cybercourt.io
-pro-today.org
-il-cert.net
-Api.next.eventsrealm.com
-onlinelive.info 
-zeusistalking.io 
-zeusistalking.net 
-zeusistalking.com 
-rgud-group.net  
-rgud-group.com  
-cyberflood.io 
-cybercourt.io
-pro-today.org 
-il-cert.net
-onlineleumi.com
-vacationtogotravels.net
-rafaelsupport.com
-rafaelconnect.com
-clck.ru
-lxp.tv
-did.li
-cal-il.com
-ilcal-il.es
-ilcal.es
-ilupdate.es
-rebrand.ly
-support-teamil.com
-cutt.iy
-diamondtrustshipping.com
-diamondtrustshipping.com
-jpo.vux.mybluehost.me
-m-r.pw
-ispolic.com
-wiaqz.com
-demo.wpmajesty.com
-vote-moonshots.info
-vote-tokensworks-com.pages.dev
-votes-trovemarkets.pages.dev
-web3sale.live
-www-kra42at.ru
 tuplyunified.pages.dev
 us05weboszoomworkspaceresolve-live-virtual-meet4s98fdxoe52.pages.dev
 usenast.xyz
@@ -3731,8 +3658,6 @@ vro14roz.pages.dev
 inprojectconstructions.rested.com.de
 bootcamptg.org
 stratioai.org
-magicallyday.com
-processplanet.org
 tdmsecglobal.live
 tdmseclabs.pub
 tdm-sec.live
@@ -3811,22 +3736,11 @@ form-direct.live
 tm-blog.website
 forms-gle.online
 drivemyfile.com
-tr.ee
 verificaintesa.it
 login.tzrhfja.cn
 lcp.pxv.mybluehost.me
-osirisbm3357xrccnid23nlyuqwzbgqheaei6dxvyi34tbkqr3bmvfid.onion
 hypet5.site
 uveexc.com
-usapdfa.com
-soka-nline.com
-byzentium.com
-flip-book.wpmajesty.com
-dfg456tgdg.ddns.net
-sdfe46tyg.ddns.net
-myclients.ddns.net
-dfg56yhgv.ddns.net
-uc3fc91857b30178abe85740dd5d.dl.dropboxusercontent.com
 bellsouth-att-sign-in-4e0e0b.webflow.io
 shinkinopjc.com
 tax-statments-2025.prettypropertiesllc.com
