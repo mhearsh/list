@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# GoBruteforcer-Malware-INCD-40805
+# 2026-01-13
+
+cc9dde367a1e7ac2c1a7611bdfbbcbc3
+744a6b31a68e74c782705cbeed39353d
+2c32ba61a6ac6721ed6f5a76b1fcbd7a
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-01-13

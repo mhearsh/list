@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# GoBruteforcer-Malware-INCD-40805
+# 2026-01-13
+
+fi.warmachine.su
+xyz.yuzgebhmwu.ru
+pool.breakfastidentity.ru
+pandaspandas.pm
+my.magicpandas.fun
+
 # Telegram-IOC-Feeds
 # @urldna_bot @CarlyGriggs13 @skocherhan @Fact_Finder03
 # 2026-01-13
