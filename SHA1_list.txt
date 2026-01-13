@@ -10,6 +10,17 @@
 ###############################################################################
 
 
+# Additional-Active-Phishing-Campaign-INCD-40803
+# 2026-01-12
+
+6bad2c491e9101796ae0530701b23f05193c7ca7
+b4e787c74dd6ba8067ce69eaea00c19866f3b138
+b9b4d3f3095cd87c634ece27f14bd59a6d425375
+17235aff5838668e5adbfb6eb431d2a5e0da13f4
+ab4edcc5f568c03f7912f363259d4c105c5970e1
+b4f5555d5b934b927de4950131952e17e7194665
+41cb80cbc998007d8e0fd004884b1e31ecbf975d
+
 # Active-Phishing-Campaign-INCD-40799
 # 2026-01-11
 
