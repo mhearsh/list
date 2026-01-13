@@ -1,0 +1,227 @@
+name: Auto-Fetch IOCs Daily
+
+on:
+  schedule:
+    # Runs daily at 06:00 UTC (09:00 Israel Time)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-iocs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch URLhaus malicious URLs
+        run: |
+          echo "Fetching URLhaus data..."
+          curl -s https://urlhaus.abuse.ch/downloads/text_recent/ -o /tmp/urlhaus_raw.txt
+
+          # Extract domains from URLs
+          grep -oE 'https?://[^/]+' /tmp/urlhaus_raw.txt | \
+            sed 's|https\?://||' | \
+            sed 's|:.*||' | \
+            grep -v '^[0-9]' | \
+            sort -u > /tmp/urlhaus_domains.txt
+
+          # Extract IPs from URLs
+          grep -oE 'https?://[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+' /tmp/urlhaus_raw.txt | \
+            sed 's|https\?://||' | \
+            sort -u > /tmp/urlhaus_ips.txt
+
+          echo "Found $(wc -l < /tmp/urlhaus_domains.txt) domains"
+          echo "Found $(wc -l < /tmp/urlhaus_ips.txt) IPs"
+
+      - name: Fetch MalwareBazaar SHA256 hashes
+        run: |
+          echo "Fetching MalwareBazaar data..."
+          curl -s https://bazaar.abuse.ch/export/txt/sha256/recent/ | \
+            sed 's/\r$//' | \
+            grep -v '^#' | grep -v '^$' | \
+            head -100 > /tmp/bazaar_sha256.txt
+
+          echo "Found $(wc -l < /tmp/bazaar_sha256.txt) SHA256 hashes"
+
+      - name: Fetch MalwareBazaar MD5 hashes
+        run: |
+          echo "Fetching MalwareBazaar MD5 data..."
+          curl -s https://bazaar.abuse.ch/export/txt/md5/recent/ | \
+            sed 's/\r$//' | \
+            grep -v '^#' | grep -v '^$' | \
+            head -100 > /tmp/bazaar_md5.txt
+
+          echo "Found $(wc -l < /tmp/bazaar_md5.txt) MD5 hashes"
+
+      - name: Fetch MalwareBazaar SHA1 hashes
+        run: |
+          echo "Fetching MalwareBazaar SHA1 data..."
+          curl -s https://bazaar.abuse.ch/export/txt/sha1/recent/ | \
+            sed 's/\r$//' | \
+            grep -v '^#' | grep -v '^$' | \
+            head -100 > /tmp/bazaar_sha1.txt
+
+          echo "Found $(wc -l < /tmp/bazaar_sha1.txt) SHA1 hashes"
+
+      - name: Update FQDN list
+        run: |
+          if [ -s /tmp/urlhaus_domains.txt ]; then
+            TODAY=$(date +%Y-%m-%d)
+            {
+              echo ""
+              echo "# Auto-Fetch-URLhaus"
+              echo "# $TODAY"
+              echo ""
+              cat /tmp/urlhaus_domains.txt
+            } > /tmp/fqdn_block.txt
+
+            # Remove duplicates (domains already in the file)
+            while read domain; do
+              if ! grep -qxF "$domain" FQDN_list.txt; then
+                echo "$domain" >> /tmp/fqdn_new.txt
+              fi
+            done < /tmp/urlhaus_domains.txt
+
+            if [ -s /tmp/fqdn_new.txt ]; then
+              {
+                echo ""
+                echo "# Auto-Fetch-URLhaus"
+                echo "# $TODAY"
+                echo ""
+                cat /tmp/fqdn_new.txt
+              } > /tmp/fqdn_insert.txt
+              sed -i "11r /tmp/fqdn_insert.txt" FQDN_list.txt
+              echo "Added $(wc -l < /tmp/fqdn_new.txt) new domains"
+            else
+              echo "No new domains to add"
+            fi
+          fi
+
+      - name: Update Bad IP Address list
+        run: |
+          if [ -s /tmp/urlhaus_ips.txt ]; then
+            TODAY=$(date +%Y-%m-%d)
+
+            # Remove duplicates
+            while read ip; do
+              if ! grep -qxF "$ip" Bad_IP_Address.txt; then
+                echo "$ip" >> /tmp/ip_new.txt
+              fi
+            done < /tmp/urlhaus_ips.txt
+
+            if [ -s /tmp/ip_new.txt ]; then
+              {
+                echo ""
+                echo "# Auto-Fetch-URLhaus"
+                echo "# $TODAY"
+                echo ""
+                cat /tmp/ip_new.txt
+              } > /tmp/ip_insert.txt
+              sed -i "11r /tmp/ip_insert.txt" Bad_IP_Address.txt
+              echo "Added $(wc -l < /tmp/ip_new.txt) new IPs"
+            else
+              echo "No new IPs to add"
+            fi
+          fi
+
+      - name: Update SHA256 list
+        run: |
+          if [ -s /tmp/bazaar_sha256.txt ]; then
+            TODAY=$(date +%Y-%m-%d)
+
+            # Remove duplicates
+            while read hash; do
+              if ! grep -qixF "$hash" SHA256_list.txt; then
+                echo "$hash" >> /tmp/sha256_new.txt
+              fi
+            done < /tmp/bazaar_sha256.txt
+
+            if [ -s /tmp/sha256_new.txt ]; then
+              {
+                echo ""
+                echo "# Auto-Fetch-MalwareBazaar"
+                echo "# $TODAY"
+                echo ""
+                cat /tmp/sha256_new.txt
+              } > /tmp/sha256_insert.txt
+              sed -i "11r /tmp/sha256_insert.txt" SHA256_list.txt
+              echo "Added $(wc -l < /tmp/sha256_new.txt) new SHA256 hashes"
+            else
+              echo "No new SHA256 hashes to add"
+            fi
+          fi
+
+      - name: Update MD5 list
+        run: |
+          if [ -s /tmp/bazaar_md5.txt ]; then
+            TODAY=$(date +%Y-%m-%d)
+
+            # Remove duplicates
+            while read hash; do
+              if ! grep -qixF "$hash" MD5_list.txt; then
+                echo "$hash" >> /tmp/md5_new.txt
+              fi
+            done < /tmp/bazaar_md5.txt
+
+            if [ -s /tmp/md5_new.txt ]; then
+              {
+                echo ""
+                echo "# Auto-Fetch-MalwareBazaar"
+                echo "# $TODAY"
+                echo ""
+                cat /tmp/md5_new.txt
+              } > /tmp/md5_insert.txt
+              sed -i "11r /tmp/md5_insert.txt" MD5_list.txt
+              echo "Added $(wc -l < /tmp/md5_new.txt) new MD5 hashes"
+            else
+              echo "No new MD5 hashes to add"
+            fi
+          fi
+
+      - name: Update SHA1 list
+        run: |
+          if [ -s /tmp/bazaar_sha1.txt ]; then
+            TODAY=$(date +%Y-%m-%d)
+
+            # Remove duplicates
+            while read hash; do
+              if ! grep -qixF "$hash" SHA1_list.txt; then
+                echo "$hash" >> /tmp/sha1_new.txt
+              fi
+            done < /tmp/bazaar_sha1.txt
+
+            if [ -s /tmp/sha1_new.txt ]; then
+              {
+                echo ""
+                echo "# Auto-Fetch-MalwareBazaar"
+                echo "# $TODAY"
+                echo ""
+                cat /tmp/sha1_new.txt
+              } > /tmp/sha1_insert.txt
+              sed -i "11r /tmp/sha1_insert.txt" SHA1_list.txt
+              echo "Added $(wc -l < /tmp/sha1_new.txt) new SHA1 hashes"
+            else
+              echo "No new SHA1 hashes to add"
+            fi
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-fetch IOCs $(date +%Y-%m-%d)"
+            git push origin main
+          fi
