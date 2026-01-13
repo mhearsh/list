@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# ClickFix-Campaign
+# 2026-01-13
+
+193.36.38.237
+188.34.195.44
+138.199.156.22
+141.98.80.175
+192.124.176.103
+91.92.240.219
+
 # Telegram-IOC-Feeds
 # @CarlyGriggs13 @SarlackLab @smica83 @Metemcyber @harugasumi @Merlax_ @threatquery @skocherhan @AddressIntel @riper81 @solostalking @JAMESWT_WT @b3ard3dav3ng3r @urldna_bot
 # 2026-01-07 to 2026-01-11

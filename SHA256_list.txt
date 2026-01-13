@@ -10,6 +10,11 @@
 ###############################################################################
 
 
+# ClickFix-Campaign
+# 2026-01-13
+
+34ff2f72c191434ce5f20ebc1a7e823794ac69bba9df70721829d66e7196b044
+
 # Telegram-IOC-Feeds
 # @skocherhan @malwrhunterteam @JRoosen @ShadowChasing1
 # 2026-01-07 to 2026-01-11
