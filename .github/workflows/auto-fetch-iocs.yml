@@ -74,29 +74,77 @@ jobs:
 
           echo "Found $(wc -l < /tmp/bazaar_sha1.txt) SHA1 hashes"
 
+      - name: Fetch ThreatFox IOCs
+        run: |
+          echo "Fetching ThreatFox data (last 48 hours)..."
+          curl -s https://threatfox.abuse.ch/export/csv/recent/ -o /tmp/threatfox_raw.csv
+
+          # Extract domains (ioc_type = domain)
+          grep ',domain,' /tmp/threatfox_raw.csv | \
+            cut -d',' -f6 | tr -d '"' | \
+            sort -u > /tmp/threatfox_domains.txt
+
+          # Extract IPs (ioc_type = ip:port)
+          grep ',ip:port,' /tmp/threatfox_raw.csv | \
+            cut -d',' -f6 | tr -d '"' | \
+            sed 's/:.*$//' | \
+            sort -u > /tmp/threatfox_ips.txt
+
+          # Extract SHA256 hashes
+          grep ',sha256_hash,' /tmp/threatfox_raw.csv | \
+            cut -d',' -f6 | tr -d '"' | \
+            sort -u > /tmp/threatfox_sha256.txt
+
+          # Extract MD5 hashes
+          grep ',md5_hash,' /tmp/threatfox_raw.csv | \
+            cut -d',' -f6 | tr -d '"' | \
+            sort -u > /tmp/threatfox_md5.txt
+
+          echo "ThreatFox: $(wc -l < /tmp/threatfox_domains.txt) domains, $(wc -l < /tmp/threatfox_ips.txt) IPs"
+          echo "ThreatFox: $(wc -l < /tmp/threatfox_sha256.txt) SHA256, $(wc -l < /tmp/threatfox_md5.txt) MD5"
+
+      - name: Merge all domain sources
+        run: |
+          cat /tmp/urlhaus_domains.txt /tmp/threatfox_domains.txt 2>/dev/null | \
+            sort -u > /tmp/all_domains.txt
+          echo "Total unique domains: $(wc -l < /tmp/all_domains.txt)"
+
+      - name: Merge all IP sources
+        run: |
+          cat /tmp/urlhaus_ips.txt /tmp/threatfox_ips.txt 2>/dev/null | \
+            sort -u > /tmp/all_ips.txt
+          echo "Total unique IPs: $(wc -l < /tmp/all_ips.txt)"
+
+      - name: Merge all SHA256 sources
+        run: |
+          cat /tmp/bazaar_sha256.txt /tmp/threatfox_sha256.txt 2>/dev/null | \
+            sort -u > /tmp/all_sha256.txt
+          echo "Total unique SHA256: $(wc -l < /tmp/all_sha256.txt)"
+
+      - name: Merge all MD5 sources
+        run: |
+          cat /tmp/bazaar_md5.txt /tmp/threatfox_md5.txt 2>/dev/null | \
+            sort -u > /tmp/all_md5.txt
+          echo "Total unique MD5: $(wc -l < /tmp/all_md5.txt)"
+
       - name: Update FQDN list
         run: |
-          if [ -s /tmp/urlhaus_domains.txt ]; then
+          if [ -s /tmp/all_domains.txt ]; then
             TODAY=$(date +%Y-%m-%d)
-            {
-              echo ""
-              echo "# Auto-Fetch-URLhaus"
-              echo "# $TODAY"
-              echo ""
-              cat /tmp/urlhaus_domains.txt
-            } > /tmp/fqdn_block.txt
 
             # Remove duplicates (domains already in the file)
+            > /tmp/fqdn_new.txt
             while read domain; do
               if ! grep -qxF "$domain" FQDN_list.txt; then
                 echo "$domain" >> /tmp/fqdn_new.txt
               fi
-            done < /tmp/urlhaus_domains.txt
+            done < /tmp/all_domains.txt
 
             if [ -s /tmp/fqdn_new.txt ]; then
               {
                 echo ""
-                echo "# Auto-Fetch-URLhaus"
+                echo "# Auto-Fetch-ThreatIntel"
+                echo "# URLhaus + ThreatFox"
                 echo "# $TODAY"
                 echo ""
                 cat /tmp/fqdn_new.txt
@@ -110,20 +158,22 @@ jobs:
 
       - name: Update Bad IP Address list
         run: |
-          if [ -s /tmp/urlhaus_ips.txt ]; then
+          if [ -s /tmp/all_ips.txt ]; then
             TODAY=$(date +%Y-%m-%d)
 
             # Remove duplicates
+            > /tmp/ip_new.txt
             while read ip; do
               if ! grep -qxF "$ip" Bad_IP_Address.txt; then
                 echo "$ip" >> /tmp/ip_new.txt
               fi
-            done < /tmp/urlhaus_ips.txt
+            done < /tmp/all_ips.txt
 
             if [ -s /tmp/ip_new.txt ]; then
               {
                 echo ""
-                echo "# Auto-Fetch-URLhaus"
+                echo "# Auto-Fetch-ThreatIntel"
+                echo "# URLhaus + ThreatFox"
                 echo "# $TODAY"
                 echo ""
                 cat /tmp/ip_new.txt
@@ -137,20 +187,22 @@ jobs:
 
       - name: Update SHA256 list
         run: |
-          if [ -s /tmp/bazaar_sha256.txt ]; then
+          if [ -s /tmp/all_sha256.txt ]; then
             TODAY=$(date +%Y-%m-%d)
 
             # Remove duplicates
+            > /tmp/sha256_new.txt
             while read hash; do
               if ! grep -qixF "$hash" SHA256_list.txt; then
                 echo "$hash" >> /tmp/sha256_new.txt
               fi
-            done < /tmp/bazaar_sha256.txt
+            done < /tmp/all_sha256.txt
 
             if [ -s /tmp/sha256_new.txt ]; then
               {
                 echo ""
-                echo "# Auto-Fetch-MalwareBazaar"
+                echo "# Auto-Fetch-ThreatIntel"
+                echo "# MalwareBazaar + ThreatFox"
                 echo "# $TODAY"
                 echo ""
                 cat /tmp/sha256_new.txt
@@ -164,20 +216,22 @@ jobs:
 
       - name: Update MD5 list
         run: |
-          if [ -s /tmp/bazaar_md5.txt ]; then
+          if [ -s /tmp/all_md5.txt ]; then
             TODAY=$(date +%Y-%m-%d)
 
             # Remove duplicates
+            > /tmp/md5_new.txt
             while read hash; do
               if ! grep -qixF "$hash" MD5_list.txt; then
                 echo "$hash" >> /tmp/md5_new.txt
               fi
-            done < /tmp/bazaar_md5.txt
+            done < /tmp/all_md5.txt
 
             if [ -s /tmp/md5_new.txt ]; then
               {
                 echo ""
-                echo "# Auto-Fetch-MalwareBazaar"
+                echo "# Auto-Fetch-ThreatIntel"
+                echo "# MalwareBazaar + ThreatFox"
                 echo "# $TODAY"
                 echo ""
                 cat /tmp/md5_new.txt
