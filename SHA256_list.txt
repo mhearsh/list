@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Telegram-IOC-Feeds
+# @g0njxa @skocherhan
+# 2026-01-13
+
+cbbe98e1b36eb68a7afe534c21055f9cc793c2a6a7ca63256d273020a096f7a7
+950ee5f83cf6f34544d448f03f75e7f2ba88fb45161b1b7458c5a81eafa00778
+
 # ClickFix-Campaign
 # 2026-01-13
 
