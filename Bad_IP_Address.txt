@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Telegram-IOC-Feeds
+# @skocherhan @Fact_Finder03
+# 2026-01-13
+
+91.92.243.10
+195.24.236.69
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-01-13
