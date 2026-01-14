@@ -10,6 +10,51 @@
 ###############################################################################
 
 
+# ClickFix-Campaign-INCD-40807
+# 2026-01-14
+
+goveayarali.org
+www.goveanrs.org
+govearali.org
+ztdaliweb.shop
+ligovera.shop
+alianzeg.shop
+getalia.org
+goveanrs.org
+www.getfix.win
+getfix.win
+
+# Kongtuke-Clickfix-INCD-40808
+# 2026-01-14
+
+frttsch.com
+checkifhuman.top
+ey267te.top
+bz1d0zvfi03yhn1.top
+fnjnbehjangelkd.top
+
+# Medusa-Darktrace-INCD-40810
+# 2026-01-14
+
+manate.ch
+
+# AsyncRAT-Campaign-INCD-40811
+# 2026-01-14
+
+owners-insertion-rentals-pursuit.trycloudflare.com
+plus-condos-thy-redeem.trycloudflare.com
+citysearch-packed-bacterial-receptors.trycloudflare.com
+strength-blind-bristol-ten.trycloudflare.com
+syracuse-seeks-wilson-row.trycloudflare.com
+license-appointed-asset-pulled.trycloudflare.com
+ozone.trycloudflare.com
+
+# MassLogger-Malware-INCD-40812
+# 2026-01-14
+
+cphost14.qhoster.net
+mcnzxz.com
+
 # GoBruteforcer-Malware-INCD-40805
 # 2026-01-13
 
