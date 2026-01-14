@@ -9,13 +9,8 @@
 #                                                                             #
 ###############################################################################
 
-
-# GoBruteforcer-Malware-INCD-40805
-
 # Telegram-IOC-Feeds
-
-# Telegram-IOC-Feeds
-# @JRoosen @ShadowChasing1 @akudryk007 @g0njxa @malwrhunterteam @skocherhan @smica83
+# @akudryk007 @g0njxa @JRoosen @malwrhunterteam @ShadowChasing1 @skocherhan @smica83
 # 2025-12-18 to 2026-01-13
 
 00218b08fb18d8aa987b1ad21ab5a3d6d32d4c82c485aa6fd2de7a6a5b5741cf

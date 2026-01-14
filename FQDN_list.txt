@@ -10,13 +10,7 @@
 ###############################################################################
 
 # Telegram-IOC-Feeds
-
-# GoBruteforcer-Malware-INCD-40805
-
-# Telegram-IOC-Feeds
-
-# Telegram-IOC-Feeds
-# @1ZRR4H @AddressIntel @AmberMille78556 @Anlegerhelfer @CarlyGriggs13 @Comparitech @Fact_Finder03 @FalconFeedsio @JAMESWT_WT @JRoosen @James_inthe_box @K_N1kolenko @MNovofastovsky @MalwareHawk @Merlax_ @Metemcyber @PaduckLee @PrakkiSathwik @Q8CyberTi @RakeshKrish12 @SarlackLab @ShadowChasing1 @SociologyThe @SwitchToThread @TeamDreier @ViriBack @b3ard3dav3ng3r @c9lab_soc @fbgwls245 @g0njxa @gentry_kerwood @gridinsoft @h3xstone @harugasumi @ido_cohen2 @illegalFawn @johnk3r @kubotaa3 @ljachowicz @malwrhunterteam @masaomi346 @mayank_cti @mugu_reporter @riper81 @romonlyht @skocherhan @smica83 @solostalking @suyog41 @threatquery @tial_cl @urldna_bot @yvesago
+# @1ZRR4H @AddressIntel @AmberMille78556 @Anlegerhelfer @b3ard3dav3ng3r @c9lab_soc @CarlyGriggs13 @Comparitech @Fact_Finder03 @FalconFeedsio @fbgwls245 @g0njxa @gentry_kerwood @gridinsoft @h3xstone @harugasumi @ido_cohen2 @illegalFawn @James_inthe_box @JAMESWT_WT @johnk3r @JRoosen @K_N1kolenko @kubotaa3 @ljachowicz @MalwareHawk @malwrhunterteam @masaomi346 @mayank_cti @Merlax_ @Metemcyber @MNovofastovsky @mugu_reporter @PaduckLee @PrakkiSathwik @Q8CyberTi @RakeshKrish12 @riper81 @romonlyht @SarlackLab @ShadowChasing1 @skocherhan @smica83 @SociologyThe @solostalking @suyog41 @SwitchToThread @TeamDreier @threatquery @tial_cl @urldna_bot @ViriBack @yvesago
 # 2025-12-18 to 2026-01-13
 
 0009xx.weebly.com
