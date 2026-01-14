@@ -11,16 +11,6 @@
 
 
 # GoBruteforcer-Malware-INCD-40805
-# 2026-01-13
-
-cc9dde367a1e7ac2c1a7611bdfbbcbc3
-744a6b31a68e74c782705cbeed39353d
-2c32ba61a6ac6721ed6f5a76b1fcbd7a
-
-# Auto-Fetch-ThreatIntel
-# MalwareBazaar + ThreatFox
-
-# Telegram-IOC-Feeds
 
 # Telegram-IOC-Feeds
 # @JAMESWT_WT @JRoosen @MalwareHawk @PaduckLee @PrakkiSathwik @RakeshKrish12 @RedDrip7 @ShadowChasing1 @naumovax @romonlyht @skocherhan @suyog41 @urldna_bot
@@ -487,6 +477,7 @@ cc9dde367a1e7ac2c1a7611bdfbbcbc3
 2c0eb63e963a38d4fcf54c7d9cf7a5d8
 2c19001d5b81037ac70ef17f887cbec0
 2c217f79d7fe855dec889ea4c23ecfd2
+2c32ba61a6ac6721ed6f5a76b1fcbd7a
 2c55516e813d510d4414eae6efae0fa3
 2c6a1b6e079ddfb332f182d085ade78a
 2c750483c82c30096797e6fb3476cc93
@@ -1213,6 +1204,7 @@ cc9dde367a1e7ac2c1a7611bdfbbcbc3
 741be5529c82ee7f42845c3e422e8001
 741f261a857705c1d5663d2518b3d96d
 742c2400f2de964d0cce4a8dabadd708
+744a6b31a68e74c782705cbeed39353d
 74547f653cf1cf09279ca2e188bc6d0f
 74618912c71dfafbfff5986ffb0e6e6a
 747d681d1179653229b08d67959f48d8
@@ -2190,6 +2182,7 @@ cc10b36aead811169a713e0660abf97f
 cc4d1964820bedb357978e8af9c8b902
 cc61f920f85cd380bad8940453215a50
 cc7d6afa15a06b1c74cd510a32a590a5
+cc9dde367a1e7ac2c1a7611bdfbbcbc3
 cc9f1499131552e399d9bf413bbec9d3
 ccb88477a504c4d1a54a6c333a89cd89
 ccd708d9f80ec7af59a496c5e1396377

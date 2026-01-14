@@ -11,14 +11,6 @@
 
 
 # GoBruteforcer-Malware-INCD-40805
-# 2026-01-13
-
-190.14.37.10
-93.113.25.114
-
-# Telegram-IOC-Feeds
-
-# Telegram-IOC-Feeds
 
 # Telegram-IOC-Feeds
 # @AddressIntel @CarlyGriggs13 @Fact_Finder03 @FalconFeedsio @JAMESWT_WT @JRoosen @James_inthe_box @Merlax_ @Metemcyber @PrakkiSathwik @RakeshKrish12 @SarlackLab @ShadowChasing1 @TeamDreier @b3ard3dav3ng3r @bcs_erictaylor @fbgwls245 @harugasumi @kubotaa3 @malwrhunterteam @riper81 @romonlyht @skocherhan @smica83 @solostalking @suyog41 @threatquery @urldna_bot @volrant136
@@ -14940,6 +14932,7 @@
 190.13.130.34
 190.13.82.29
 190.14.228.17
+190.14.37.10
 190.141.164.140
 190.143.117.168
 190.144.14.170
@@ -27927,6 +27920,7 @@
 93.107.1.136
 93.108.242.140
 93.113.233.59
+93.113.25.114
 93.113.53.193
 93.113.62.151
 93.113.63.124

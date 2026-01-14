@@ -12,15 +12,6 @@
 # Telegram-IOC-Feeds
 
 # GoBruteforcer-Malware-INCD-40805
-# 2026-01-13
-
-fi.warmachine.su
-xyz.yuzgebhmwu.ru
-pool.breakfastidentity.ru
-pandaspandas.pm
-my.magicpandas.fun
-
-# Telegram-IOC-Feeds
 
 # Telegram-IOC-Feeds
 # @1ZRR4H @AddressIntel @AmberMille78556 @Anlegerhelfer @CarlyGriggs13 @Comparitech @Fact_Finder03 @FalconFeedsio @JAMESWT_WT @JRoosen @James_inthe_box @K_N1kolenko @MNovofastovsky @MalwareHawk @Merlax_ @Metemcyber @PaduckLee @PrakkiSathwik @Q8CyberTi @RakeshKrish12 @SarlackLab @ShadowChasing1 @SociologyThe @SwitchToThread @TeamDreier @ViriBack @b3ard3dav3ng3r @c9lab_soc @fbgwls245 @g0njxa @gentry_kerwood @gridinsoft @h3xstone @harugasumi @ido_cohen2 @illegalFawn @johnk3r @kubotaa3 @ljachowicz @malwrhunterteam @masaomi346 @mayank_cti @mugu_reporter @riper81 @romonlyht @skocherhan @smica83 @solostalking @suyog41 @threatquery @tial_cl @urldna_bot @yvesago
@@ -1562,6 +1553,7 @@ fezonex.com
 fgdrghrdhtctgdgh.vercel.app
 fgtifwqrutxej.xyz
 fgvhbjf.weebly.com
+fi.warmachine.su
 fidson.top
 fil.stakingrewards.biz
 files.qaubctgg.workers.dev
@@ -2431,6 +2423,7 @@ mwdrtgqblnxm.com
 mwtransaction.com
 mxblog77.cfd
 mxx8866.net
+my.magicpandas.fun
 myaccount-coinbase.com
 myanimals.com
 mybarharbor-acc-sec.weebly.com
@@ -2627,6 +2620,7 @@ pairs.kaimshop.com
 palaerospace.careers
 paleboreei.biz
 pancake-info.com
+pandaspandas.pm
 pangacnc.com
 panggg33.blogspot.com
 pango-il.com
@@ -2706,6 +2700,7 @@ polyfun.app
 polymarket-us.live
 pomelohgj.top
 ponke.icu
+pool.breakfastidentity.ru
 portal-aave.xyz
 portal-brevis.network
 portal-gos.ru-petishion.com
@@ -3868,6 +3863,7 @@ xuang.elpaies.info
 xulcwccnt.com
 xuzrfep.cn
 xyhhosg.cn
+xyz.yuzgebhmwu.ru
 ycenlw.cn
 ycvduc.xyz
 yearn-2026.com
