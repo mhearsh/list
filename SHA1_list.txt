@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# GoBruteforcer-Malware-INCD-40805
+# 2026-01-13
+
+aa0e2d70556ac6ed379fe37453ce0ec0925d2a5d
+6ba5c9651c9f98ab764f20544ac9681a65ac94f1
+b188587cf392fefd15cfd9c712f55eb0d913c5ad
+
 # CERT-Alert-INCD-1882
 
 # Telegram-IOC-Feeds
