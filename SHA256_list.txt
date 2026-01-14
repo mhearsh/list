@@ -10,6 +10,12 @@
 ###############################################################################
 
 
+
+# Telegram-IOC-Feeds
+# @CarlyGriggs13 @fbgwls245 @JangPr0 @malwrhunterteam @masaomi346 @midnight_comms @SarlackLab @ShadowChasing1 @skocherhan @smica83 @suyog41 @TeamDreier @urldna_bot
+# 2026-01-14
+
+8a5ee435072d24b1f0d3fbbb98d6e0b308477e3101a194373a52a392d77f7377
 # GoBruteforcer-Malware-INCD-40805
 # 2026-01-13
 
