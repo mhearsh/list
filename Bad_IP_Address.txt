@@ -10,6 +10,17 @@
 ###############################################################################
 
 # Telegram-IOC-Feeds
+
+# Telegram-IOC-Feeds
+# @CarlyGriggs13 @fbgwls245 @JangPr0 @malwrhunterteam @masaomi346 @midnight_comms @SarlackLab @ShadowChasing1 @skocherhan @smica83 @suyog41 @TeamDreier @urldna_bot
+# 2026-01-14
+
+1.94.0.0
+103.67.197.187
+113.44.0.0
+113.45.0.0
+148.178.64.0
+162.159.36.2
 # @AddressIntel @b3ard3dav3ng3r @bcs_erictaylor @CarlyGriggs13 @Fact_Finder03 @FalconFeedsio @fbgwls245 @harugasumi @James_inthe_box @JAMESWT_WT @JRoosen @kubotaa3 @malwrhunterteam @Merlax_ @Metemcyber @PrakkiSathwik @RakeshKrish12 @riper81 @romonlyht @SarlackLab @ShadowChasing1 @skocherhan @smica83 @solostalking @suyog41 @TeamDreier @threatquery @urldna_bot @volrant136
 # 2025-12-18 to 2026-01-13
 
