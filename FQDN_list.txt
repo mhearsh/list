@@ -12,6 +12,63 @@
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
+# 2026-01-19
+
+181.ip.gl.ply.gg
+2c48hup.uk.com
+2co7rrv.uk.com
+78win.ru.com
+Brodyy-39471.portmap.host
+abdulraheem6-50903.portmap.host
+aet2fkdj7.localto.net
+api.loseallyour.money
+asphoau.cyou
+ba.za.com
+bfcg5.ru.com
+borinakis.fun
+buildnetcrew.com
+crossat.cyou
+cyberplg.cyou
+dxp4s2ibc.localto.net
+etvidanueva.com
+fastball.in.net
+fgwqojpr.buildnetcrew.com
+forums.uk.net
+galleqi.cyou
+granitfliesen.de.com
+haf.uk.com
+hanggxx.cyou
+hytagow69.localto.net
+hz88-bet.vip
+ilovenetssomuch.ddns.net
+incelcuck.duckdns.org
+interdashboard.mom
+jlgwbfxtol.a.pinggy.link
+keramogranit.ru.com
+mb66znet.com
+nqxuvd.za.com
+onus.ru.com
+osn.lunxe.live
+pymrweslf.localto.net
+quasarrat220-24487.portmap.io
+requieiy.cyou
+sakuratea.cfd
+shbet-casino.co
+slze8kkuh.localto.net
+stileunico.it.com
+titth.za.com
+tr88.sa.com
+traumadj.cyou
+v9oe2nsym.localto.net
+vn168a.link
+wwc.uk.com
+xszcuj.sa.com
+yrbaidu.za.com
+yxtu8a6fk.localto.net
+zqqhyp.sa.com
+
+# Auto-Fetch-ThreatIntel
+# URLhaus + ThreatFox
 # 2026-01-18
 
 1.tcp.cpolar.cn
