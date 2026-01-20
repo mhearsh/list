@@ -9,6 +9,28 @@
 #                                                                             #
 ###############################################################################
 
+# Karma-Ransomware-INCD-40835
+# 2026-01-20
+098fd0647fabd917c10d251fec312d00
+61dc95e31e580fa06e0714a49e7fe58a
+1495a3b85b7019f70fad4aa8802a01d3
+ae9f8f8dc3a8af1b3a3bc0711b9071e8
+71d7897f604430b0376f1e41e1aef569
+db0eab25b047f82a4644b3b86767a1aa
+71c0973acf67404f7afb97ffe35b78ab
+d31b2fc616f9148881dd07368d21e052
+863d2984ef94a2787220f767e5e57a80
+485ce35efa70f2a982c021dfda406249
+2a84a809ab767f554377f2fc4e6cd9c9
+b831db9841586ddf57688ccdbef7cebc
+a0e8cc8e0f3e0352ab94e21b83ed5c6f
+23c734f7286624bfa4148fea5a04a60f
+9598938abfff37c9b9de31cdfe02ddb8
+45027d8ea53921b59c70c38d90dd8c14
+a72669404bd4fb76c4d1488c7500da36
+fc709474decc41f8a02e6182a8104483
+1dd519a59eb8ab76c8a9f5363df3cf26
+
 # UAT-8837-Critical-Infrastructure-INCD-40829
 # 2026-01-19
 a39696e95a34a017be1435db7ff139d5

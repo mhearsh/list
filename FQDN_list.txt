@@ -9,6 +9,20 @@
 #                                                                             #
 ###############################################################################
 
+# RedVD-Cybercrime-INCD-40834
+# 2026-01-20
+redvds.com
+redvds.pro
+redvdspanel.space
+
+# Karma-Ransomware-INCD-40835
+# 2026-01-20
+centrogauchodabahia123.com
+coffe-estilo.com
+empautlipa.com
+miportuarios.com
+varegjopeaks.com
+
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
