@@ -10,6 +10,58 @@
 ###############################################################################
 
 
+# Auto-Fetch-ThreatIntel
+# URLhaus + ThreatFox
+# 2026-01-20
+
+10jqka.ec.cc
+api.fanataxservices.com
+appolobase.com
+berichtenbox-nl.net
+campari.uk.com
+cngov.cn.com
+cyqahoxnt.localto.net
+enigma-locket.info
+fb888.in.net
+fenixcentr.sa.com
+floorspace.uk.com
+fly88.gr.com
+gl1g7tts-5500.euw.devtunnels.ms
+hoe.agfoodpos.com
+kokymrgy.hopto.org
+matsau.noip.me
+mythicserver.eastus.cloudapp.azure.com
+onetto.mobilefoundationrepair.com
+oxygrapics.zapto.org
+poc.agfoodpos.com
+poc.yago.fun
+portal.openchat.world
+qoz.uk.com
+qq-88.co.com
+rabbitsbird.info
+rer.agfoodpos.com
+res.agfoodpos.com
+res.yago.fun
+shoe.eu.com
+smartprince111111
+sweetbonanzaslot.jp.net
+touchkasablanka.com
+tretor.mobilefoundationrepair.com
+twettor.mobilefoundationrepair.com
+uk3551.pickx.online
+ultradatahost1.baby
+utoigzdol.localto.net
+visit.bombauthority.website
+wc-ltc.ddns.me
+wc-ltc.myvnc.com
+westerrd.cyou
+whooptm.cyou
+www.resrei.com
+www.wiklpedia.net
+www1.co.com
+xgpviv.za.com
+xnd4x3ezm.localto.net
+
 # ClickFix-Campaign-INCD-40807
 # 2026-01-14
 
