@@ -9,6 +9,14 @@
 #                                                                             #
 ###############################################################################
 
+# UAT-8837-Critical-Infrastructure-INCD-40829
+# 2026-01-19
+003191dad15fdff03796ecd5fdfc3bab9fb74779
+2d4f748461914d59a69acae46bedb11c8899e546
+6e2cff8318bf8ed69307bfce25b72c7ac3ecd293
+156f6a696ee390a6194feea8982b301f8224a66d
+2f18fc7730f85fd3db7f4d038bc4c3573af94deb
+
 
 # Auto-Fetch-MalwareBazaar
 # 2026-01-20

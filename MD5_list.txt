@@ -9,6 +9,14 @@
 #                                                                             #
 ###############################################################################
 
+# UAT-8837-Critical-Infrastructure-INCD-40829
+# 2026-01-19
+a39696e95a34a017be1435db7ff139d5
+e3c4f7dce14de2a84a1c8bb7fbc94ea7
+0a724696311a9d4e40888f02ae32252e
+34daed0b12685ee391660f658b5980b5
+2aba5e25a31493845a6cf145c60ce949
+
 
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
