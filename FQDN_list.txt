@@ -9,6 +9,67 @@
 #                                                                             #
 ###############################################################################
 
+
+# Auto-Fetch-ThreatIntel
+# URLhaus + ThreatFox
+# 2026-01-21
+
+0p7wfcoia.localto.net
+1.ooocyber.cfd
+2.ooocyber.cfd
+3.ooocyber.cfd
+736grcsv3mx2c.cfc-execute.gz.baidubce.com
+adobecreativecloud.duckdns.org
+atlretf7m.localto.net
+auc.ru.com
+boats.kaisenc2.online
+bot.taphoanxn.cfd
+cdn-css-framework.cfd
+cdn-js-connection.cfd
+chesapeakecity.us.com
+chl.ru.com
+cooldockmantoo.men
+costactspreadinf.duckdns.org
+cpass.verf-secu4u.art
+d2d.agfoodpos.com
+dc2.sa.com
+discountcode.co.com
+dl.zeekitchenandbathdesign.com
+dongfeng.serveftp.com
+dsfasdfasdfasd.online
+edition-pulled.gl.at.ply.gg
+eimf.uk.com
+fettorer.mobilefoundationrepair.com
+filipsesperanto.com
+gtour26.myftp.org
+hk.zgao.top
+js-framework.cfd
+kltu.sa.com
+losespadadz.myftp.biz
+nuestraboda.it.com
+oosdfewugsd.online
+operiteons.com
+otraprueba.ddnsfree.com
+prime6.idmkt.info
+rrsadtfusdf.online
+safedrive.uk.com
+sdufkghdfshds.cfd
+seramyuthrenodycollect.com
+severo.mobilefoundationrepair.com
+shzkagxdv.localto.net
+sixoro.mobilefoundationrepair.com
+static.urgaacoffeeroastery.com
+swbc.mex.com
+tosifu.jp.net
+update211.security-ssa-gov.com
+us-neuroquiet.co.com
+weis24.de.com
+wilknnson.com
+winiks.com
+wsefghuiwehf.gxg.xxx
+wsergoijnrjewgewr.duckdns.org
+ygncsj.za.com
+zak.agfoodpos.com
 # RedVD-Cybercrime-INCD-40834
 # 2026-01-20
 redvds.com
