@@ -10,6 +10,12 @@
 ###############################################################################
 
 
+
+# The Gentlemen Ransomware IOC's - INCD-40840
+# 2026-01-21
+
+nexsnield.com
+temp.sh
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-01-22
@@ -7963,11 +7969,3 @@ zytonhealth.com
 zyxgate.com
 usaatodayslives.com
 btnearinternet11.weebly.com
-
-
-# The Gentlemen Ransomware IOC's - INCD-40840
-# 2026-01-21
-
-nexsnield.com
-temp.sh
-
