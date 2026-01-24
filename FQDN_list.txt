@@ -12,6 +12,55 @@
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
+# 2026-01-24
+
+1ljft17gwl.execute-api.ap-southeast-1.amazonaws.com
+aegisxray.com
+akon.za.com
+alikaraw.com
+angles.uk.com
+api.robquiz.com
+app.tatatech.co
+audiovisionworks.com
+bemuseqy.cyou
+blog.kevoxtech.com
+bos.bexca.org
+bos.sodstreams.com
+cbb.borendrokontho.com
+cbb.lidiia.com.ua
+coordenacao2026.writesthisblog.com
+dailyamarbangla.com
+delwayne.alwaysdata.net
+duhsv690.cinderpouch.ru
+ecologistics.co.com
+elimnasir.com
+getinone.in.net
+gyp.uk.com
+hL2k-32291.portmap.host
+helsibreak.com
+investor.uk.com
+ip87-106-143-220.pbiaas.com
+jaskolkki.com
+jtb.uk.com
+katieqlhello.ru.com
+lat.bexca.org
+lat.sodstreams.com
+lmn990112-54741.portmap.host
+luvxc1de.duckdns.org
+maxbet-88.com
+nameservers.us.com
+s38omfg2.cinderpouch.ru
+sharecodepro.com
+sopwritersbangalore.in.net
+update.kernel-update.com
+vpkw420q.hcuoprednic.ru
+www.aegisxray.com
+www.audiovisionworks.com
+www.lyra-connect.us
+www.lyraconnect.xyz
+
+# Auto-Fetch-ThreatIntel
+# URLhaus + ThreatFox
 # 2026-01-23
 
 2idvzxbwvzbxhuniw7kfaimcvtqazmn7nmuw7codg65cshwwsvnpz7id.onion
