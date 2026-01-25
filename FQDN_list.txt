@@ -12,6 +12,83 @@
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
+# 2026-01-25
+
+6222.cn.com
+6247.cn.com
+accrochezvous.fr
+au88-au88.shop
+au88-binb.com
+au88-top.com
+au88.it.com
+au888.surf
+au88kitty.com
+au88vietnam.pro
+b.clu-e.eu
+bbos.homes
+capitamx.cyou
+consultrade.uk.com
+dansorium.gr
+duo.us.com
+dwuxon.za.com
+ecom.in.net
+elixis.br.com
+erogen.ru.com
+f6m8.chickenkiller.com
+fastlovesolutions.in.net
+ggjvk3v5bzopisqkf7kd5el2j40gdgcu.lambda-url.ap-southeast-1.on.aws
+go88.sa.com
+grades-stock-set-ana.trycloudflare.com
+gro.uk.com
+gxm.us.com
+hailorachiy.in.net
+hitclub5.br.com
+hollow-paper.info
+homencck.com
+iop5.ru.com
+iqzomxh.sa.com
+iso.za.com
+koszulki.net
+kotabansal.in.net
+lxbqgh.sa.com
+lxzzyb.sa.com
+mqdfpy.sa.com
+netdoctor.uk.com
+nkn7.mooo.com
+nnk.uk.com
+officegrow.in.net
+on81.crabdance.com
+paperaeroplane.uk.com
+personrg.cyou
+playercodes.in.net
+pub-1ec812ea405b44f9976acd137f20fe96.r2.dev
+pub-40f0bc7019cc4cc4af33b722c6d5f182.r2.dev
+pub-74506ace261846d4bfc80d45a1f06b40.r2.dev
+pub-f3a5f16c0d0b45eab9e2e6a05a61d733.r2.dev
+radiopoljubac.net
+return-network.icu
+rfk.uk.com
+roblox.gr.com
+skybridgeconstructions.in.net
+slotscatteremas.jp.net
+static.37.21.42.77.clients.your-server.de
+tagbilarandiocese.mex.com
+technest.us.com
+testseriesbymadhavi.in.net
+ubdecp.sa.com
+unl.uk.com
+uotahi.za.com
+vn-au88.com
+vva.uk.com
+wah.uk.com
+winoutin.mywire.org
+www.micrcscft.cyou
+wxqdcakvuv.com
+yandishuang1234.com
+yandishuangshang6789.com
+
+# Auto-Fetch-ThreatIntel
+# URLhaus + ThreatFox
 # 2026-01-24
 
 1ljft17gwl.execute-api.ap-southeast-1.amazonaws.com
