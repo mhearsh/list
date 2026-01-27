@@ -48,7 +48,6 @@ abbie.ru.com
 abnewszamanpaper1.ru.com
 api.qjweb.xyz
 audicontadores.com
-bashupload.com
 chat-stg.smartdocapp.com
 cloudshape.us.com
 cool-hose.sa.com
@@ -1681,7 +1680,6 @@ ns1.padyhost.com
 ns2.padyhost.com
 okayshwh-38943.portmap.host
 oncebaurus.fun
-pastebin.com
 powersmoke.xyz
 proestimating.us
 pyx.uk.com
@@ -2245,7 +2243,6 @@ gipqen.f0undoutw2y.ru
 gipxot.dev0urspon8y.ru
 gistpad.com
 git.parscoders.com
-gitlab.com
 gitlab.skillbox.ru
 giz.cloudb1t.ru
 gizmo.skysh1ne.ru
@@ -3285,7 +3282,6 @@ randynorris.retirevillage.com
 range.sunsh1ne.ru
 ratio.5hri1luv.ru
 raven.cl0ac2ninth.ru
-raw.githubusercontent.com
 rblfh.bracketfern.ru
 rc.clearb1te.ru
 rd5.3squaredco.com
@@ -4343,7 +4339,6 @@ arbor.ant1sepgue7.ru
 arc2.storml1nk.ru
 arch.mistybr1dge.ru
 arch.safebr1dge.ru
-archive.org
 aria.me2nin8harp.ru
 arid.clears0il.ru
 artemkalenadov-42277.portmap.host
@@ -4426,7 +4421,6 @@ bipmuh.a8ent5ing.ru
 bird.mistf1eld.ru
 bis2ijbb.adju5tc2b.ru
 bit.deepw1nd.ru
-bitbucket.org
 bite.softp1ne.ru
 bixfoy.pa5spra8mat.ru
 bjtvyfqp.acouguegbcompras.com
@@ -4512,7 +4506,6 @@ cask.drau8htl0dg.ru
 cask.kettle-wisp.ru
 castlerocks.za.com
 cc.bracketfern.ru
-cdn.discordapp.com
 cdn.jsdelivr.net
 cdn.network-endpoint-microsoft.com
 cdn.tagbox.io
@@ -7013,7 +7006,6 @@ simd.allocated.live
 # @malwrhunterteam
 # 2025-12-20
 
-github.com
 
 
 # Telegram-IOC-Feeds
@@ -8227,7 +8219,6 @@ support@onecommerce.io
 sweetgeorgiayarns.online
 symptom-recordchecker.azurewebsites.net
 systemmedicaleducation.azurewebsites.net
-t.me
 t2m.co
 tacticalsnap.eastus.cloudapp.azure.com
 talenthumanresourcestalent.com
