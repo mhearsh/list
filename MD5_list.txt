@@ -10,6 +10,29 @@
 ###############################################################################
 
 
+# INCD - Attack Group UNC6384
+# 2026-01-27
+
+dc1dba02ab1020e561166aee3ee8f5fb
+b626001d7cd968ab3b8caf87a0ef4666
+0538e73fc195c3b4441721d4c60d0b96
+17a6748f8e3def110c6ab1ea8daab4c7
+0a84f981ca86ae682bb8f0bdc2c70bff
+8720bfc31e1848e788f3ad1175be1195
+30e44a7d477e89364b740d04cabcfed3
+1263bb047f3a83fc6dc90aaf362b34d2
+1bf838a666d37750b36321f182dd07da
+c83468e7ad2279c4e6344cc09b76cdc0
+
+# INCD - ClickFix Campaign
+# 2026-01-27
+
+c85fec39496b41e5f61aa724dfdc12d5
+a3c8360e39820248e05e5833e26732cc
+30e6628ecf0b7e99d5ef662e0b022c71
+e03b949a1c6aa01fe342f393de2323f0
+205dffb568ee35322266a592ae3f1112
+
 # INCD - ClickFix Campaign
 # 2026-01-27
 

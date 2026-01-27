@@ -10,6 +10,24 @@
 ###############################################################################
 
 
+# INCD - Attack Group UNC6384
+# 2026-01-27
+
+racineupci.org
+dorareco.net
+naturadeco.net
+cseconline.org
+paquimetro.net
+vnptgroup.it.com
+
+# INCD - ClickFix Campaign
+# 2026-01-27
+
+gc-prtnrs.top
+gcc-prtnrs.top
+hsiens.xyz
+cladwybn.digital
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-01-27
