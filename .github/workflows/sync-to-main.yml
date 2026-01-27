@@ -3,7 +3,7 @@ name: Sync Claude Branch to Main
 on:
   push:
     branches:
-      - 'claude/sync-to-main-*'
+      - 'claude/**'
 
 permissions:
   contents: write
