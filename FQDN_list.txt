@@ -10,6 +10,56 @@
 ###############################################################################
 
 
+# Auto-Fetch-ThreatIntel
+# URLhaus + ThreatFox
+# 2026-01-28
+
+22.tcp.cpolar.top
+28.tcp.cpolar.top
+archive.org
+bashupload.com
+betbobgunceladres.com
+bitbucket.org
+blackmore.twilightparadox.com
+denjak.store
+forkgramme.com
+get-musciqq-xqifzpfeed.cn-beijing.fcapp.run
+github.com
+gitlab.com
+identity.mulberri.in
+kid.cdcmn.edu.bd
+kid.lidiia.com.ua
+krast-30188.portmap.host
+mart.it.com
+mif.cdcmn.edu.bd
+mif.lidiia.com.ua
+mine.repeatcar.com
+mismilahioluwadoam.duckdns.org
+myleingg.ddns.net
+noone5123-52149.portmap.host
+noone5123-59078.portmap.host
+norbert-dev1.cydardev.cloud
+ontera.fencingoregon.com
+pastebin.com
+penidi8413-47021.portmap.host
+qudor.fencingoregon.com
+ravenkw.shop
+raw.githubusercontent.com
+slayieure-62635.portmap.host
+solowheel.uk.com
+tbt.uk.com
+theretas.fencingoregon.com
+twobyonset.ydns.eu
+ufpi.br.com
+vobshepohuy.top
+wabnewszamanpaper23.ru.com
+weareriu.cyou
+www.proxy1pal.shop
+wxblockchain.cn
+yourfearcig.no-ip.biz
+ytloie.za.com
+zortyfivev.crabdance.com
+
 # INCD - Attack Group UNC6384
 # 2026-01-27
 
