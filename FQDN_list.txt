@@ -12,6 +12,84 @@
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
+# 2026-01-29
+
+ArenalExperience.com
+Mikey12325Ja1-31716.portmap.host
+Th3Hunt3r-53504.portmap.host
+account.quarkdrainer.com
+account.quarklab.app
+act-tingly.gl.at.ply.gg
+asianswitch.gb.net
+atlnewmedia.com
+banengids.com
+blank-carrot.com
+braxttp.cyou
+changingcanoes.us.com
+cia.anondns.net
+cole.zoomwork.one
+cpanel.mahfuzrealtor.com
+csp.beznervov.com
+csp.cloudvaly.com
+d8zljb.ru.com
+daroughgan.com
+daroughgan8hajous1.duckdns.org
+daroughgan8hajous2.duckdns.org
+daroughgan8hajous3.duckdns.org
+daroughgan8hajous4.duckdns.org
+daroughgan8hajous5.duckdns.org
+deeyou.xyz
+dnsuptime.dns.army
+doctorfix.com.br
+ecolombia223.casacam.net
+ferrimania.com
+gameverse.in.net
+globaljira.com
+gohapel398-62132.portmap.host
+gty.beznervov.com
+gty.cloudvaly.com
+gubbisx.cyou
+hit-club.io
+hoianorchidgarden.com
+img2.huorongsec.com
+jwwp.cn.com
+kernel-compass.com
+leivistabaltic.eu.com
+limewire.com
+mail.onetime-authentication.cruiserscrib.com
+mgtms.cc
+my.onbuka.com
+nra.uk.com
+peg.bexca.org
+political-psychological-integrated-certification.trycloudflare.com
+potashbx.cyou
+projectindia999.loseyourip.com
+pub-8f57965f8599440e97ac52dbcca4fc58.r2.dev
+reberts.com
+recyclqb.cyou
+rrg.cdcmn.edu.bd
+rrg.lidiia.com.ua
+skittlesforlife.anondns.net
+sri.gb.net
+static.cos-tencent.cloud
+suzrbgndb.localto.net
+szdxmm-yd0126.com
+szdxmm-ydbaoji0126.com
+them-choose.gl.at.ply.gg
+trangchuhit.club
+trx.cdcmn.edu.bd
+trx.lidiia.com.ua
+uber.gr.com
+ultra4ktool.com
+wmk88.com
+wmk99.com
+www.carhartt-market.com
+www.doctorfix.com.br
+yoga.tatatech.net
+zaryef.za.com
+
+# Auto-Fetch-ThreatIntel
+# URLhaus + ThreatFox
 # 2026-01-28
 
 22.tcp.cpolar.top
