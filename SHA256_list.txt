@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# INCD - Lazarus APT
+# 2026-02-01
+
+90b1456cdbe6bc2779ea0b4736ed9a998a71ae37390331b6ba87e389a49d3d59
+96fa6a7714670823c83099ea01d24d6d3ae8fef027f01a4ddac14f123b1c9974
+e63ca039141d9ea9d14450c73d0ccb888dbb312a2e88193975adc566429eb7a2
+ecd31e50ff35f41fbacf4b3c39901d5a2c9d4ae64b0c0385d661b1fd8b00481f
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-02-01
