@@ -10,6 +10,12 @@
 ###############################################################################
 
 
+# Malware IOCs
+# 2026-02-03
+
+api.skycloudcenter.com
+api.wiresguard.com
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-01
