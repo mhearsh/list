@@ -1,6 +1,7 @@
 # Threat Intelligence Lists
 
 Public threat intelligence feeds containing malicious IP addresses, domains, and file hashes.
+
 Designed for automated consumption by firewalls, IDS/IPS, and security monitoring systems.
 
 ## Available Feeds
