@@ -10,6 +10,11 @@
 ###############################################################################
 
 
+# INCD - Lotus Blossom Notepad++ Attack
+# 2026-02-04
+
+a8860bb5ccb964273b7fd2284b9dc837
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-02-04

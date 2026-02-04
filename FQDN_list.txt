@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# INCD - Lotus Blossom Notepad++ Attack
+# 2026-02-04
+
+self-dns.it.com
+cdncheck.it.com
+safe-dns.it.com
+skycloudcenter.com
+wiresguard.com
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-04
