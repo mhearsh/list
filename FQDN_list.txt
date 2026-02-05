@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# INCD - APT28 Phishing Attack
+# 2026-02-05
+
+wellnesscaremed.com
+wellnessmedcare.org
+freefoodaid.com
+longsauce.com
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-05
