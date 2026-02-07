@@ -12,6 +12,86 @@
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
+# 2026-02-07
+
+abs.clientportaldocs.com
+atex.quiet-disk-62f9.hrmcxaeel.workers.dev
+atex.shiny-darkness-5096.hrmcxaeel.workers.dev
+axelvedos.sa.com
+backup.quiet-disk-62f9.hrmcxaeel.workers.dev
+backup.shiny-darkness-5096.hrmcxaeel.workers.dev
+billinvestin.com
+brechjebritt.duckdns.org
+breur44.duckdns.org
+brianna.ns.cloudflare.com
+bzj.uk.com
+chvomrec.s3.ap-southeast-1.amazonaws.com
+cloud.aaddigitalstrategies.com
+coby.ns.cloudflare.com
+csp.yahoos.live
+czl.uk.com
+data.quiet-disk-62f9.hrmcxaeel.workers.dev
+data.shiny-darkness-5096.hrmcxaeel.workers.dev
+ddos.quiet-disk-62f9.hrmcxaeel.workers.dev
+ddos.shiny-darkness-5096.hrmcxaeel.workers.dev
+di4y.uk.com
+fc.yahoos.live
+filetransferdock51.com
+fiz.us.com
+fokxtvz.uk.com
+guapospain.com
+happydays.eu.com
+hjendcs.kojga.icu
+hoathinh3d.bz
+hwxs.uk.com
+irena.ns.cloudflare.com
+italy.br.com
+jetwin.in.net
+just.co.com
+karma.us.com
+kaz.mpekz.org
+kino.br.com
+kmm.eu.com
+lotterynow-api-sandbox.luckyd.app
+luckylab-api.luckyd.app
+lve.uk.com
+m.clientportaldocs.com
+macgolddocker.com
+macjadeplas.com
+maclinkatelier.com
+macoblique.com
+macplasmavault.com
+macshadowfolder.com
+macsharefolder.com
+macvaultatelier.com
+macvividlocker.com
+malware.quiet-disk-62f9.hrmcxaeel.workers.dev
+malware.shiny-darkness-5096.hrmcxaeel.workers.dev
+newgnms.top
+opoxujo.za.com
+orthoweb.de.com
+phil.ns.cloudflare.com
+phishing.quiet-disk-62f9.hrmcxaeel.workers.dev
+phishing.shiny-darkness-5096.hrmcxaeel.workers.dev
+quantri.quiet-disk-62f9.hrmcxaeel.workers.dev
+quantri.shiny-darkness-5096.hrmcxaeel.workers.dev
+quiet-disk-62f9.hrmcxaeel.workers.dev
+rmsolutions.ch
+rpgpals.com
+shiny-darkness-5096.hrmcxaeel.workers.dev
+v2.quiet-disk-62f9.hrmcxaeel.workers.dev
+v2.shiny-darkness-5096.hrmcxaeel.workers.dev
+v3.quiet-disk-62f9.hrmcxaeel.workers.dev
+v3.shiny-darkness-5096.hrmcxaeel.workers.dev
+vlsexgai.pro
+vlxx.com.in
+vlxx88.to
+wetransferbackups9669.com
+whorl.uk.com
+xghost.xyz
+
+# Auto-Fetch-ThreatIntel
+# URLhaus + ThreatFox
 # 2026-02-06
 
 1.tcp.cpolar.top
