@@ -10,6 +10,12 @@
 ###############################################################################
 
 
+# INCD - Phishing Campaign
+# 2026-02-08
+
+fqbbbjmipl.shopwunse.com
+mxn7lkry3fjei76gzitufjawbm0ztzui.lambda-url.us-east-1.on.aws
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-08
