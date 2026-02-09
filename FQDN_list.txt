@@ -10,6 +10,76 @@
 ###############################################################################
 
 
+# Auto-Fetch-ThreatIntel
+# URLhaus + ThreatFox
+# 2026-02-09
+
+2wjmdomc.breathforgiv.digital
+4.ooocyber.cfd
+4wpv9rkz.breathforgiv.digital
+5.ooocyber.cfd
+aixcijiax.mcv.kr
+aktivates.fun
+allwheelwealth.duckdns.org
+armyshoe.xyz
+banner.patch-support.com
+betbobgunceladres.com
+birdiethirty.com
+cameework.com
+capitaf.cyou
+carpoba.cyou
+celeryerror.xyz
+connect.kedi.lol
+dd.lumibiki.xyz
+dusty-comet-jazz.com
+ec2-44-246-189-12.us-west-2.compute.amazonaws.com
+email-api.argelni.site
+entershopst.ru.com
+floral-king-36d7.michaelleclair1997.workers.dev
+frame-donut.info
+gist.github.com
+hdl.re-v.co.id
+heysilentpanel.onrender.com
+i.404.pm
+ir.alchemyapi.io
+joeyapple.com
+labdexter.net
+ladydosug.cfd
+lcowpowerlite.italynorth.cloudapp.azure.com
+limulit.cyou
+logicmesh.pro
+manufao.cyou
+mta-251.70.ou2in.in
+namzcp.org
+network-sync-protocol.net
+oculusr.cyou
+penispro8ty2-54766.portmap.host
+pestcontrolinsarasota.com
+primedatahost1.cyou
+primedatahost2.cyou
+primedatahost3.cyou
+primedatahost4.cyou
+pub-253a2792b258475090b37e696b124d1f.r2.dev
+qiye.163.educn.xin
+qlb.uk.com
+rmaa7-37443.portmap.host
+s.na-cs.com
+sdn-cloudflare-js-botstrup.cfd
+sdn-cloudflare-js.cfd
+th3hunt3r-48288.portmap.host
+theengn.cyou
+tr0ff3.cn
+turkirma7-53217.portmap.host
+verbala.cyou
+vsb.aicyberconsult.com
+vvnc.ddns.net
+wispy-butterfly-ed72.michaelleclair1997.workers.dev
+www.feft234321.xyz
+www.jira.devergent.net
+www.winabla.com
+zxccvinorez738-44567.portmap.host
+zyhservers.top
+
 # INCD - Phishing Campaign
 # 2026-02-08
 
