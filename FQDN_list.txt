@@ -10,6 +10,12 @@
 ###############################################################################
 
 
+# INCD - Bank Phishing Campaign
+# 2026-02-09
+
+leumi-bankleumi.news
+gme.f50.myftpupload.com
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-09
