@@ -10,6 +10,33 @@
 ###############################################################################
 
 
+# INCD - Vietnamese Info Stealer
+# 2026-02-11
+
+mongky68.godohosting.com
+urlvanish.com
+
+# INCD - LTX Stealer
+# 2026-02-11
+
+eqp.lol
+
+# CERT Alert 1950
+# 2026-02-11
+
+ispolic.com
+usapdfa.com
+soka-nline.com
+byzentium.com
+wiaqz.com
+flip-book.wpmajesty.com
+dfg456tgdg.ddns.net
+sdfe46tyg.ddns.net
+myclients.ddns.net
+dfg56yhgv.ddns.net
+uc3fc91857b30178abe85740dd5d.dl.dropboxusercontent.com
+anawyakana.com
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-11
