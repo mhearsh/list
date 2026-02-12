@@ -10,6 +10,18 @@
 ###############################################################################
 
 
+# INCD - SimpleHelp Malicious Activity
+# 2026-02-12
+
+4567b07967fee2ce9bb282c8350dfc2b
+dee4a4c538261b48f7fd13ecb38f4465
+
+# INCD - AI-Driven Adversarial Threat Activity
+# 2026-02-12
+
+6148ac866a98b412acf9ba6ebd41d4a5
+e4d30c315749ff4cb5c99957533b6f45
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-02-12

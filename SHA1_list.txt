@@ -10,6 +10,12 @@
 ###############################################################################
 
 
+# INCD - SimpleHelp Malicious Activity
+# 2026-02-12
+
+54bf7d63bb683ec5d93f39625240c3ace9e2eb5a
+d6d45f63417f8a98e6a6042bd4010e39756cc819
+
 # Auto-Fetch-MalwareBazaar
 # 2026-02-12
 

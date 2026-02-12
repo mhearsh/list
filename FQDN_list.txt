@@ -10,6 +10,74 @@
 ###############################################################################
 
 
+# INCD - STORM-2603
+# 2026-02-12
+
+auth.qgtxtebl.workers.dev
+vdfccjpnedujhrzscjtq.supabase.co
+2-api.mooo.com
+
+# INCD - AI-Driven Adversarial Threat Activity
+# 2026-02-12
+
+369201v-coinbase.com
+482901v-coinbase.com
+543902-coinbase.com
+562789-coinbase.com
+582751v-coinbase.com
+650421-coinbase.com
+673442-coinbase.com
+673827-coinbase.com
+673908-coinbase.com
+674933-coinbase.com
+783521-coinbase.com
+901562-coinbase.com
+903182s-coinbase.com
+coinbase-access.com
+coinbase-diagnostic.com
+coinbase-live.com
+coinbase-myaccount.com
+coinbase-myvault.com
+coinbase-protected.com
+coinbase-safeguard.com
+coinbase-safevault.com
+coinbase-securedvault.com
+coinbase-storage.com
+coldwallets-coinbase.com
+defense-coinbase.com
+diagnose-coinbase.com
+diagnosis-coinbase.com
+diagnostics-coinbase.com
+mycoldstorage-coinbase.com
+myhelpdesk-coinbase.com
+mysafevault-coinbase.com
+mysecureportal-coinbase.com
+privacyvault-coinbase.com
+protectedportal-coinbase.com
+protectedvault-coinbase.com
+refuge-coinbase.com
+safeportal-coinbase.com
+safestorage-coinbase.com
+safestorages-coinbase.com
+safetystorage-coinbase.com
+safetyvault-coinbase.com
+safewallet-coinbase.com
+securedvault-coinbase.com
+securesession-coinbase.com
+securing-coinbase.com
+securityvault-coinbase.com
+storages-coinbase.com
+jxnvbaubojxdjokjegad.supabase.co
+xepokbvwehkbjezrvhip.supabase.co
+nonnida.com
+atlas-extension.com
+putuartana.com
+
+# INCD - Phishing Campaign
+# 2026-02-12
+
+invoice-products.com
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-12
