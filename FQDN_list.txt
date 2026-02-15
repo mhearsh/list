@@ -10,6 +10,27 @@
 ###############################################################################
 
 
+# INCD - Foxveil Malware
+# 2026-02-15
+
+syscore.pages.dev
+taskhostw.pages.dev
+smss-416.pages.dev
+csrss.netlify.app
+sec-healthcore.netlify.app
+smss1.netlify.app
+latestumang.netlify.app
+winsysops.netlify.app
+sihost.netlify.app
+premiumitems.netlify.app
+driverstore-cdn.netlify.app
+
+# INCD - Carmeltunnels Phishing Campaign
+# 2026-02-15
+
+momentaslearning.com
+sini.cl
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-15
