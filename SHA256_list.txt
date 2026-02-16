@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# INCD - DynoWiper Malware
+# 2026-02-16
+
+835b0d87ed2d49899ab6f9479cddb8b4e03f5aeb2365c50a51f9088dcede68d5
+65099f306d27c8bcdd7ba3062c012d2471812ec5e06678096394b238210f0f7c
+60c70cdcb1e998bffed2e6e7298e1ab6bb3d90df04e437486c04e77c411cae4b
+d1389a1ff652f8ca5576f10e9fa2bf8e8398699ddfc87ddd3e26adb201242160
+8759e79cf3341406564635f3f08b2f333b0547c444735dba54ea6fce8539cf15
+f4e9a3ddb83c53f5b7717af737ab0885abd2f1b89b2c676d3441a793f65ffaee
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-02-16

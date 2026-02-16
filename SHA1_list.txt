@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# INCD - DynoWiper Malware
+# 2026-02-16
+
+4ec3c90846af6b79ee1a5188eefa3fd21f6d4cf6
+0e7dba87909836896f8072d213fa2da9afae3633
+86596a5c5b05a8bfbd14876de7404702f7d0d61b
+69ede7e341fd26fa0577692b601d80cb44778d93
+
 # Auto-Fetch-MalwareBazaar
 # 2026-02-16
 
