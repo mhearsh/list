@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# INCD - Phishing Campaign
+# 2026-02-16
+
+lugoolugoo.com
+
+# INCD - LockBit 5.0 Ransomware
+# 2026-02-17
+
+karma0.xyz
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-17
