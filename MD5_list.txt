@@ -10,6 +10,30 @@
 ###############################################################################
 
 
+# INCD - XWorm RAT Malware
+# 2026-02-18
+
+ebc9018fc2a42a95c09bd6f520ccad5f
+
+# INCD - Lynx Ransomware
+# 2026-02-18
+
+3073af95dfc18361caebccd69d0021a2
+7532ff90145b8c59dc9440bf43dc87a5
+e2179046b86deca297ebf7398b95e438
+
+# INCD - UNC6201
+# 2026-02-18
+
+2654c08491a0f7c4a3dfc6282de5638b
+00e195d94d3b1f7092eb9ed132f89d1b
+625b6535321d58bb5c613e85332bf731
+84b573305b732a8372a082c057242953
+123e80a34508c4dede7cc70e76931fcc
+9c44bc9373377831c45dd0ac2661a28e
+b1b7aaa5bd4408a4d3003a9fabcdd041
+c392262fa86c390a20b998970639a51c
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-02-18

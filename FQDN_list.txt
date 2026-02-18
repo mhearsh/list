@@ -10,6 +10,12 @@
 ###############################################################################
 
 
+# INCD - XWorm RAT Malware
+# 2026-02-18
+
+jholycf100.ddns.com.br
+voulerlivros.com.br
+
 # INCD - Mac Storage Scam Campaign
 # 2026-02-18
 
