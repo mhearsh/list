@@ -10,6 +10,11 @@
 ###############################################################################
 
 
+# INCD - Mac Storage Scam Campaign
+# 2026-02-18
+
+91.92.242.30
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-18

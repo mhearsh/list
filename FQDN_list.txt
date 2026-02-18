@@ -10,6 +10,11 @@
 ###############################################################################
 
 
+# INCD - Mac Storage Scam Campaign
+# 2026-02-18
+
+biopranica.com
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-18

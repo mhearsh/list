@@ -10,6 +10,11 @@
 ###############################################################################
 
 
+# INCD - Mac Storage Scam Campaign
+# 2026-02-18
+
+09bfde65a68717ddd65f50dd828dfaf437a292d7439864cbc91d5d9d8ff85a6b
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-02-18
