@@ -10,6 +10,19 @@
 ###############################################################################
 
 
+# INCD - Phishing Campaign
+# 2026-02-19
+
+lombard1.az
+politia-federala.ro
+taxithailandservicestour-travel.com
+arqtetris.com.br
+
+# INCD - ClickFix Campaign
+# 2026-02-19
+
+icecreamwali.com
+
 # INCD - XWorm RAT Malware
 # 2026-02-18
 
