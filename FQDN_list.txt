@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# INCD - LummaC2 Stealer ClickFix
+# 2026-02-22
+
+labrujuladiario.com
+gatepass-corp.com
+salivae.cyou
+venomi.nl
+
 # INCD - Phishing Campaign
 # 2026-02-19
 

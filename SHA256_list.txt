@@ -10,6 +10,19 @@
 ###############################################################################
 
 
+# INCD - Police Phishing Campaign
+# 2026-02-22
+
+db70221c9befe68a5e13d0632d8b28a532815a78a0c02da05a6d7af3dce44185
+
+# INCD - LummaC2 Stealer ClickFix
+# 2026-02-22
+
+5b103f5272e0f17cb934771bbebadd2c2f07eba3851b14a0f6abc2da562aa747
+10af02ad84ada2c8bdbb3d45d6a7af2f4f61276160a9a77cef1eedaec19bbc8b
+a8d3715d191c5ed26fd1b9a531642af4123c71419e187f7cb57b7432fa880090
+eb222960915c84309031962cf743f3c34badd1bf4abb6a7aa9110986e1ea7b14
+
 # INCD - ClickFix Campaign
 # 2026-02-19
 
