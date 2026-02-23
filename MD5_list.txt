@@ -10,6 +10,45 @@
 ###############################################################################
 
 
+# INCD - ClickFix Additional
+# 2026-02-23
+
+8bbfc83b77f2d4d95e4fce7013ade45e
+c031488b657117de36a526501ae7bea4
+dac31a6965b314cce0640e99835787fb
+10619b5e29e19c8c1ea70d202e69cf66
+
+# INCD - TrustConnect Malicious RMM
+# 2026-02-23
+
+0abf1110c9fe6274f9e0e56168c33efa
+e2662c25167e4368f6b81f2c06c80d5d
+70e24233767e19e5011f7fedc7a60f97
+e9d0d3baa8e7f9a399ed678422f099c4
+d9b4f36e8087b38329a9e8f211d03b4f
+87d119386c77eb09ba488a6dce3674fc
+316f157c5e757d7b2e88347f0c31b716
+aef04fae5c5a3999f49aa46d7282c34b
+29d0bd59a530af740c2c82b19b36c49a
+16c0a972fabbd69eb886f99ae8c69da9
+3a0dc172a2e7c42ae356de489d4ee73c
+68a11dd5d95b9769709df3127f91b479
+bb8d4ead5c3099424d2718a0feb286ad
+
+# INCD - ClickFix Campaign RAT
+# 2026-02-23
+
+c55a38222841ccdaa943c289ece55701
+9c48d9bf0b48260ce529156069eeb88d
+5d14aa8bbfb6c505800a5fe17769334a
+85eda483941b11ddcdad3d8b0cdfd702
+
+# INCD - CrashFix Advanced ClickFix Variant
+# 2026-02-23
+
+213b7960682a9ee77d3806bba4c1ef8c
+9d6e49b3c372dfd9c07ce586c162689f
+
 # INCD - Police Phishing Campaign
 # 2026-02-22
 
