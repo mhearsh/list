@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# INCD - MuddyWater Phishing Campaign
+# 2026-02-24
+
+codefusiontech.org
+promoverse.org
+miniquest.org
+jerusalemsolutions.com
+
 # INCD - TrustConnect Malicious RMM
 # 2026-02-23
 
