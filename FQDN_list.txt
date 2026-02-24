@@ -10,6 +10,69 @@
 ###############################################################################
 
 
+# INCD - MuddyWater Phishing Campaign
+# 2026-02-24
+
+codefusiontech.org
+promoverse.org
+miniquest.org
+jerusalemsolutions.com
+
+# INCD - TrustConnect Malicious RMM
+# 2026-02-23
+
+trustconnectsoftware.com
+caladzy.com
+ametax.net
+worldwide-www19.pages.dev
+vurul.click
+statementstview.online
+elev8souvenirs.com
+networkservice.cyou
+memphiswawu.com
+aerobickarlaurbanovas.top
+stewise.top
+smallmartdirectintense.com
+
+# INCD - ClickFix Campaign RAT
+# 2026-02-23
+
+xmri.network
+wexmri.cc
+ndibstersoft.com
+
+# INCD - LummaC2 Stealer ClickFix
+# 2026-02-22
+
+labrujuladiario.com
+gatepass-corp.com
+salivae.cyou
+venomi.nl
+
+# INCD - Phishing Campaign
+# 2026-02-19
+
+lombard1.az
+politia-federala.ro
+taxithailandservicestour-travel.com
+arqtetris.com.br
+
+# INCD - ClickFix Campaign
+# 2026-02-19
+
+icecreamwali.com
+
+# INCD - XWorm RAT Malware
+# 2026-02-18
+
+jholycf100.ddns.com.br
+voulerlivros.com.br
+
+# INCD - Mac Storage Scam Campaign
+# 2026-02-18
+
+biopranica.com
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-24

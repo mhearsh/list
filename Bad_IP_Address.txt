@@ -10,6 +10,39 @@
 ###############################################################################
 
 
+# INCD - MuddyWater Phishing Campaign
+# 2026-02-24
+
+162.0.230.185
+209.74.87.100
+212.11.64.250
+185.196.11.225
+
+# INCD - Police Phishing Campaign
+# 2026-02-22
+
+161.97.166.38
+
+# INCD - ClickFix Campaign
+# 2026-02-19
+
+185.198.234.194
+
+# INCD - XWorm RAT Malware
+# 2026-02-18
+
+152.249.17.145
+
+# INCD - UNC6201
+# 2026-02-18
+
+149.248.11.71
+
+# INCD - Mac Storage Scam Campaign
+# 2026-02-18
+
+91.92.242.30
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-24
