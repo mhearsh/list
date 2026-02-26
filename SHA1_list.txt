@@ -10,6 +10,37 @@
 ###############################################################################
 
 
+# INCD - XWorm Campaign
+# 2026-02-26
+
+9529cd8b368609b2841c8d07980ebe05a59c0e17
+a4796ccd852531c9f072313fe7366b064ca3b494
+4e9201be9654f602aa0d0f8fbe23048078064547
+f7de8133d851769db7306636490dd1ff3c9b10db
+
+# INCD - CVE-2026-1731
+# 2026-02-26
+
+28df16894a6732919c650cc5a3de94e434a81d80
+329cd2405b0928827744d4baec4af338e3295440
+
+# INCD - LunarApplication Infostealer
+# 2026-02-26
+
+0d9dcfc457dc1133695fb78ce0281d38600dbdb2
+
+# INCD - TrustConnect Malicious RMM Additional
+# 2026-02-26
+
+0a32bcde1ae56c5f1cff55ce81e3a314bc84a807
+d5054b51374d3a77d831bfccb3328f403acf111f
+217ecea72450f44bea54bc2978c23f17bdf32659
+d928758a0c749a0b80ce06f7df04c9e6bcd18a82
+4d4d02a754ca21747d7602fad7ec51f0396c7c61
+844beb1e1c09e8ab7454c361866efc2d5737a4d9
+93a04133ef50668fdb3ea140344d16c1442dfcb8
+f81f99b8cf0ed40b9a5e7e157050ef1ba9a9510e
+
 # Auto-Fetch-MalwareBazaar
 # 2026-02-26
 

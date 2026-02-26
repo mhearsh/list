@@ -10,6 +10,47 @@
 ###############################################################################
 
 
+# INCD - XWorm Campaign
+# 2026-02-26
+
+berlin101.com
+retrodayaengineering.icu
+
+# INCD - CVE-2026-1731
+# 2026-02-26
+
+aliyundunupdate.xyz
+
+# INCD - LunarApplication Infostealer
+# 2026-02-26
+
+ms-25h2-download.pro
+ms-25h2-update.pro
+ms25h2-download.pro
+ms25h2-update.pro
+
+# INCD - TrustConnect Malicious RMM Additional
+# 2026-02-26
+
+ssagntroplexa.com
+digitizingworks.com
+axiscontrol.ltd
+hardconnect.net
+
+# INCD - QakBot Malware
+# 2026-02-26
+
+garagedoorrepairchicopeema.com
+alltopposts.com
+boogadelic.com
+cialisfirst.com
+extremetowingservice.com
+ankitashrivastava.com
+ansaf.or.tz
+aurogroup.net
+bellstowingandrecovery.com
+bitakhoshnood.com
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-02-26
