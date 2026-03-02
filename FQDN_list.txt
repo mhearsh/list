@@ -10,6 +10,18 @@
 ###############################################################################
 
 
+# INCD - Lazarus Group
+# 2026-03-02
+
+amazonfiso.com
+human-check.com
+illycoffee.my
+illycafe.my
+markethubuk.com
+sictradingc.com
+trustpdfs.com
+zypras.com
+
 # INCD - APT37
 # 2026-03-01
 
