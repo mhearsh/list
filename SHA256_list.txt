@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# INCD - APT37
+# 2026-03-01
+
+a8b8a92d170029885d4e7763675f10eb172150f8503592677cadedc392edccf4
+c07e0f01e39ae74667d3014904706b50effd1f3cb75e8130eb57729d38589ad5
+c61c679eec1c1b43bbd01727fdfb6a69b11485931eb8569e6b20ada30bfe84af
+cf2e3f46b26bae3d11ab6c2957009bc1295b81463dd67989075592e81149c8ec
+e654df84fd6dc02ca1b312ff856ef2ca88b42a72bab31ea3168965cb946cf16e
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-03-02

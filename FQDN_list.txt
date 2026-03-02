@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# INCD - APT37
+# 2026-03-01
+
+hightkdhe.ste
+homeatedke.ste
+philion.ste
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-03-02
