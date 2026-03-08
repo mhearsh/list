@@ -9212,3 +9212,8 @@ feb8e6059a234ea689404d3d4336e8af
 ff7c018c34a4d3388ef919d07baf13b7
 ff82ea16717c6fa9fc8c07ae2de09c5f
 fff4cb5ea018b7eae8fcdb81eca2fac5
+
+# INCD - Iran-Linked C2 Infrastructure IOC's
+# 2026-03-06
+
+2533307ec1ef8b0611c8896e1460b076

@@ -17000,3 +17000,19 @@ zytonhealth.com
 zyxgate.com
 usaatodayslives.com
 btnearinternet11.weebly.com
+
+# INCD - Iran-Linked C2 Infrastructure IOC's
+# 2026-03-06
+
+anythingshere.shop
+cside.site
+footballfans.asia
+menclub.lt
+musiclivetrack.website
+stone110.store
+web14.info
+justweb.click
+girlsbags.shop
+lecturegenieltd.pro
+ntcx.pro
+retseptik.info
