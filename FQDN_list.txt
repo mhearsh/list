@@ -17025,3 +17025,13 @@ production.dav.indeedex.workers.dev
 pharmacynod.com
 careerst-mobile.com
 aadcasc.cn-nb1.rains3.com
+
+# User Submission
+# 2026-03-08
+
+gitempire.s3.us-east-005.backblazeb2.com
+elvenforest.s3.us-east-005.backblazeb2.com
+uppdatefile.com
+serialmenot.com
+moonzonet.com
+whitelock.xyz
