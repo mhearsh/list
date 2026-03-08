@@ -10,6 +10,28 @@
 ###############################################################################
 
 
+# INCD - Port Scanning Activity
+# 2026-03-08
+
+46.121.37.150
+
+# INCD - Port Scanning Activity
+# 2026-03-07
+
+18.219.157.186
+
+# INCD - Malicious Activity
+# 2026-03-07
+
+68.183.69.214
+31.154.132.204
+
+# INCD - Manual Addition
+# 2026-03-06
+
+45.79.123.76
+139.162.3.144
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-03-08
