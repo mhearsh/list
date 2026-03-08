@@ -35,6 +35,11 @@ a42b4914b0c8dc47a3a5f8114d0fcbef02d84e0a
 fa49d1fd5a938b3de0840759db62867e6382cea1
 be3c8f93e9d7f42ec1133ab36f555b104b23fe1b
 
+# INCD - Phishing Campaign
+# 2026-03-05
+
+5d4b914ce7b87145bbcae7b0ed59c5814cff6a6f
+
 # Auto-Fetch-MalwareBazaar
 # 2026-03-08
 

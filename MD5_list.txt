@@ -35,6 +35,11 @@ e2bcc41ddea5cf9d759380701d14f258
 4860758863fd040a8c809ce53cb7fb37
 7a4119e116ecdefe0a1017110e250e61
 
+# INCD - Phishing Campaign
+# 2026-03-05
+
+9daea4eee3b990d49c6155fa03059877
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-03-08
