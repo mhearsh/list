@@ -1,5 +1,8 @@
 # IOC Repository - Claude Code Configuration
 
+## Language / שפה
+**Always respond in Hebrew (עברית) only.** The user prefers all communication in Hebrew.
+
 ## Project Overview
 This repository contains Indicators of Compromise (IOCs) for threat intelligence:
 - `Bad_IP_Address.txt` - Malicious IP addresses
