@@ -9,6 +9,14 @@
 #                                                                             #
 ###############################################################################
 
+# Phishing Campaign IOC's
+# INCD - Phishing Campaign 09/03/26
+# 2026-03-09
+
+beyincim.com
+hramsvetigeorgije.org
+tuitionking.sg
+
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
