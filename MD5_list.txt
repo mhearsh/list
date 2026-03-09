@@ -10,6 +10,21 @@
 ###############################################################################
 
 
+# INCD - ClickFix Campaign
+# Event 41085
+# 2026-03-09
+
+b2a62cb3d10a0b90e308f5dd703786ed
+338388b8cb49473293f63fcb38b8ecf8
+b852af15a519cb0934b434c83da2b2e9
+3d78cabf9f4e0e9f873763cbd89a7406
+7f56a92a6783056825cf78134b98c057
+0c79244f3f9500ccc2a82250eb389d8d
+91eadee0f79b2f8c6f137959ff39152f
+8c50daa0d64967a5d52d5fa73cdd1773
+e230290c4e1048c1246a4a2b06229476
+72887ddcc9bc29b8296072d6134f20a8
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-03-09
