@@ -61,6 +61,21 @@ When adding IOCs, use this format at the top of each file (after line 11):
 <IOC values, one per line>
 ```
 
+## Summary Table Requirement
+
+**After adding IOCs, Claude MUST display a summary table in Hebrew:**
+
+| סוג IOC | קובץ | כמות |
+|---------|------|------|
+| IP Addresses | Bad_IP_Address.txt | X |
+| Domains/FQDNs | FQDN_list.txt | X |
+| SHA256 | SHA256_list.txt | X |
+| MD5 | MD5_list.txt | X |
+| SHA1 | SHA1_list.txt | X |
+| **סה"כ** | | **X** |
+
+Include source name, date, and threat level when available.
+
 ## Commands
 
 ```bash
