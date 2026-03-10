@@ -9,6 +9,15 @@
 #                                                                             #
 ###############################################################################
 
+# GRIDTIDE Campaign IOCs
+# INCD - High Threat Level
+# 2026-03-10
+
+2d873e91ac1a0423b186bd4fbf8e50d0
+1a308f8ccd3c3b8418054ee7350cbac7
+8c8173975669fb12dceb56cfbea90872
+b13e6f1153da1140c7f1fe0188a4cd00
+45f0cfe71bfcf04f7fbcb68f21cc67e2
 
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox

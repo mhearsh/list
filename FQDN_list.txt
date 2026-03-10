@@ -9,6 +9,80 @@
 #                                                                             #
 ###############################################################################
 
+# GRIDTIDE Campaign IOCs
+# INCD - High Threat Level
+# 2026-03-10
+
+cloud-storage-service.com
+graph-api-microsoft.com
+update-services-microsoft.com
+kb.ivanti-service.com
+download.ivanti-service.com
+dclcwpdtsdcc.ddnsfree.com
+lsls.casacam.net
+prepaid127.freeddns.org
+priftp.kozow.com
+prihxlcs.ddnsfree.com
+prihxlcsw.theworkpc.com
+pxlaxvvva.freeddns.org
+quitgod2023luck.giize.com
+rabbit.ooguy.com
+rsm323.kozow.com
+saf3asg.giize.com
+scopps.ddnsgeek.com
+sdhite43.ddnsfree.com
+sdsuytoins63.kozow.com
+selfad.gleeze.com
+serious.kozow.com
+setupcodpr2.freeddns.org
+sgsn.accesscam.org
+smartfren.giize.com
+sn0son4t31bbsvopou.camdvr.org
+sn0son4t31opc.freeddns.org
+soovuy.gleeze.com
+styuij.mywire.org
+supceasfg1.loseyourip.com
+systemsz.kozow.com
+t31c0mjumpcuyerop.ooguy.com
+t31c0mopamcuiomx.kozow.com
+t31c0mopmiuewklg.webredirect.org
+t31c0mopocuveop.accesscam.org
+t3lc0mcanyqbfac.loseyourip.com
+t3lc0mczmoihwc.camdvr.org
+t3lc0mh4udncifw.casacam.net
+t3lc0mhasvnctsk.giize.com
+t3lm0rtlcagratu.kozow.com
+tch.giize.com
+telcomn.giize.com
+telen.bumbleshrimp.com
+telkom.ooguy.com
+telkomservices.theworkpc.com
+thbio.kozow.com
+timpe.kozow.com
+timpe.webredirect.org
+tlse001hdfuwwgdgpnn.theworkpc.com
+tltlsktelko.ddnsfree.com
+transport.dynuddns.net
+trvcl.bumbleshrimp.com
+ttsiou12.loseyourip.com
+ua2o25yth.ddnsgeek.com
+udieyg.gleeze.com
+unnjunnani.ddnsfree.com
+updatamail.kozow.com
+updatasuccess.ddnsgeek.com
+updateservices.kozow.com
+updatetools.giize.com
+uscplxsecjs.ddnsgeek.com
+usoshared1.ddnsfree.com
+vals.bumbleshrimp.com
+vass.ooguy.com
+vass2025.casacam.net
+vmtools.camdvr.org
+vmtools.loseyourip.com
+vosies.ddnsfree.com
+vpaspmine.freeddns.org
+wdlcamaakc.ooguy.com
+winfoss1.kozow.com
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
