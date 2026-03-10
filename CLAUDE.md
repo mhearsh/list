@@ -25,6 +25,13 @@ All changes pushed to `claude/**` branches are **automatically merged to main** 
 
 **No manual merge or PR required.**
 
+### IMPORTANT: Always Verify Merge
+**After every push, Claude MUST verify the merge to main:**
+```bash
+sleep 3 && git fetch origin main && git log origin/main --oneline -3
+```
+Confirm that the commit appears in main before finishing. If not, push again to trigger the workflow.
+
 ### Branch Naming Convention
 ```
 claude/<feature>-<session-id>
