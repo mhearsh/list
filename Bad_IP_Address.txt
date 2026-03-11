@@ -21,6 +21,14 @@
 216.98.139.27
 172.104.10.247
 
+
+# INCD - FortiGate Edge Intrusions IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-11
+
+185.156.73.62
+185.242.246.127
+193.24.211.61
 # Manual Addition - Port Scanning Detection
 # Firewall port scanning attempts - IPSec ports 500, 4500
 # 2026-03-11

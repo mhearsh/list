@@ -10,6 +10,12 @@
 ###############################################################################
 
 
+# INCD - .Net Vulnerability Webshell IOCs
+# TLP:AMBER - Threat Level: High
+# 2026-03-11
+
+02af27c4c7e0ffa2d3352a9127c14871611644939b638e93d15be655930a1438
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-03-11
