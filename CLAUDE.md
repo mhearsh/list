@@ -1,69 +1,42 @@
-# IOC Repository - Claude Code Configuration
+# IOC Repository
 
-## Language / שפה
-**Always respond in Hebrew (עברית) only.** The user prefers all communication in Hebrew.
+## Language
+**Always respond in Hebrew (עברית) only.**
 
-## Project Overview
-This repository contains Indicators of Compromise (IOCs) for threat intelligence:
-- `Bad_IP_Address.txt` - Malicious IP addresses
-- `FQDN_list.txt` - Malicious domains
-- `SHA256_list.txt` - SHA256 file hashes
-- `MD5_list.txt` - MD5 file hashes
-- `SHA1_list.txt` - SHA1 file hashes
+## Files
+| File | Content |
+|------|---------|
+| `Bad_IP_Address.txt` | Malicious IPs |
+| `FQDN_list.txt` | Malicious domains |
+| `SHA256_list.txt` | SHA256 hashes |
+| `MD5_list.txt` | MD5 hashes |
+| `SHA1_list.txt` | SHA1 hashes |
 
 ## Git Workflow
+- Push to `claude/**` branches → **auto-merged to main** via GitHub Actions
+- **After every push, verify merge:**
+  ```bash
+  sleep 3 && git fetch origin main && git log origin/main --oneline -3
+  ```
 
-### Auto-Merge to Main
-All changes pushed to `claude/**` branches are **automatically merged to main** via GitHub Actions.
+## Adding IOCs
 
-**Workflow:** `.github/workflows/sync-to-main.yml`
-
-**How it works:**
-1. Work on branch `claude/<description>-<session-id>`
-2. Push changes to the claude branch
-3. GitHub Actions automatically merges to main
-
-**No manual merge or PR required.**
-
-### IMPORTANT: Always Verify Merge
-**After every push, Claude MUST verify the merge to main:**
-```bash
-sleep 3 && git fetch origin main && git log origin/main --oneline -3
-```
-Confirm that the commit appears in main before finishing. If not, push again to trigger the workflow.
-
-### Branch Naming Convention
-```
-claude/<feature>-<session-id>
-```
-Example: `claude/add-iocs-ElieQ`
-
-## Automated IOC Fetching
-
-**Workflow:** `.github/workflows/auto-fetch-iocs.yml`
-
-Runs daily at 06:00 UTC (09:00 Israel Time) and fetches IOCs from:
-- **URLhaus** - Malicious URLs/domains/IPs
-- **MalwareBazaar** - SHA256, MD5, SHA1 hashes
-- **ThreatFox** - Domains, IPs, hashes
-
-New IOCs are deduplicated and added automatically.
-
-## Adding IOCs Manually
-
-When adding IOCs, use this format at the top of each file (after line 11):
-
+### Format (insert after line 11)
 ```
 # Source Name
-# Description
+# Description / TLP level
 # YYYY-MM-DD
 
-<IOC values, one per line>
+<IOC values>
+
 ```
+**IMPORTANT: Always add blank line after each IOC block!**
 
-## Summary Table Requirement
+### Defanging
+Clean before adding: `[.]` → `.`, `[:]` → `:`
 
-**After adding IOCs, Claude MUST display a summary table in Hebrew:**
+### Summary Table (Required)
+After adding IOCs, display Hebrew summary:
 
 | סוג IOC | קובץ | כמות |
 |---------|------|------|
@@ -74,14 +47,13 @@ When adding IOCs, use this format at the top of each file (after line 11):
 | SHA1 | SHA1_list.txt | X |
 | **סה"כ** | | **X** |
 
-Include source name, date, and threat level when available.
+Include: source, date, threat level, TLP when available.
+
+## Skills
+- `/add-iocs` - Add IOCs from text or MISP CSV
 
 ## Commands
-
 ```bash
-# Push changes (triggers auto-merge to main)
-git push -u origin claude/<branch-name>
-
-# Manually trigger IOC fetch
-gh workflow run auto-fetch-iocs.yml
+git push -u origin claude/<branch>     # Push (triggers auto-merge)
+gh workflow run auto-fetch-iocs.yml    # Manual IOC fetch
 ```
