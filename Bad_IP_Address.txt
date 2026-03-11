@@ -28,6 +28,7 @@
 185.156.73.62
 185.242.246.127
 193.24.211.61
+
 # Manual Addition - Port Scanning Detection
 # Firewall port scanning attempts - IPSec ports 500, 4500
 # 2026-03-11
