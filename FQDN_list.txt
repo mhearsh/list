@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# INCD - FortiGate Edge Intrusions IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-11
+
+neremedysoft.com
+fastdlvrss.s3.us-east-1.amazonaws.com
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-03-11
