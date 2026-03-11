@@ -10,6 +10,20 @@
 ###############################################################################
 
 
+# Telegram Threat Intel - Multiple Sources
+# Phishing, Scam, BlueNoroff, NetSupportRAT
+# 2026-03-11
+
+danciist.shop
+s.eu.premiumisp.net
+nexusadvisor.inc
+logout-chu.weebly.com
+uv06webzoom.us
+attyahooservice.makeweb.co
+gmxdenetdienst.weebly.com
+applicationhost17.com
+
+
 # INCD - FortiGate Edge Intrusions IOCs
 # TLP:CLEAR - Threat Level: High
 # 2026-03-11
