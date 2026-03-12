@@ -9,6 +9,12 @@
 #                                                                             #
 ###############################################################################
 
+# Port Scanning Detection
+# סריקת פורטים זדונית - Policy ID: 0, DENY
+# 2026-03-12
+
+31.56.176.52
+
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
