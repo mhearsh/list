@@ -40,6 +40,14 @@ Key fields:
 
 ## Processing Rules
 
+### 0. CRITICAL: Sync with Main First
+**ALWAYS fetch and check against origin/main before adding IOCs:**
+```bash
+git fetch origin main
+git show origin/main:<filename> | grep "<IOC>"
+```
+This ensures you check for duplicates against the latest main branch, not local files.
+
 ### 1. Defanging Cleanup
 Always convert defanged IOCs to clean format:
 - `[.]` → `.`
@@ -47,7 +55,10 @@ Always convert defanged IOCs to clean format:
 - `[:]` → `:`
 
 ### 2. Deduplication
-Before adding, check if IOC already exists in target file using grep.
+Before adding, check if IOC already exists in **origin/main** files using:
+```bash
+git show origin/main:Bad_IP_Address.txt | grep -F "<IOC>"
+```
 
 ### 3. File Format
 Add IOCs after line 11 with this structure:
@@ -64,10 +75,32 @@ Add IOCs after line 11 with this structure:
 **CRITICAL: Always add a blank line after the last IOC in each block!**
 
 ### 4. Git Workflow
+**IMPORTANT: Always sync with main before and after changes!**
+
+**Before adding IOCs:**
+```bash
+git fetch origin main
+git merge origin/main --no-edit  # Sync local branch with main
+```
+
+**After adding IOCs:**
 1. Stage changed files: `git add <files>`
 2. Commit with descriptive message
 3. Push: `git push -u origin <branch>`
-4. **Verify merge**: `sleep 3 && git fetch origin main && git log origin/main --oneline -3`
+4. If push fails with "fetch first", run: `git pull origin <branch> --rebase && git push`
+5. **Verify merge to main:**
+```bash
+sleep 5 && git fetch origin main && git log origin/main --oneline -5
+```
+6. **Confirm IOCs in main:**
+```bash
+git show origin/main:<filename> | grep "<one of the IOCs>"
+```
+
+**If merge conflict occurs:**
+- Resolve conflicts by keeping both versions
+- Remove conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`)
+- Commit the resolution and push again
 
 ## Output Requirements
 
@@ -108,12 +141,26 @@ Then show combined total.
 
 ## Example Workflow
 
-1. User pastes IOCs or MISP CSV
-2. Detect input type and parse
-3. Clean defanging if present
-4. Check for duplicates
-5. Add to appropriate files with proper headers
-6. Add blank line after each block
-7. Commit and push
-8. Verify merge to main
-9. Display Hebrew summary table
+1. **FIRST: Fetch and sync with main**
+   ```bash
+   git fetch origin main
+   git merge origin/main --no-edit
+   ```
+2. User pastes IOCs or MISP CSV
+3. Detect input type and parse
+4. Clean defanging if present
+5. **Check for duplicates against origin/main** (NOT local files!)
+   ```bash
+   git show origin/main:<file> | grep -F "<IOC>"
+   ```
+6. Add to appropriate files with proper headers
+7. Add blank line after each block
+8. Commit and push to claude/** branch
+9. Handle any push failures (pull --rebase if needed)
+10. **Verify merge to main** - wait and check:
+    ```bash
+    sleep 5 && git fetch origin main
+    git log origin/main --oneline -5
+    git show origin/main:<file> | grep "<IOC>"  # Confirm IOC exists
+    ```
+11. Display Hebrew summary table

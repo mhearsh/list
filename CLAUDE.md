@@ -14,9 +14,19 @@
 
 ## Git Workflow
 - Push to `claude/**` branches → **auto-merged to main** via GitHub Actions
+- **CRITICAL: Before adding IOCs, ALWAYS sync with main:**
+  ```bash
+  git fetch origin main
+  git merge origin/main --no-edit
+  ```
+- **Check duplicates against origin/main (NOT local files!):**
+  ```bash
+  git show origin/main:<filename> | grep -F "<IOC>"
+  ```
 - **After every push, verify merge:**
   ```bash
-  sleep 3 && git fetch origin main && git log origin/main --oneline -3
+  sleep 5 && git fetch origin main && git log origin/main --oneline -5
+  git show origin/main:<file> | grep "<IOC>"  # Confirm IOC in main
   ```
 
 ## Adding IOCs
