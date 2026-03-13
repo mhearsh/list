@@ -257,20 +257,18 @@
 85.226.212.168
 91.196.32.55
 94.156.179.152
+
 # Port Scanning Detection
-# סריקת פורטים זדונית - 5952 סריקות ב-3 שעות, local-in-policy, DENY
 # 2026-03-13
 
 172.237.27.147
 
 # Port Scanning Detection
-# סריקת פורטים - 627 סריקות ב-5 דקות, Policy 0, DENY
 # 2026-03-13
 
 3.101.230.201
 
 # Port Scanning Detection
-# סריקת פורטים זדונית - Policy ID: 0, DENY
 # 2026-03-12
 
 31.56.176.52
