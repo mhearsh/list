@@ -9,6 +9,13 @@
 #                                                                             #
 ###############################################################################
 
+# Iranian Attack Group IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-03-13
+
+08b80ab6a6c4eca08e18096c9468fe0bd2e33fc23142730e59177e6fcd7c902d
+d969ff9fe6099db8f6ef3977a849b1757aa221669387eb29a2c6c0ce4b4abe70
+1ab1586975779b7d1ce09315b1312b939a194de6df7c5e92aea4f963835f7b08
 
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
