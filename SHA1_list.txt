@@ -9,6 +9,13 @@
 #                                                                             #
 ###############################################################################
 
+# Iranian Attack Group IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-03-13
+
+f3e6e0c1fb3886dfe01019e312ee1c663920ff4c
+b810dd8727c81aca93e6f7ce1bf1afb6d44802e9
+b9930eda0091790c563226549e734a903e1baf7c
 
 # INCD - .Net Vulnerability Webshell IOCs
 # TLP:AMBER - Threat Level: High
