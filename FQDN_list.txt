@@ -916,6 +916,7 @@ z1-mk88.vokriz.in.net
 z8t-m11q.xylophis.in.net
 z_x_9.nivoxis.in.net
 zen-draum.appcheck.in.net
+
 # Phishing Campaign IOCs
 # INCD - High Threat Level
 # 2026-03-10
@@ -1310,6 +1311,7 @@ ym8-st11.orbitcapture.in.net
 zent-node.zentalis.in.net
 zent-v05.zentalis.in.net
 zztzqouw.redflat.in.net
+
 # Phishing Campaign IOC's
 # INCD - Phishing Campaign 09/03/26
 # 2026-03-09
@@ -13327,6 +13329,7 @@ zvdlza5tjyl33mbx4k7w7t25ve6e5c3ve3nmfwqlygl6ww6s4lmsu4ad.onion
 
 nexsnield.com
 temp.sh
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-01-22
@@ -13544,6 +13547,7 @@ wsefghuiwehf.gxg.xxx
 wsergoijnrjewgewr.duckdns.org
 ygncsj.za.com
 zak.agfoodpos.com
+
 # RedVD-Cybercrime-INCD-40834
 # 2026-01-20
 redvds.com
@@ -13655,6 +13659,7 @@ ozone.trycloudflare.com
 
 cphost14.qhoster.net
 mcnzxz.com
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-01-19

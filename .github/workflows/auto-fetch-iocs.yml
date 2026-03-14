@@ -149,6 +149,7 @@ jobs:
                 echo "# $TODAY"
                 echo ""
                 cat /tmp/fqdn_new.txt
+                echo ""
               } > /tmp/fqdn_insert.txt
               sed -i "11r /tmp/fqdn_insert.txt" FQDN_list.txt
               echo "Added $(wc -l < /tmp/fqdn_new.txt) new domains"
@@ -178,6 +179,7 @@ jobs:
                 echo "# $TODAY"
                 echo ""
                 cat /tmp/ip_new.txt
+                echo ""
               } > /tmp/ip_insert.txt
               sed -i "11r /tmp/ip_insert.txt" Bad_IP_Address.txt
               echo "Added $(wc -l < /tmp/ip_new.txt) new IPs"
@@ -207,6 +209,7 @@ jobs:
                 echo "# $TODAY"
                 echo ""
                 cat /tmp/sha256_new.txt
+                echo ""
               } > /tmp/sha256_insert.txt
               sed -i "11r /tmp/sha256_insert.txt" SHA256_list.txt
               echo "Added $(wc -l < /tmp/sha256_new.txt) new SHA256 hashes"
@@ -236,6 +239,7 @@ jobs:
                 echo "# $TODAY"
                 echo ""
                 cat /tmp/md5_new.txt
+                echo ""
               } > /tmp/md5_insert.txt
               sed -i "11r /tmp/md5_insert.txt" MD5_list.txt
               echo "Added $(wc -l < /tmp/md5_new.txt) new MD5 hashes"
@@ -263,6 +267,7 @@ jobs:
                 echo "# $TODAY"
                 echo ""
                 cat /tmp/sha1_new.txt
+                echo ""
               } > /tmp/sha1_insert.txt
               sed -i "11r /tmp/sha1_insert.txt" SHA1_list.txt
               echo "Added $(wc -l < /tmp/sha1_new.txt) new SHA1 hashes"

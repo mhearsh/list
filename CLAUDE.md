@@ -33,6 +33,7 @@
 
 ### Format (insert after line 11)
 ```
+
 # Source Name
 # Description / TLP level
 # YYYY-MM-DD
@@ -40,7 +41,10 @@
 <IOC values>
 
 ```
-**IMPORTANT: Always add blank line after each IOC block!**
+**CRITICAL FORMATTING RULES:**
+1. **Blank line BEFORE the # header** - separates from previous block
+2. **Blank line AFTER the IOC values** - separates from next block
+3. Every IOC block must be surrounded by blank lines!
 
 ### Defanging
 Clean before adding: `[.]` → `.`, `[:]` → `:`

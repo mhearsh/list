@@ -442,6 +442,7 @@ f55bd5affe424bec6d2e9facad13ee32
 f5a9693663b7f95bc6ab4a2099633a6a
 f7c92d8a4b26991501504740eda5bb43
 fb5b87fcc847ea301187e0f9559cf35e
+
 # GRIDTIDE Campaign IOCs
 # INCD - High Threat Level
 # 2026-03-10
@@ -6729,6 +6730,7 @@ adf675ffc1acb357f2d9f1a94e016f52
 47b4a3f844d8ea24e37176dd1479c255
 a88daa62751c212b7579a57f1f4ae8f8
 408dd6ade80f2ebbc2e5470a1fb506f1
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-01-22
@@ -6938,6 +6940,7 @@ f2899c88d991669b7f0a6d3c7fb7312b
 f41c4b6cb169645a2ea29edd7aab630e
 fb8fb65c21b58de93d797da3f9cce503
 fbcc0401434cf8e5d6796f0fc04b8c21
+
 # Karma-Ransomware-INCD-40835
 # 2026-01-20
 098fd0647fabd917c10d251fec312d00
@@ -7219,6 +7222,7 @@ c7ba06dcd3ddc8294b712253c3f6d378
 0aab6df92ad26c47acf649d48da4c464
 4c512a7cdba038bdd857358e699b49e4
 962a27acb8366efdea121af727fdfb4c
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-01-19
