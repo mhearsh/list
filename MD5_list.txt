@@ -24,6 +24,12 @@ d6cbe364b0f6c7c675419055569e2523
 68529d3d99fccac503484068d8bbd693
 da9d12bbbf17c3e7b0e26831037fce12
 
+# Phishing Campaigns IOC's | 15/03/26
+# INCD - TLP:AMBER - Threat Level: High
+# 2026-03-15
+
+a804a79791993bdf232f9784318f75e2
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-03-15

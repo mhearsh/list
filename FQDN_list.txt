@@ -28,6 +28,12 @@ vpn-fortinet.com
 watchguard-vpn.com
 vpn-connection.pro
 
+# Phishing Campaigns IOC's | 15/03/26
+# INCD - TLP:AMBER - Threat Level: High
+# 2026-03-15
+
+filedn.com
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-03-15
