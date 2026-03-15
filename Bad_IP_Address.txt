@@ -9,6 +9,24 @@
 #                                                                             #
 ###############################################################################
 
+# Strom-2561 SEO poisoning IOC's
+# INCD - TLP:CLEAR - Threat Level: High
+# 2026-03-13
+
+194.76.226.93
+
+# Brute Forcing & Web Interface Exploiting IOCs
+# INCD - TLP:AMBER - Threat Level: Undefined
+# 2026-03-14
+
+35.243.23.129
+159.65.119.52
+
+# Malicious Printing + CNA IOC's
+# INCD - TLP:AMBER - Threat Level: High
+# 2026-03-15
+
+2.59.169.136
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox

@@ -9,6 +9,20 @@
 #                                                                             #
 ###############################################################################
 
+# Strom-2561 SEO poisoning IOC's
+# INCD - TLP:CLEAR - Threat Level: High
+# 2026-03-13
+
+82b05df63283b4f84041834c42490a6181043865
+6d1e53bdc97f72fab9c4782bd2b1e0dd9d6c93ef
+c99e0b819aa21faa8d645b0201c179c566adc1a2
+bb7d808e246b52114540b6d310e5d2c8936c6188
+0552e886cafb70e5032c413f986bfa7807a18760
+e775de4f63ef49668828240fdc4778fcae37575b
+1e71e99abfc5f70e04adac5a8a535248818aa38d
+32397697c209953ef0252b95b904893cb07fa975
+fdd954ab648ec39bd77d15393de4c83f7e5afa8e
+33b07904a37f2c39efb43c149d181b524abebd38
 
 # Auto-Fetch-MalwareBazaar
 # 2026-03-15

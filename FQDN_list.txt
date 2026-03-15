@@ -9,6 +9,24 @@
 #                                                                             #
 ###############################################################################
 
+# Strom-2561 SEO poisoning IOC's
+# INCD - TLP:CLEAR - Threat Level: High
+# 2026-03-13
+
+checkpoint-vpn.com
+cisco-secure-client.es
+forticlient-for-mac.com
+forticlient-vpn.de
+forticlient-vpn.fr
+forticlient.ca
+forticlient.no
+ivanti-secure-access.de
+ivanti-pulsesecure.com
+sonicwall-netextender.nl
+sophos-connect.org
+vpn-fortinet.com
+watchguard-vpn.com
+vpn-connection.pro
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
