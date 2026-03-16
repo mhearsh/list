@@ -9,6 +9,13 @@
 #                                                                             #
 ###############################################################################
 
+# RedAlert APK / RA-Backup C2 / Bit.ly Redirect
+# URL indicators - malicious Android APK distribution, C2 analytics endpoint, shortened redirect
+# 2026-03-16
+
+www.shirideitch.com
+api.ra-backup.com
+bit.ly
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
