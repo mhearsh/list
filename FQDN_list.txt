@@ -9,6 +9,12 @@
 #                                                                             #
 ###############################################################################
 
+# Phishing Campaign IOC's | 16/03/2026
+# INCD | TLP:CLEAR - Threat Level: High
+# 2026-03-16
+
+www.360printsol.com
+
 # RedAlert APK / RA-Backup C2 / Bit.ly Redirect
 # URL indicators - malicious Android APK distribution, C2 analytics endpoint, shortened redirect
 # 2026-03-16

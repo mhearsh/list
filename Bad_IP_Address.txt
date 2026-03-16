@@ -9,6 +9,12 @@
 #                                                                             #
 ###############################################################################
 
+# Phishing Campaign IOC's | 16/03/2026
+# INCD | TLP:CLEAR - Threat Level: High
+# 2026-03-16
+
+91.193.17.117
+
 # User Submission
 # External IP Addresses
 # 2026-03-16
