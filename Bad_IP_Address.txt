@@ -10,6 +10,13 @@
 ###############################################################################
 
 # User Submission
+# External IP Addresses
+# 2026-03-16
+
+93.172.93.218
+3.17.72.122
+
+# User Submission
 # Malicious IP Addresses
 # 2026-03-16
 
