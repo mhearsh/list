@@ -23856,3 +23856,17 @@ uppdatefile.com
 serialmenot.com
 moonzonet.com
 whitelock.xyz
+
+# Phishing Campaign IOC's 16/03/26
+# INCD | TLP:AMBER - Threat Level: High
+# 2026-03-16
+
+ntf-co-il.exabearn.com
+
+# Boggy Serpens IOC's
+# INCD | TLP:CLEAR - Threat Level: High
+# 2026-03-17
+
+nomercys.it.com
+reminders.trahum.org
+
