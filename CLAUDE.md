@@ -31,20 +31,25 @@
 
 ## Adding IOCs
 
-### Format (insert after line 11)
+### Format (insert after line 11 — ALWAYS at the TOP, line 12+)
+
+**⚠️ NEVER append to end of file! Always INSERT at line 12 using Python:**
+```python
+with open('<filename>', 'r') as f:
+    lines = f.readlines()
+
+new_block = ['\n', '# Source Name\n', '# Description / TLP level\n', '# YYYY-MM-DD\n', '\n', '<IOC1>\n', '\n']
+new_content = lines[:11] + new_block + lines[11:]
+
+with open('<filename>', 'w') as f:
+    f.writelines(new_content)
 ```
 
-# Source Name
-# Description / TLP level
-# YYYY-MM-DD
-
-<IOC values>
-
-```
 **CRITICAL FORMATTING RULES:**
 1. **Blank line BEFORE the # header** - separates from previous block
 2. **Blank line AFTER the IOC values** - separates from next block
 3. Every IOC block must be surrounded by blank lines!
+4. **New entries always go at line 12 (top of data), NOT at end of file**
 
 ### Defanging
 Clean before adding: `[.]` → `.`, `[:]` → `:`

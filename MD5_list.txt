@@ -10,6 +10,25 @@
 ###############################################################################
 
 
+# CamelClone Campaign IOC's
+# INCD | TLP:CLEAR - Threat Level: High
+# 2026-03-17
+
+32f747c1a4a9aff1b4cea7f35f2f5111
+a494d88d211743076b87c71ff26b9fb9
+c73c308a137ff7805577042cc9e923e1
+8cecabbb0f7555afaa302e89e5fcbf5e
+3f25c60d96f9cbbca7fd19278545207b
+4ad8d263065e46d0e2fd4183f89258ac
+db5a302fa7255a3b88873e7979555f32
+376884baaa4b9505792afc81cdedda42
+cad5822d205b5680c0e5e7451aac258d
+f40d601a48a96e70bae87c76c8969c45
+fda501d63f3d2d74e05a63e0d51ee0cf
+0fd9562521b49138fcebcea494f4ed74
+12bf882a8fb8f16edccbe87adbbc3c59
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-03-17
@@ -11236,22 +11255,3 @@ e6fafcb72f2f315692218182ba84e0ef
 e2bcc41ddea5cf9d759380701d14f258
 4860758863fd040a8c809ce53cb7fb37
 7a4119e116ecdefe0a1017110e250e61
-
-# CamelClone Campaign IOC's
-# INCD | TLP:CLEAR - Threat Level: High
-# 2026-03-17
-
-32f747c1a4a9aff1b4cea7f35f2f5111
-a494d88d211743076b87c71ff26b9fb9
-c73c308a137ff7805577042cc9e923e1
-8cecabbb0f7555afaa302e89e5fcbf5e
-3f25c60d96f9cbbca7fd19278545207b
-4ad8d263065e46d0e2fd4183f89258ac
-db5a302fa7255a3b88873e7979555f32
-376884baaa4b9505792afc81cdedda42
-cad5822d205b5680c0e5e7451aac258d
-f40d601a48a96e70bae87c76c8969c45
-fda501d63f3d2d74e05a63e0d51ee0cf
-0fd9562521b49138fcebcea494f4ed74
-12bf882a8fb8f16edccbe87adbbc3c59
-

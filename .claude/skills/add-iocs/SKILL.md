@@ -60,10 +60,39 @@ Before adding, check if IOC already exists in **origin/main** files using:
 git show origin/main:Bad_IP_Address.txt | grep -F "<IOC>"
 ```
 
-### 3. File Format
-Add IOCs after line 11 with this structure:
+### 3. File Format — CRITICAL: Insert at Line 12 (After Line 11), NOT Append!
 
+**⚠️ NEVER use `cat >>` or append to the end of the file. Always INSERT at line 12.**
+
+Use Python to insert the new block right after line 11:
+
+```python
+with open('<filename>', 'r') as f:
+    lines = f.readlines()
+
+new_block = [
+    '\n',
+    '# Source Name / Event Name\n',
+    '# Description / TLP:LEVEL - Threat Level: X\n',
+    '# YYYY-MM-DD\n',
+    '\n',
+    'ioc_value_1\n',
+    'ioc_value_2\n',
+    '\n',
+]
+
+# Insert after line 11 (index 11), before existing content
+new_content = lines[:11] + new_block + lines[11:]
+
+with open('<filename>', 'w') as f:
+    f.writelines(new_content)
 ```
+
+**Result: new IOCs appear at lines 12-13+, existing content follows.**
+
+Block structure:
+```
+(blank line)
 # Source Name / Event Name
 # Description / TLP:LEVEL - Threat Level: X
 # YYYY-MM-DD
@@ -72,7 +101,10 @@ Add IOCs after line 11 with this structure:
 
 ```
 
-**CRITICAL: Always add a blank line after the last IOC in each block!**
+**CRITICAL formatting rules:**
+1. **Blank line BEFORE the `#` header** — separates from previous block
+2. **Blank line AFTER the IOC values** — separates from next block
+3. Insert BEFORE existing content, not after
 
 ### 4. Git Workflow
 **IMPORTANT: Always sync with main before and after changes!**
