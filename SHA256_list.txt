@@ -10,6 +10,27 @@
 ###############################################################################
 
 
+# User Submission
+# Manual addition - TLP:CLEAR
+# 2026-03-18
+
+1e3a7e978953bbe040cc5e0743b926fe3407ab949370b791d2de6655a704ef73
+73048cb6506443e482935586edb2af3f6a0c8ca44b061172b5be826a0f1e92f6
+acfd59afbb50331925cc3980e7c40044807e0a8bf44e0c38f9f0af9988ea060e
+
+# Malicious PS Script IOC's | 18/03/2026
+# INCD | TLP:AMBER - Threat Level: High
+# 2026-03-18
+
+6e12ee5f7d13dbb200e873fc12960df3bcb9db57ae2f23bf2c106444a1e3dbaf
+
+# Phishing Campaign IOC's | 18/03/2026
+# INCD | TLP:AMBER - Threat Level: High
+# 2026-03-18
+
+9826e87041fe4ae99413a4790096f5c1be2b74316aece04afb06b051e8a09376
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-03-18

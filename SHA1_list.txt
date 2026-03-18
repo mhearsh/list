@@ -10,6 +10,19 @@
 ###############################################################################
 
 
+# Malicious PS Script IOC's | 18/03/2026
+# INCD | TLP:AMBER - Threat Level: High
+# 2026-03-18
+
+5cc7a3db93368a5cf0268123d856da1213d41a50
+
+# Phishing Campaign IOC's | 18/03/2026
+# INCD | TLP:AMBER - Threat Level: High
+# 2026-03-18
+
+cc5cda83007514b43047c100fa23063248f09383
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-03-18
 

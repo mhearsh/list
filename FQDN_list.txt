@@ -10,6 +10,38 @@
 ###############################################################################
 
 
+# User Submission
+# Manual addition - TLP:CLEAR
+# 2026-03-18
+
+finland5.server21.org
+down.celltoocall.com
+hzf09853311.xyz
+parsashonam-sub.blog
+bot.kilashin.info
+finland2.server21.org
+finland1.server21.org
+finland6.server21.org
+finland4.server21.org
+re.dangidog.site
+sir.ffakhar.ir
+robot5.server21.org
+
+# Malicious PS Script IOC's | 18/03/2026
+# INCD | TLP:AMBER - Threat Level: High
+# 2026-03-18
+
+download-version.4-1-7.com
+download-version.2-1-9.com
+download.last-verison.com
+
+# Phishing Campaign IOC's | 18/03/2026
+# INCD | TLP:AMBER - Threat Level: High
+# 2026-03-18
+
+ilgbc-org.exabearn.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-03-18
