@@ -10,6 +10,23 @@
 ###############################################################################
 
 
+# Vidar Infostealer Campaign IOC's
+# INCD | TLP:CLEAR - Threat Level: High
+# 2026-03-19
+
+458e4c64738e8f46e997eea7cb32a296
+d6432b42f7a52976277bb00b29e761b9
+436f1b73d4f0b54c74aa64ef5cf8d4b8
+81215be5eac551d298cac6971ab1664f
+ce713644a68a9c5e8b75c426ec367354
+a52e3427ad0705205cea3534f8e3a619
+f6fc34afdf90ecbfaca0cfd619428037
+7d86b7deae66b8ca7c9816408229e74f
+c675ec0633097f203355f974ba63ad9f
+3e894c7c87fe6f98619978d064fc6ef3
+dc286f5eba859c369e0ef14e6ce68d80
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-03-19

@@ -10,6 +10,21 @@
 ###############################################################################
 
 
+# Vidar Infostealer Campaign IOC's
+# INCD | TLP:CLEAR - Threat Level: High
+# 2026-03-19
+
+woopresscdn.com
+
+# APT28 IOC's
+# INCD | TLP:CLEAR - Threat Level: High
+# 2026-03-19
+
+zhblz.com
+mail.dmsu.gov.ua
+blog.pentagonteam.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-03-19
