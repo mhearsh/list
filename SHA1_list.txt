@@ -10,6 +10,48 @@
 ###############################################################################
 
 
+# INCD / Handala IOCs
+# TLP:AMBER - Threat Level: High
+# 2026-03-20
+
+c55818b8c2f347455d52992a315e70662d03d6d0
+bee404dc872804ade5a1a6e29e66d3f8d5260bc3
+bf77d331fac939865ae2fc855e000d6fec38727d
+8f58802635d05bb787f8ae6bafa98a337acf8343
+b7535389baf34c7793fe06774f018acc52df943d
+865fc0ee2d4fb1b88e1c2595fb7edff3017ff377
+b7c372af1b69fe3994274893f3107d71ab9a5b10
+984926729ab472c54f770f7f34fc3a553fbcedd0
+
+
+# INCD / Iran MOIS Campaign IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-22
+
+704119320f7ed10dc7707833218468d455d3c5fd
+2fa0eb74f8a527d938f8538d66bcdebcc9771527
+539d2eb959561d9f80d3e2845f0f95661125c33e
+87dcba4957396a9e594ed1d133bc115315763002
+0fe3cf4cabadedb382b0833dcb6ba74db3242022
+
+
+# INCD / PureLog Stealer IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-22
+
+551e62437edab9e496ed3339f10a15cd35e3e819
+d2e8d615e7c1a810993088a8c9291e0a4a7ed4c8
+0dfb8dd8fc3f194461af5b17779dd31eff70fccc
+d874c3654bfb4fbf0c7c069f6e5b7ebd930415d0
+
+
+# INCD / Supply Chain Attack Using Trivy IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-22
+
+4fed54d88f919c675ee2f575f70698a8d3649287
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-03-22
 

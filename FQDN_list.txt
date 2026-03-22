@@ -10,6 +10,51 @@
 ###############################################################################
 
 
+# INCD / Interlock Ransomware IOCs
+# TLP:CLEAR - Threat Level: Undefined
+# 2026-03-21
+
+cherryberry.click
+ms-server-default.com
+initialize-configs.com
+ms-global.first-update-server.com
+ms-sql-auth.com
+kolonialeru.com
+sclair.it.com
+browser-updater.com
+browser-updater.live
+os-update-server.com
+os-update-server.org
+os-update-server.live
+os-update-server.top
+
+
+# INCD / Phishing Campaign IOCs 22/03/2026
+# TLP:AMBER - Threat Level: High
+# 2026-03-22
+
+project-kontrast.vercel.app
+
+
+# INCD / PureLog Stealer IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-22
+
+quickdocshare.com
+eideasrl.it
+bestshoppingday.com
+logs.bestshopingday.com
+bestsaleshoppingday.com
+mh.bestshopingday.com
+
+
+# INCD / Supply Chain Attack Using Trivy IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-22
+
+aquasecurtiy.org
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-03-22

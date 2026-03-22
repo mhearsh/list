@@ -10,6 +10,60 @@
 ###############################################################################
 
 
+# INCD / Handala IOCs
+# TLP:AMBER - Threat Level: High
+# 2026-03-20
+
+13275873630e712fd6d4590856dab998
+f35339b699830662a4a3d45937e2932e
+e379184bb3ce2b13955a5e94c76ba0d7
+be926fc6109e6b8226cb6f187b0fffc5
+5d674f4b92adb3e382f3f02493d5adcc
+01a353423f8d81cec8e506b0535c454e
+49294b7a748bac8a5bcd86e4f24eb2fa
+
+
+# INCD / Interlock Ransomware IOCs
+# TLP:CLEAR - Threat Level: Undefined
+# 2026-03-21
+
+b885946e72ad51dca6c70abc2f773506
+f80d3d09f61892c5846c854dd84ac403
+
+
+# INCD / Iran MOIS Campaign IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-22
+
+7402f2f9263782a4c469570035843510
+f8b5554808428291acc65d1fd2efe01c
+d70ebf20e3d697897bad5bebf72ea271
+3e7a2fcef1d038d05b20148c573a6499
+ebdd9595b79b39f53909d862499dbc94
+b9086413e7b6a0c6a11c25d14c22615f
+481c5b5e69a08c3df206c59fd8ddc0dc
+1e6b601f733bc40eaa58916986bfc5b9
+a3394ef7ffa7e88b2e7efaee4617fe04
+2965817d063f1e8f9889f9126443d631
+e51ff37fb431767dcdec0b5e6d2a786a
+7e23ffadb664b0e53d821478a249d84c
+
+
+# INCD / PureLog Stealer IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-22
+
+f143c8fba478046700c8da0d5025b31a
+a19f69539225238c6c44ea5fa5a2f701
+
+
+# INCD / Supply Chain Attack Using Trivy IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-22
+
+d761a6a7ae9f2254bd81ac234033a8b8
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-03-22

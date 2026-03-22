@@ -10,6 +10,64 @@
 ###############################################################################
 
 
+# INCD / Handala IOCs
+# TLP:AMBER - Threat Level: High
+# 2026-03-20
+
+fe0b8597125497b777e22c1e1a5ca32e1e0f898eb7f2da9d50a81ad011da2b7f
+fcd50cbf8a3b2cf9f18efb667eae8fc14ee519adb9f4e13bd07b92ecf601da42
+760d78318ccc27508a0b4d00bd56a41b874733c1785fab8280e24bc26e358ca0
+85134c0e60d54c5bbc201c297cf54fff6ca818b035307f8f8cd8ab76d5819b0d
+e0ab2ea04172bd825a4ea7aa57054ec2fe97a753c196a3ff84e6f6b44eb3afe9
+1495a63819c1ae5c49f895461ffe908400e4738d4383ed3cb7fdd8cc69553696
+680fe32f4d1032d7e0dc589ce831b6bbbb4e432c2aa6c635f47c44419bd69c76
+d2998935b7d3bc33145961f0b7fcd5bcbc1e2fe6bd7544c2deca4f9c96048f75
+
+
+# INCD / Interlock Ransomware IOCs
+# TLP:CLEAR - Threat Level: Undefined
+# 2026-03-21
+
+d1caa376cb45b6a1eb3a45c5633c5ef75f7466b8601ed72c8022a8b3f6c1f3be
+6c8efbcef3af80a574cb2aa2224c145bb2e37c2f3d3f091571708288ceb22d5f
+
+
+# INCD / CNA Wiper C2 Infrastructure IOCs
+# TLP:AMBER - Threat Level: Undefined
+# 2026-03-21
+
+c55f0971024fd15813b64236ac17631a8e26fb2bf7637e7f180cee916c866916
+603b23fc55b32469d090d021b0cd2cee023db2d34505733dabc52ba4fbd7e621
+280be1473344217cfcec2feee6456d0492fec553897a15e90eb553dfa99371f6
+65f9a08ce605955c29a7205f1d1d73a7983b16d5b2eb01b8ea3536a060fee242
+
+
+# INCD / Iran MOIS Campaign IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-22
+
+e8b633dcad173eb41ef02686b46779a4a0e53df7f6c63039a798f2db5eb83afc
+067d93741bcab16810ef15c11941245229519470dc7b24793dd1d3a7addacaae
+2de6a4b9c5954f8aca14fa4fb80a163d1e2fb27f33f0b0ef59b28d39146b3848
+0d74156089292eee308017c8e8a7550739ecb6149ff379810f7c54b1dbaabc91
+4a3b003994112b4dd24ac8b9cc4757f4a12576b57b3cc8f5028d85fbceb7c405
+
+
+# INCD / PureLog Stealer IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-22
+
+e675bc054481bdca6f8cd1d561869e18712dc05a42e5c24b9add7679efc7faf6
+ac591adea9a2305f9be6ae430996afd9b7432116f381b638014a0886a99c6287
+
+
+# INCD / Supply Chain Attack Using Trivy IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-22
+
+18a24f83e807479438dcab7a1804c51a00dafc1d526698a66e0640d1e5dd671a
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-03-22
