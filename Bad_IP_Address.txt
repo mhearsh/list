@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# INCD / Supply Chain Attack Using Trivy IOCs 26/03/2026
+# TLP:CLEAR - Threat Level: High
+# 2026-03-26
+
+63.251.162.11
+23.142.184.129
+209.34.235.18
+
+
 # Unknown Source
 # Malicious IP Addresses - TLP:CLEAR
 # 2026-03-27

@@ -10,6 +10,29 @@
 ###############################################################################
 
 
+# INCD / TeamPCP Supply Chain Attack IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-03-25
+
+litellm.cloud
+checkmarx.zone
+
+
+# INCD / Supply Chain Attack Using Trivy IOCs 26/03/2026
+# TLP:CLEAR - Threat Level: High
+# 2026-03-26
+
+trycloudflare.com
+
+
+# INCD / VBS-Based Malware Campaign
+# TLP:CLEAR - Threat Level: High
+# 2026-03-26
+
+tammhdka.pro
+tammhdka.cloud
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-03-27
