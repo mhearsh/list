@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# INCD / ClickFix Campaign 30/03/2026
+# TLP:AMBER - Threat Level: High
+# 2026-03-30
+
+158.94.208.86
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-03-30
