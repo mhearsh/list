@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# Axios NPM Malicious Packages IOC's (MISP Event 41226)
+# INCD / TLP:CLEAR / High
+# 2026-04-01
+
+07d889e2dadce6f3910dcbc253317d28ca61c766
+d6f3f62fd3b9f5432f5782b62d8cfd5247d5ee71
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-04-01
 

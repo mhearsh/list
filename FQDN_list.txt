@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Axios NPM Malicious Packages IOC's (MISP Event 41226)
+# INCD / TLP:CLEAR / High
+# 2026-04-01
+
+sfrclak.com
+
+
 # Handala Threat Group Infrastructure
 # Domains linked to Handala APT operations / TLP:CLEAR
 # 2026-04-01
