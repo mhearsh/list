@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# Handala Threat Group Infrastructure
+# Domains linked to Handala APT operations / TLP:CLEAR
+# 2026-04-01
+
+handala-hack.to
+handala-redwanted.to
+justicehomeland.org
+karmabelow80.org
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-04-01

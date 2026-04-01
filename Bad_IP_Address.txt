@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Handala Threat Group Infrastructure
+# C2 IP address / TLP:CLEAR
+# 2026-04-01
+
+31.57.35.223
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-04-01
