@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's 05/04/26 (MISP Event 41242)
+# INCD / TLP:AMBER / High
+# 2026-04-05
+
+aacc451903a485bd4a5c8c6ed3c107e864bf0dbe6bf07df9c2c97b70a388baa9
+222126c5902b9996c830a0ba667e44879b7308e3fc5a8a748b0176f73f2751f8
+
+
 # Iran Campaign IOC's (MISP Event 41241)
 # INCD / TLP:CLEAR / High
 # 2026-04-05

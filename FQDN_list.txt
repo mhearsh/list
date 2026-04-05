@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's 05/04/26 (MISP Event 41242)
+# INCD / TLP:AMBER / High
+# 2026-04-05
+
+lautenai.com
+adrianalucas.us3.itagent.io
+
+
 # Iran Campaign IOC's (MISP Event 41241)
 # INCD / TLP:CLEAR / High
 # 2026-04-05
