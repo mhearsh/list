@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# Iran Campaign IOC's (MISP Event 41241)
+# INCD / TLP:CLEAR / High
+# 2026-04-05
+
+compromoverse.org
+trahum.org
+sercenai.online
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-04-05

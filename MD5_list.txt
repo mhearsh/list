@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# Iran Campaign IOC's (MISP Event 41241)
+# INCD / TLP:CLEAR / High
+# 2026-04-05
+
+cbdd9595b79b39f35909d862499dbc94
+e51ff37fb431767dedec0b5e6d2a786a
+481e5b5e69a08c3df206e59fd8dde0dc
+3eb9dea916432ffb8784ae36d1f2d3ed
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-04-05
