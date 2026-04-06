@@ -10,6 +10,30 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's 06/04/26 (MISP Event 41248)
+# INCD / TLP:AMBER / High
+# 2026-04-06
+
+larozada.com
+www.larozada.com
+https://larozada.com/wp-documents/54f-5440-8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34/docusign-contractagreement2026finaldraft
+http://larozada.com/wp-includes/7a54f7a5440-8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34-5440-8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34/secureAAMkAGU5NTY1MTNmLTY0NWAY0LTA2MzktNGI0Yy1hNDg0LTYxNzk5MDE2N2U0YwAuAAAAAADwtzSi
+http://larozada.com/wp-includes/68c7a54f-5440-8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34/68c71dee-ec24-8330-9a5a-2ad023958c28-68c79f7c-d35c-832e-8168-0e08bac53728b2e0-832b-a6ad-24c083030473
+http://larozada.com/wp-includes/68c7a54f-5440-8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34
+http://larozada.com/wp-documents/40-8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34-5440-8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34/Y1MTNmLTY0NWAY0LTA2MzktNGI0Yy1hNDg0LTYxNzk5MDE2N2U0YwAuAAAAAADwtzSi
+https://larozada.com/voicemail-qJnN5DoMZhnrbrEkXP1nSM3tnqwychCH3TqRp4VippHstF7h/69828329-3054-832b-b69f-d28a5ec9987469828329-3054-832b-b69f-d28a5ec9987469828329-3054-832b-b69f-d28a5ec99874
+https://larozada.com/cdn-cgi/challenge-platform/h/b/scripts/jsd/d251aa49a8a3/main.js
+https://larozada.com/voicemail-qJnN5DoMZhnrbrEkXP1nSM3tnqwychCH3TqRp4VippHstF7h/69828329-3054-832b-b69f-d28a5ec9987469828329-3054-832b-b69f-d28a5ec9987469828329-3054-832b-b69f-d28a5ec99874/voicemail.html
+https://larozada.com/wp-agreements
+https://larozada.com/wp-agreements/8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34/5440-8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34/
+https://larozada.com/wp-documents/40-8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34-5440-8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34/Y1MTNmLTY0NWAY0LTA2MzktNGI0Yy1hNDg0LTYxNzk5MDE2N2U0YwAuAAAAAADwtzSi/logo.png
+http://larozada.com/AAQkAGFmODUyZDBjLWVlOGYtNDIzMC1hZGZlLTQ5MTMzN2JkNmFjYwAQAMJ7EEF6r91Ovo/secureAAMkAGZjYjgyMDY0LTA2MzktNGI0Yy1hNDg0LTYxNzk5MDE2N2U0YwAuAAAAAADwtzSi/
+https://larozada.com/wp-agreements/agree7a54f-5440-8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34/8330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d348330-85ab-367a67388dbd-68c79f65-39b0-832f-a16b-eb10e43d7d34
+https://larozada.com/wp-includes/AMkAGU5NTY1MTNmLTY0NWA/secureAAMkAGZjYjgyMDY0LTA2MzktNGI0Yy1hNDg0LTYxNzk5MDE2N2U0YwAuAAAAAADwtzSi/?1dcc7hAEF0yqnwNCjODmPgY9L7wMASx5XXZFtnthBqls
+https://larozada.com/wp-includes/AMkAGU5NTY1MTNmLTY0NWA/secureAAMkAGZjYjgyMDY0LTA2MzktNGI0Yy1hNDg0LTYxNzk5MDE2N2U0YwAuAAAAAADwtzSi/
+https://larozada.com/myGovUMxYlNgBGAAAAAABdgIN1/australian-mygov-RD1589QkADg2YTBlZjQzLWU5OTMtNGI2NC04MW/log.html
+
+
 # Phishing Campaign IOC's 06/04/26 (MISP Event 41247)
 # INCD / TLP:AMBER / High
 # 2026-04-06
