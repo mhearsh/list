@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's 06/04/26 (MISP Event 41247)
+# INCD / TLP:AMBER / High
+# 2026-04-06
+
+https://github.com/of0556700-netizen/-1/raw/refs/heads/main/uplod-POLICE249.exe
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-04-06

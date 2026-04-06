@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's 06/04/26 (MISP Event 41247)
+# INCD / TLP:AMBER / High
+# 2026-04-06
+
+846c8699cc116a548ebcdef195215798797beb3dba9de06bd90b6376091b0da4
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-04-06
