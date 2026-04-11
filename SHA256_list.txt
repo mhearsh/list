@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's 09/04/26 (MISP Event 41267)
+# INCD / TLP:CLEAR / High
+# 2026-04-09
+
+1c322b6a1e24c71aae0b38297e0833f51aa1936f40ddcd2c20031fb489ed9015
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-04-11

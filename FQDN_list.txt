@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's 09/04/26 (MISP Event 41267)
+# INCD / TLP:CLEAR / High
+# 2026-04-09
+
+www.report-il.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-04-11

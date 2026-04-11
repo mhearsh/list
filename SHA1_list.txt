@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's 09/04/26 (MISP Event 41267)
+# INCD / TLP:CLEAR / High
+# 2026-04-09
+
+78b9bffb6603600fa97fbec9376adf53ee265d01
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-04-11
 
