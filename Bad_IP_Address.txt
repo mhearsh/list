@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# User Submitted
+# Malicious IP Address
+# 2026-04-12
+
+18.191.255.164
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-04-12
