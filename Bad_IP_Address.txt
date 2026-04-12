@@ -14,6 +14,13 @@
 # Malicious IP Address
 # 2026-04-12
 
+3.142.219.55
+
+
+# User Submitted
+# Malicious IP Address
+# 2026-04-12
+
 160.119.76.19
 
 
