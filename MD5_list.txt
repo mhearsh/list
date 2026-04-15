@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# Fake Claude Site Malware Campaign IOC's (MISP Event 41338)
+# INCD / TLP:CLEAR / High
+# 2026-04-15
+
+c64eda499e2a21ad158841b9dbc7adc9
+3a5b4b08e6ae35fd3ff44ccfb6c4b1aa
+88ac1c5fc9ee89491c70ea16131e264a
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-04-15
