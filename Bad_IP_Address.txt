@@ -11,6 +11,13 @@
 
 
 # Manual Entry
+# Malicious IP - TLP:CLEAR
+# 2026-04-19
+
+18.221.214.151
+
+
+# Manual Entry
 # Malicious IPs - TLP:CLEAR
 # 2026-04-19
 
