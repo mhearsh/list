@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's 16/04/26 (MISP Event 41344)
+# INCD / TLP:AMBER / High
+# 2026-04-16
+
+bursar@eccleston.lancs.sch.uk
+proplumbing58.wordpress.com
+beornotbe.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-04-19
