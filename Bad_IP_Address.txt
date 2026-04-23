@@ -14,6 +14,13 @@
 # Malicious IP - TLP:CLEAR
 # 2026-04-23
 
+64.176.162.134
+
+
+# Manual Entry
+# Malicious IP - TLP:CLEAR
+# 2026-04-23
+
 3.14.86.234
 
 
