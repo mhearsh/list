@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# Needle Stealer Malware IOC's (MISP Event 41433)
+# INCD / TLP:CLEAR / High
+# 2026-04-28
+
+dc2e1d7264263fce0f2d4b2b64ee7c837f987e4a
+50b762022f250e72276fb8eec460f63ee74f060e
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-04-28
 

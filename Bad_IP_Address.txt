@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# Needle Stealer Malware IOC's (MISP Event 41433)
+# INCD / TLP:CLEAR / High
+# 2026-04-28
+
+178.16.55.234
+185.11.61.149
+209.17.118.17
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-04-28

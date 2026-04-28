@@ -10,6 +10,17 @@
 ###############################################################################
 
 
+# Needle Stealer Malware IOC's (MISP Event 41433)
+# INCD / TLP:CLEAR / High
+# 2026-04-28
+
+tradingclaw.pro
+chrocustumapp.com
+chrocustomreversal.com
+coretest.digital
+reisen.work
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-04-28
