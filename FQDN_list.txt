@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's 29/04/26 (MISP Event 41439)
+# INCD / TLP:AMBER / High
+# 2026-04-29
+
+info@shelegcrm.com
+https://u15518976.ct.sendgrid.net/ls/click?upn=u001.jRrFV8aHiGXJRNBwRfn-2FmjBcKDQbGpZpjNn50TGKvJc-3DPWuB_z6VOBa6jhBhaEHnFGnNj-2B0BRDjmjvc9FpBehzTouJ9LLNgHtzOfeHGxlOGgCJFCJZJvYIiLWgMnJ9B33NDFU-2BSvVqzesWtDrOqX4IlmnkHbHqmegrTTxn1cumIBvHxMCu7628TaVtSVdr3B3DmlvtMOgX1Kqm-2FPLAKprMkm94BdJxRWbsd6gvvcrTLLBLXP5gTtWXtEyrx9w1ehDYCw6o9xQ5vkb0dUxOcawnlUoihpV898HPren9K1NJ-2B7ULBcCH1-2B8mB3PYQ-2FcHRhpfpxY4-2FkspHuwlHnyjpmRkF2jWhU-3D
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-04-29
