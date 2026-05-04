@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# GopherWhisper Malware IOC's (MISP Event 41476)
+# INCD / TLP:CLEAR / High
+# 2026-05-04
+
+97c1266ac21a35f1d82781c30378d563769ce144d903d93d4bfea533103044a3
+53043bd27f47dbbe3e5ac691d8a586ab56a33f734356be9b8e49c7e975241a56
+
+
 # Phishing Campaign IOC's 04/05/26 (MISP Event 41475)
 # INCD / TLP:AMBER / High
 # 2026-05-04

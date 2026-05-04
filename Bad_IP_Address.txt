@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# GopherWhisper Malware IOC's (MISP Event 41476)
+# INCD / TLP:CLEAR / High
+# 2026-05-04
+
+43.231.113.50
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-05-04
