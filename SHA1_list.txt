@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# Operation SilentCanvas IOC's (MISP Event 41548)
+# INCD / TLP:CLEAR / High
+# 2026-05-13
+
+94acd6b46cce2a0b84cc5efad3e661eeaa58a612
+19e1234a94f0445e8fdb9ae0f75554292db48c1c
+7478fb0111f4d5fa0925aace2c3df538f47abe65
+1c8324a920e5532f98621bd06089c45be89ab903
+
+
 # Phishing Campaign IOC's 13/05/26 (MISP Event 41539)
 # INCD / TLP:AMBER / High
 # 2026-05-13
