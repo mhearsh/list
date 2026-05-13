@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's 13/05/26 (MISP Event 41539)
+# INCD / TLP:AMBER / High
+# 2026-05-13
+
+e3d3b27c0d8765a48416e75b04869572
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-05-13
