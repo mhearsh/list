@@ -10,6 +10,18 @@
 ###############################################################################
 
 
+# Seedworm Campaign IOC's (MISP Event 41617)
+# INCD / TLP:CLEAR / High
+# 2026-05-14
+
+c6182fd01b14d84723e3c9d11bc0e16b34de6607ccb8334fc9bb97c1b44f0cde
+0c9b911935a3705b0ad569446804d80026feb6db3884aeb240b6c76e9b8cf139
+74ab3838ebed7054b2254bf7d334c80c8b2cfec4a97d1706723f8ea55f11061f
+3ee7dab4ae4f6d4f16dfabb6f38faef370411a9fc00ff035844e54703b99600a
+bee79c3302b1a7afc0952842d14eff83a604ef00bfdae525176c16c80b2045f7
+b21c802775df0c0d82c8cfde299084abc624898b10258db641b820172a0ba29a
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-05-14

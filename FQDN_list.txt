@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# Seedworm Campaign IOC's (MISP Event 41617)
+# INCD / TLP:CLEAR / High
+# 2026-05-14
+
+http://179.43.177.220:8080/nm.ps1
+http://179.43.177.220:8080/a.dat
+http://179.43.177.220:8080/a.exe
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-05-14

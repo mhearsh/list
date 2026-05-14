@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Seedworm Campaign IOC's (MISP Event 41617)
+# INCD / TLP:CLEAR / High
+# 2026-05-14
+
+179.43.177.220
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-05-14
