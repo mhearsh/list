@@ -647,8 +647,6 @@ download853.mediafire.com
 ecosystemprocessingcore.garden
 federatedgrowthnetwork.garden
 federatedplantmesh.garden
-finger.aulinked.org
-finger.linkedby.org
 finger.linkedby.org
 flora-resource-network.garden
 floraresourcecenter.garden
@@ -2268,7 +2266,6 @@ distributedobjectstoragenet.wiki
 dk5f63vl.carving-paral.digital
 e1zwzngt.unseen-zorenka.digital
 engine-block-tabel-stream-key.wiki
-etomoe.cfd
 federated-runtime-network.wiki
 fke.chriskendallvo.com
 fke.dusapp.com.br
@@ -2298,19 +2295,16 @@ obese-uzousweb-play.wiki
 observability-stream-hub.wiki
 ohqvz201.unseen-zorenka.digital
 op1h26r1.exhaustoverwint.digital
-overly.dinergysolutions.org
 oy85ola7.unseen-zorenka.digital
 packetdistributionmesh.wiki
 packetrelay.wiki
 patenttag.wiki
-paypal.auth-sharefile.com
 pt6nyxsf.unseen-zorenka.digital
 q8gac86p.unseen-zorenka.digital
 qe74wzzp.unseen-zorenka.digital
 r9chy91i.unseen-zorenka.digital
 remote-sensor-proxy-tunnel-config.wiki
 runtimeexecutionlayer.wiki
-sandman.lat
 scalpingstillephemer-natorel.wiki
 seducingdelirium.surf
 serverless-mesh-core.wiki
@@ -5884,7 +5878,6 @@ envset.grov6lira.lat
 envset.scooper5dabria.lat
 eotdjma.miri7qen.lat
 esicm.biz
-etomoe.cfd
 exoosito.com
 extnet.sali8mor.lat
 extnet.shocked-darken.lat
@@ -6121,13 +6114,11 @@ osbase.pano2vor.lat
 osbase.rollers-faced.lat
 osmosismeshhub.digital
 othila.eu
-overly.dinergysolutions.org
 owobk.brix9qen.lat
 p1lo-vector.mira2tal.lat
 pacificdredging.com
 papawemba.net
 park.terraview.surf
-paypal.auth-sharefile.com
 pdf-work.online
 pdfworker.online
 philippemartin-gers.net
@@ -6195,7 +6186,6 @@ root.terraview.surf
 rvweldedmesh.com
 rywiyw.verdi7qor.lat
 sailcompi.gela1vor.lat
-sandman.lat
 sap.orilowa.com
 sap.smtpdenz.my.id
 sari5gon.digital
@@ -6731,7 +6721,6 @@ rush.redstonenova.lat
 rxm.denzcodex.my.id
 rxm.orilowa.com
 s0un-panel.yeldfor.lat
-sandman.lat
 shift.ashjunit.lat
 shift.taro5lin.surf
 site.agocert.lat
@@ -7142,7 +7131,6 @@ rq6yosv.breadpotho1e.surf
 run.boldfirestep.lat
 safeaxis.xyz
 salt.oceanwavepoint.lat
-sandman.lat
 sarnpl39-vault.strangle-snup.surf
 secrvol.heavier-plumage.surf
 shift.bela6qit.lat
@@ -8854,7 +8842,6 @@ eds122il.ve1ori.garden
 edwinmsarmiento.com
 ee1ewv3.glen4mora.garden
 equ1t-spark.ve7loria.garden
-etomoe.cfd
 extractquant.g1enmor.garden
 fa9n.mistbr1a.garden
 fabriclattic.verd2onis.bet
@@ -8979,7 +8966,6 @@ mnt.nossamidia.net.br
 mnt.yutikeyu.com
 monkey.kyun.li
 move2logicnet.kineticgatehub.bet
-msedge.vg
 mujqm85.glen4mora.garden
 neo-tr3nd.lunav8era.garden
 next2pathgate.mist5qora.bet
@@ -8996,13 +8982,11 @@ odds8logicnet.dra7vexa.bet
 ogicway.lo4miren.bet
 open8siteview.niva2ron.bet
 out13-stream.grov9essa.garden
-overly.dinergysolutions.org
 parihostunit.flo3xaren.bet
 patchmeshnode.pavi1rix.bet
 path7logicnet.vectorpathsys.bet
 pathmeshsite.orbitmesh.bet
 pay5pathgate.peta1vrix.bet
-paypal.auth-sharefile.com
 peace-ray-unnecessary-dave.trycloudflare.com
 peak7logicnet.zenithnode.bet
 photonstage.verd1ya.garden
@@ -9264,7 +9248,6 @@ echo2pathnode.sonicwavehost.garden
 echomeshsite.canyonsyncgate.garden
 edgehostunit.vertexurbanhub.garden
 embermeshnode.pulsarlogicnet.garden
-etomoe.cfd
 ew559.sunmeadow.garden
 f4ct0-span.lightforge.garden
 falacerta.com
@@ -9337,7 +9320,6 @@ matrix6pathway.vectorpointsite.garden
 megustacoaching.monster
 meta-v0ca.sunmeadow.garden
 mist4wavepath.tundraflowunit.garden
-msedge.vg
 myremnew.duckdns.org
 navigatorshub.com
 neo-payl0.mossgrove.garden
@@ -9355,11 +9337,9 @@ old3logicgate.fossilcryptoweb.garden
 opalview4site.quartzprismcloud.garden
 orbitmeshpath.ferrumgateweb.garden
 orbitmeshpath.quantumpathnet.garden
-overly.dinergysolutions.org
 pale9taskhub.marblewavebase.garden
 past4pathgate.fossilcryptoweb.garden
 pastureclien.stoneflare.garden
-paypal.auth-sharefile.com
 peak8zoneview.canyonsyncgate.garden
 pitchzoneyview.astrolinkview.garden
 pitchzoneyview.sonicwavehost.garden
@@ -9562,7 +9542,6 @@ diamondexchangeus.store.goooggle.click
 ejge.eggman8eisha.in.net
 embermeshnode.pixelstormbase.garden
 eswcaywn.judges-spire.in.net
-etomoe.cfd
 ezyunbs.kyr1vomen.in.net
 f532v.oasis-reimburse.in.net
 fa1thf6-gate.oasis-reimburse.in.net
@@ -11293,7 +11272,6 @@ overdoin8seven.digital
 oxhlrfs.ra8ximel.in.net
 p68x.de6xamel.in.net
 parcelmod.blackbirdr0ot.in.net
-paypal.auth-sharefile.com
 petit-3k.histor5corching.in.net
 petit-3z.idol-worship.in.net
 petit-7.infirmary5care.in.net
@@ -12396,7 +12374,6 @@ media-info1.to3vamil.in.net
 modern-base2.ra6xovel.in.net
 moleculeblend.jordan5nual.in.net
 moon-orbit3.blasph-nimalo.in.net
-msedge.vg
 music-band3.tippyv0lup.in.net
 mxm.aasscc.how
 mxm.cebolinhaburger.com
@@ -12420,7 +12397,6 @@ open-book1.qi1moxel.in.net
 open-box2.qi9morlen.in.net
 open-door4.hai1owhiten.in.net
 open-field5.lucernemo7al.in.net
-overly.dinergysolutions.org
 oz557xfr.cabmic7on.in.net
 p0rt-hold.heaton-stolid.in.net
 page-link3.de4xpamil.in.net
@@ -12985,8 +12961,6 @@ old-library6.qim8dorel.in.net
 omnisearch.sbs
 open-book1.qim8dorel.in.net
 open-window6.k2ymlirem.in.net
-overly.dinergysolutions.org
-overly.dinergysolutions.org
 pack-unit4.kiv5leren.in.net
 page-number3.qim8dorel.in.net
 palm-tree3.qi5mlixar.in.net
@@ -15446,7 +15420,6 @@ mix-vault.ontostreamix.in.net
 mnsancarlos.com.mx
 mokonol.shop
 mrkristach-59999.portmap.host
-msedge.vg
 mskho2rr.histo-ricthe.in.net
 narr-que.identify-celebrate.in.net
 nce.de.com
@@ -15520,7 +15493,6 @@ shee5kmm.3utilities.com
 signinapartnerextranet.com
 site1-proxy.plu8moran.in.net
 site5-core.xelvorinax.in.net
-sitepromclop.click
 soa4-start.travexon.in.net
 soft4-base.plu8moran.in.net
 solcoreal9.brinoxal.in.net
@@ -17361,7 +17333,6 @@ model-check.theoreticvector.in.net
 model-check.theoristack.in.net
 motion-svc.dialecticalgrid.in.net
 motion-svc.dialecticflux.in.net
-msedge.vg
 msgrouppolicy.vg
 mueleer.com
 myfresapril2025remi.accesscam.org
@@ -17455,7 +17426,6 @@ sfnfpopq.com
 sfqwfq.com
 shift-point.dialecticalgrid.in.net
 shift-point.dialecticflux.in.net
-sitepromclop.click
 sketch-node.conceptmatrix.in.net
 skydive-dubai.live
 small-step.midgetplunge.in.net
@@ -17661,7 +17631,6 @@ run.rollerswpush.eu
 ryandp-63686.portmap.host
 shallowwaterboutique.gb.net
 sister-hub.gouachesoror.in.net
-sitepromclop.click
 smokecar.space
 steep-hill.sa.com
 study-sync.epistemicforge.in.net
@@ -17669,7 +17638,6 @@ swre.remwavesw.com
 theorylaugh.xyz
 truth-verify.epistemicforge.in.net
 vmn.uk.com
-web3-walletnotify.cc
 welcome2amway.com
 xn--d1aizef8e.ru.com
 xn--hyup2pp3bi2g.jpn.com
@@ -18167,7 +18135,6 @@ cakhiazke.cc
 calmion.barondecont.in.net
 cast-spar.coddlcaught.in.net
 catch-node.fighttrapper.in.net
-ccleaner.gl
 cdnst.duckdns.org
 cell-logic.maknothplacenta.in.net
 charlotte.eu.com
@@ -18311,7 +18278,6 @@ shie1d-leaf.coddlcaught.in.net
 shield-base.cyberlattice.in.net
 shlyapadulina.space
 signal-box.brillwhistleb.in.net
-sitepromclop.click
 skk.uk.com
 small-packet.nanostream.in.net
 snapshotgeyser.coddlcaught.in.net
@@ -18345,7 +18311,6 @@ video-drop.cameoinfusion.in.net
 vrr80sq.dropaway.in.net
 wave-form.lohsmacknon.in.net
 wave-form.signalvector.in.net
-web3-walletnotify.cc
 wexlunto.top
 wild-mount.vivatwoman.in.net
 wildcircuit.granulatetouch.in.net
@@ -19720,7 +19685,6 @@ merlithex.tockentrue.in.net
 meta-latt1c.covenantventure.in.net
 meta-qu4nt.matchexact.in.net
 mm52vg.zenithharbinger.in.net
-msedge.vg
 nb931vrn.zenithharbinger.digital
 neonacblow.cfd
 neonacblow.sbs
@@ -19878,7 +19842,6 @@ brigthagent.com
 c0re4-grid.spectrumharvest.in.net
 carfinance.uk.net
 carlosenriqueflores.com
-ccleaner.gl
 cdecp45.graincrest.in.net
 ce1l-mark.spectrumharvest.in.net
 cfngrohokspd.cn
@@ -20153,10 +20116,8 @@ sbk.eu.com
 sdnssmdf-js.beer
 sectransi.f0xharbor.in.net
 serspireal.latticeventure.in.net
-servecdn.my
 shor-mesh.echelonprosper.in.net
 siteamnsserv.beer
-sitepromclop.click
 softs.live
 sort-scope.larkspin.in.net
 spotdvt.click
@@ -20243,7 +20204,6 @@ victubp.cyou
 vor-tideet.momentumharbor.in.net
 vorspire5os.radiantventure.in.net
 vsbnsbootstrup.beer
-web3-walletnotify.cc
 wh.betway071.com
 wl58.radiantventure.in.net
 wlvyadr.covenantbloom.in.net
@@ -22060,7 +22020,6 @@ caain.live
 capdivertissement.com
 catequesishn.org
 cbt.mithos.sch.id
-ccleaner.gl
 cdn.filestackcontent.com
 centroessenzia.com
 chilloutvrhub.com
@@ -22294,14 +22253,11 @@ ruralbridge.brightcove.in.net
 sandboxairway.n1ghtlark.in.net
 sehrservices.org
 seio.vexmoor.in.net
-servecdn.my
 severtocs.com
 sfc80ox.storm-ink.in.net
 sh1p0-loop.yardcloud.in.net
 shel-grid.intechvaraible.in.net
 shoal7-forge.storm-ink.in.net
-sitepromclop.click
-sitepromclop.click
 sjyv.engineeringtech.in.net
 sleekdra.ru
 smarlog.vexmoor.in.net
@@ -22388,7 +22344,6 @@ vorven5um.snap-echo.in.net
 w0rk3r2-leaf.intechvaraible.in.net
 wawsenti.duckdns.org
 wazotta.duckdns.org
-web3-walletnotify.cc
 white-art.neutralwild.workers.dev
 whoiamso.com
 www.0thsl1qu.shop
@@ -23604,7 +23559,6 @@ bokphotguest.pro
 breezeraven.stabletu.in.net
 bunesaria.com
 cavilee.cyou
-ccleaner.gl
 cdn.sys-update.online
 cdn3dist.primanode.in.net
 chec-deliv.domprot.in.net
@@ -23816,7 +23770,6 @@ scan2point.altopoint.in.net
 seall-vernous.com
 selfreflectiveai.com
 sercore9et.domprot.in.net
-servecdn.my
 shad6-scope.registar.in.net
 shell2core.veloxsite.in.net
 shohill.devopsn.in.net
@@ -23887,7 +23840,6 @@ vvuuunwwgyuigi2.top
 watc5-field.botslap.in.net
 web1infra.lumenlabs.in.net
 web1meta.fluxobase.in.net
-web3-walletnotify.cc
 well-known.in.net
 work4flow.orbitunit.in.net
 work4flow.systemresource.in.net
@@ -24020,7 +23972,6 @@ c4mp-cast.yardnext.in.net
 cache-path.slashbak.in.net
 captcha-verification-module.com
 carrypublish.besthire.in.net
-ccleaner.gl
 cdn-yethounds.beer
 cdn-z7-edge.optico-voda.in.net
 cdn3edge.flexonode.in.net
@@ -24304,7 +24255,6 @@ secureportal777.com
 securesslconnect.cfd
 sentinsp.natneth.in.net
 serv4base.veloxunit.in.net
-servecdn.my
 sex4fun.duckdns.org
 shamsikymnogodenegdaitev4.lol
 shapedock.natneth.in.net
@@ -24396,7 +24346,6 @@ web-s09-infra.prismaviva.in.net
 web-v03-infra.vortex-lab.in.net
 web1infra.nuxbase.in.net
 web1meta.vivaflux.in.net
-web3-walletnotify.cc
 webdriver-select.vg
 whitewhalecoin.run
 wiener.lat
@@ -24503,7 +24452,6 @@ a08ulcab.highjoke.in.net
 a1awp.tempink.in.net
 a3kvb22nuhfgaluy6uzufrjn3azzsu7tylszdbyne3kiextdmxz4nnyd.onion
 afikku.copyvrok.in.net
-agitate6vagina.digital
 alignpro.slashbak.in.net
 alzapdigoo.net
 alzaptop.online
@@ -24542,7 +24490,6 @@ bridge-e6-light.nexustech-v.in.net
 c1-core-j3.amplitudo-v.in.net
 c1ien-forge.octagonon.in.net
 castgrani.easttea.in.net
-ccleaner.gl
 cedarclient.slowcube.in.net
 channelcrawler.getlight.in.net
 check-gate.easttea.in.net
@@ -24773,7 +24720,6 @@ sceneneur.cokenote.in.net
 ser-draon.easttea.in.net
 sergiosmexicanbarandgrill.com
 sertideex1.sandball.in.net
-servecdn.my
 sh67h.fun
 shell-t0-core.nauticbase.cfd
 shell-t5-core.primasfera.in.net
@@ -24836,7 +24782,6 @@ warmcha.jokerun.in.net
 web-303-proxy.optic-prime.cfd
 web-booking-extranet.com
 web-s3-infra.gravix-net.cfd
-web3-walletnotify.cc
 weblive.tv
 wedbrty.top
 wg55rcy2chmbpeh6pl5pftnveac2lqfxbletrtzanfjhhmvcjnn5tcqd.onion
@@ -24934,7 +24879,6 @@ advances.us.com
 agent-smith.digital
 agentpocket.lol
 agentsmith.digital
-agitate6vagina.digital
 ai6900.lol
 aicoinonsol.lat
 airdrop.cherrysol.fun
@@ -25007,7 +24951,6 @@ carminemods.cc
 cashapples.xyz
 cashcoin.lol
 catownkimono.lol
-ccleaner.gl
 centos.linkpc.net
 cfdasjjiophg.cn
 charizard.lol
@@ -25444,7 +25387,6 @@ scenecompr.sandball.in.net
 scf.lol
 ser-fluxa.omnifree.in.net
 serlineal8.inkpit.in.net
-servecdn.my
 sfb1sn6.onelight.in.net
 sharke.lol
 sheepcoin.lol
@@ -25580,7 +25522,6 @@ wcdr.cyrb.live
 wdogdoing.lol
 web-90-cache.enzymecore.in.net
 web-v02-infra.cellanode.in.net
-web3-walletnotify.cc
 webanalytics-cdn.cfd
 webanalytics-cdn.cyou
 webanalytics-cdn.icu
@@ -25656,7 +25597,6 @@ a4-scan-point.puroflusso.in.net
 abh.eventartstata.com
 actdigital.in.net
 ageconsultant.pk
-agitate6vagina.digital
 agrofarmery.site
 agy.uk.com
 airwaybroker.m4gnet.in.net
@@ -25709,7 +25649,6 @@ catcharisingstar.us.com
 catoooomw.ddnsfree.com
 cavvoya.catflow.in.net
 cc-a89.pages.dev
-ccleaner.gl
 cdrtmarrakech.org
 cedar-focu.catflow.in.net
 cellcol.rassvet.in.net
@@ -25945,7 +25884,6 @@ schem2-span.yellglass.in.net
 selot.jp.net
 ser-tidear.ziparch.in.net
 sercrestet.tunefour.in.net
-servecdn.my
 sgnfyn.oss-cn-shenzhen.aliyuncs.com
 shadenetwork.live
 shadenetwork.run
@@ -26029,7 +25967,6 @@ web-303-proxy.schnellestat.in.net
 web-99-proxy.schnellnetz.in.net
 web-v8-infra.metalloarea.in.net
 web-z7-infra.metallopunto.in.net
-web3-walletnotify.cc
 wewit.it
 win.spaceshlp.com
 workerembe.highligh.in.net
@@ -26101,7 +26038,6 @@ OK8386.SE.NET
 aborigenivsehebyt.lol
 aesthetdrama.digital
 agentcity.fun
-agitate6vagina.digital
 ai-process-guide.cfd
 aicoinonsol.lol
 al1g3-route.getron.in.net
@@ -26150,7 +26086,6 @@ cache-dist-01.petitreseau.in.net
 cache-dist-10.stillewasser.in.net
 cache-optimize.top
 casual9-forge.stoppit.in.net
-ccleaner.gl
 cdn-static-4.grossesystem.in.net
 cdn-static-v5.petitnuage.in.net
 cdn01.private-cloudservices.com
@@ -26304,7 +26239,6 @@ internal-sys.petitreseau.in.net
 iran.dashboard.1drvms.store
 iwsmailserver.com
 judp.cc
-keepass-xc.com
 kellith9ex.stoppit.in.net
 kichlanalivee.com
 kittycraftmc.com
@@ -26563,7 +26497,6 @@ sat-uplink-5.grandevision.in.net
 sat-uplink-x.mondofresco.in.net
 scan-point-0.altovelocita.in.net
 scan-point-2.kaltemech.in.net
-servecdn.my
 shall-latt.alfabon.in.net
 shell-v7-core.froidelumiere.in.net
 sil-api-js.click
@@ -26672,7 +26605,6 @@ web-31-infra.metallocampo.in.net
 web-901-proxy.schnellerechner.in.net
 web-proxy-alt.fortezzarossa.in.net
 web-proxy-v.vitasicura.in.net
-web3-walletnotify.cc
 welarith.com
 wenfengas68.com
 wmajq.getron.in.net
@@ -27998,7 +27930,6 @@ fastdlvrss.s3.us-east-1.amazonaws.com
 99bb22.quobix.in.net
 a4x-99f2.xylophis.in.net
 a9b8.jovianth.in.net
-agitate6vagina.digital
 ak83mo4q.lighthouseup.digital
 alfredknight.uk.com
 alfrescodining.uk.com
@@ -28028,7 +27959,6 @@ canv-shi.oakstart.in.net
 canvsoc.moondev.in.net
 cartrade.in.net
 casyetnx.pw
-ccleaner.gl
 cdklskjd.cn
 chatwithsite.com
 chefacto.appdeck.in.net
@@ -28102,7 +28032,6 @@ k77.vokriz.in.net
 k7r11.exoruby.in.net
 k_x9.quonaris.in.net
 ka221-z.dervishcore.in.net
-keepass-xc.com
 kel-tideix.goldsys.in.net
 kelcoreet.starapi.in.net
 kelmesha3.ironhub.in.net
@@ -28245,7 +28174,6 @@ sausagenighte.online
 sdkwinter.moondev.in.net
 seahorsemethod.com
 secureverlfication.com
-servecdn.my
 signalcraft.appdeck.in.net
 sili-h7.siliconcanyon.in.net
 simpleweb.mirante.in.net
@@ -28302,7 +28230,6 @@ w22p.zylotech.in.net
 w_77j3.zindulo.in.net
 w_t8.quonaris.in.net
 watchhr.biz
-web3-walletnotify.cc
 wild-cat.estoria.in.net
 windowslavesclient.duckdns.org
 workltt.quest
@@ -28430,7 +28357,6 @@ winfoss1.kozow.com
 9mha5mm1.diagnosfirst.digital
 Dreem-45850.portmap.host
 adcdn.ster.nl
-agitate6vagina.digital
 aktivates.fun
 alt-d0ck.bestink.in.net
 alt-hub.kronosis.in.net
@@ -28452,7 +28378,6 @@ blocked.eero.com
 bui13-well.costfee.in.net
 bz1-gh55.tensorfield.in.net
 carrierstream.toolbend.in.net
-ccleaner.gl
 cent-base.centurionix.in.net
 cent-v01.centurionix.in.net
 ch3c-line.bestink.in.net
@@ -28519,7 +28444,6 @@ jfjoj.askloop.in.net
 jn2-bt04.staticmotion.in.net
 jwalb.bestink.in.net
 kampf.huehnchenfarm.ru
-keepass-xc.com
 kron-flow.kronosis.in.net
 kron-v12.kronosis.in.net
 letcurre.windright.in.net
@@ -28643,7 +28567,6 @@ s3-python.cc
 sdk9-pulse.greentea.in.net
 serdraix4.askloop.in.net
 serv-z9.metricfusion.in.net
-servecdn.my
 sfrc.ckmo.live
 shown-mario.gl.at.ply.gg
 sign-j3.signalforest.in.net
@@ -28712,8 +28635,6 @@ vult-hub.spectrometric.in.net
 vult-vault.spectrometric.in.net
 warmgrim.slowbend.in.net
 web-k9.motiongravity.in.net
-web3-walletnotify.cc
-web3-walletnotify.cc
 windowsupdateservice.localto.net
 winterque.fullgate.in.net
 wriconsult.com
@@ -28761,9 +28682,7 @@ aaaaaaaaaaaaaaaaaaaaaaaaaa1.online
 aaaaaaaaaaaaaaaaaaaaaaaaaa1.ru
 accountpulsecentre.help
 agent-client-stoarge.webredirect.org
-agitate6vagina.digital
 ai-nexora.sbs
-aktivates.fun
 all-imager-hst.click
 alt-hub.zenithra.in.net
 alt-net.zenithra.in.net
@@ -28805,7 +28724,6 @@ cakeeyes.info
 carrierloose.dawnforest.in.net
 casadoserralheirosaocarlos.com.br
 ccccccccccccccccccccccccc1.ru
-ccleaner.gl
 cimetria.top
 clay-gate.redclay.in.net
 clay-logic.redclay.in.net
@@ -28908,7 +28826,6 @@ iron-data.ironford.in.net
 iron-v44.ironford.in.net
 jazthewaz-54789.portmap.host
 jpwcoffee.com
-keepass-xc.com
 kel-draum.excitfollower.in.net
 kel-meshet.thunderplain.in.net
 kelfluxor.oakumsenile.in.net
@@ -29073,7 +28990,6 @@ semi-flow.conesemison.in.net
 semi-v08.conesemison.in.net
 seni-edge.oakumsenile.in.net
 seni-v3.oakumsenile.in.net
-servecdn.my
 shafun.silvermeadow.in.net
 shariels.42web.io
 shie-vit.excitfollower.in.net
@@ -29216,8 +29132,6 @@ ca1m-graph.reinsurunrock.in.net
 cargo9-stack.dancingvck.in.net
 cav-base.cavalieroral.in.net
 cav-oral.cavalieroral.in.net
-ccleaner.gl
-ccleaner.gl
 cherriecraft.com
 chickensmine.space
 cliff-gate.pinecliff.in.net
@@ -30792,10 +30706,8 @@ zk8q4.mimisttie.in.net
 Ninja197-47831.portmap.host
 PlixoWorks.com
 a7x9k2.goatbreed.in.net
-agitate6vagina.digital
 agr4-vvave.agrahurry.in.net
 air-flow.windhaven.in.net
-aktivates.fun
 alamintelecom.xyz
 angelbridtechnologyltd.kesug.com
 apk.tcpateiu.com
@@ -30870,7 +30782,6 @@ imagefiles-backup.oss-ap-southeast-7.aliyuncs.com
 iron-vault.ironhaven.in.net
 iron08.ironhaven.in.net
 k4mtpn.ru.com
-keepass-xc.com
 lake-site.lakehaven.in.net
 lake09.lakehaven.in.net
 login-ss.fpcsorp.ca
@@ -30960,7 +30871,6 @@ qvqoau7353xe7wm3z6fzxn33q63ck7cys56wsbx25c22fnxyu4fzhnyd.onion
 rock-net.stonehaven.in.net
 s5v5hvtk3oyxg3m6afgxeuwlasqku3adeosv7kwwjfvhf22vqiwotrqd.onion
 sacred-v1.multilsacred.in.net
-servecdn.my
 shieshan.ydns.eu
 shorteverydaynnn.com
 sky-sync.bluehaven.in.net
@@ -31355,8 +31265,6 @@ achandograca.com
 acomoeldolar.com
 affectionate-easley.121-127-34-164.plesk.page
 agfaireland.com
-agitate6vagina.digital
-aktivates.fun
 amowdwt.cyou
 anonymous5334.duckdns.org
 antimalwarehub.com
@@ -31502,7 +31410,6 @@ jhv.uk.com
 jobinterview360.com
 jxx0qj1x.lickunsung.digital
 katana.jp.net
-keepass-xc.com
 kinugort.ru
 klinklin.okonlomon.com
 km-ok365.site
@@ -31605,8 +31512,6 @@ sales.activemedicaresolutions.com
 saramoftah.com
 satanc2.top
 securelearn.co
-servecdn.my
-servecdn.my
 sg1.localto.net
 skillhiretrack.com
 skillprooflab.com
@@ -32329,8 +32234,6 @@ xerexoret.top
 9qzzbixt.crystalforge.digital
 Phomoney177.duckdns.org
 afternoonscrew.space
-agitate6vagina.digital
-aktivates.fun
 app.action1.com
 atex.cakhiaap.cc
 atex.savethislife.com
@@ -32373,7 +32276,6 @@ hui228.ru
 id8654.cfd
 indahoodd.ddns.net
 ip118.ip-51-81-104.us
-keepass-xc.com
 kfzpark.duckdns.org
 king88vina.lat
 ksda.ct.ws
@@ -32684,7 +32586,6 @@ analyticallsolutions.in.net
 analyticshore.icu
 asas42424.dynuddns.net
 attached-avi-any-dicke.trycloudflare.com
-axiscontrol.ltd
 backupahahahah.followz.st
 bafybeigkyehyj2ynjwmj3v5sc4j27rmy2dumljfurr7kshzu7fyxkfbx7u.ipfs.dweb.link
 bj88games.cool
@@ -32739,7 +32640,6 @@ gor.it-bd.com
 graceforrealzeternity.duckdns.org
 grouphomesflorida.com
 h0kuelyp.modernsignal.digital
-hardconnect.net
 hidden8001.rf.gd
 honerable-bk.ydns.eu
 honerable.ydns.eu
@@ -32866,7 +32766,6 @@ silvernode.digital
 silvertrail.silvermypath.in.net
 siteinsights.icu
 skycurrent.clearatwind.in.net
-ssagntroplexa.com
 stonewild.wildandstone.in.net
 straight-though-quest-ratings.trycloudflare.com
 struct-lottery-baghdad-francis.trycloudflare.com
@@ -33843,7 +33742,6 @@ finalstep.approvkrup.in.net
 fkeasfodsfkefoapdsofkp-33083.portmap.host
 flightcontrolcenter.aircraftmodel.in.net
 fresh-bio-center.freshhill.ru
-gatepass-corp.com
 geological-survey-point.vividrock.ru
 globalsnn-new.cc
 globalsnn1-new.cc
@@ -34471,7 +34369,6 @@ riverroot.bluefern.in.net
 rockpanel.flatdon.in.net
 roughstrike.crotchfuete.in.net
 rushgrain.agrahurry.in.net
-salivae.cyou
 saltwave.oceanprim.in.net
 sandpulse.lionsand.in.net
 shadowfern.bluefern.in.net
@@ -34755,8 +34652,6 @@ a54mfa.easypanel.host
 a5v9n.box3pear.coupons
 activebrain.conscious86jag.coupons
 activitydmy.icu
-agitate6vagina.digital
-aktivates.fun
 angelcameintheearthwithbestwishesforpers.duckdns.org
 app-clash.com.cn
 archive.disapp43squithes.coupons
@@ -34848,7 +34743,6 @@ ia802801.us.archive.org
 ironswordzombiekiller.com
 isof63umlw.loclx.io
 jxjfs70p.cropin456spire.digital
-keepass-xc.com
 kentexroofings.com
 khom5v7vmc2nomkze64dsbyenn3wlxkewg6dbsvt5sujl2rmrtfy4oid.onion
 kitsoinsbebeclique.shop
@@ -34886,7 +34780,6 @@ mistralkorea.ru
 mnvgp.click
 mysticpoint.overdue13wizard.coupons
 nerqnacjmdy3obvevyol7qhazkwkv57dwqvye5v46k5bcujtfa6sduad.onion
-networkservice.cyou
 next-dance.gl.at.ply.gg
 nhceoeow.cropin456spire.digital
 nightwave.bluewave.coupons
@@ -34939,7 +34832,6 @@ scannerafiles.dynuddns.net
 se9bavje.lament42leave.digital
 secretlink.elusive16soot.coupons
 sendpoint.ship9fig.coupons
-serialmenot.com
 set.74fkhlsdg12.la
 sh1p-rnix.ship5plum.coupons
 shadowbot-dih.pages.dev
@@ -35007,13 +34899,10 @@ z3n7a.blueg78rework.coupons
 # INCD - XWorm RAT Malware
 # 2026-02-18
 
-jholycf100.ddns.com.br
-voulerlivros.com.br
 
 # INCD - Mac Storage Scam Campaign
 # 2026-02-18
 
-biopranica.com
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
@@ -35025,10 +34914,7 @@ biopranica.com
 3k71xodj.serve5woodman.digital
 3uwms13u.ostroy56sagacious.digital
 a5v9n.grape1shipping.coupons
-agitate6vagina.digital
-agitate6vagina.digital
 aircraftinteriorandpaint.com
-aktivates.fun
 api.skwise.net
 app1e-vvex.apple2dispatch.coupons
 arbidmedhstbi-32780.portmap.host
@@ -35038,7 +34924,6 @@ ballisr.cyou
 basecommand.orbitalmap.coupons
 bbos.minet.vn
 beatlead.metalheart.coupons
-betbobgunceladres.com
 bkns-extrns.com
 blueocean.frozenshell.coupons
 boltfix.metalheart.coupons
@@ -35096,7 +34981,6 @@ iosdhlfsg.silverpeak.coupons
 irongate.stronghold.coupons
 k4q8m.plum8express.coupons
 kavacanada.ca
-keepass-xc.com
 kenaifj.live
 kittyland.gg
 l3rn0n-llne.lemon8logistics.coupons
@@ -35510,7 +35394,6 @@ z99.clairsol.coupons
 7yj72fkc.mint2layer.digital
 Majin-54074.portmap.host
 a2aagentive.com
-aktivates.fun
 allcheat.netlify.app
 analytics.uk.net
 andrefelipedonascime1768785037020.1552093.meusitehostgator.com.br
@@ -35523,7 +35406,6 @@ auth88.snapbargain.coupons
 b3-alpha.federleicht.coupons
 bet88hs.com
 beta-node.deal4harbor.coupons
-betbobgunceladres.com
 blackbearer.za.com
 bolixtiol.lol
 br33ze-llnk.breeze1falcon.coupons
@@ -35594,7 +35476,6 @@ jvz.alpinematters.com
 jvz.gadgetwalabd.com
 k15kqv93.fluxdrive.digital
 kayeart.com
-keepass-xc.com
 kipeety.cyou
 krp.greenenergygroup.org
 lantern.rocket7flora.coupons
@@ -35775,7 +35656,6 @@ imap.arcmidlands.org
 invoices.plus-ed.com
 k0zhev-rnix.kozhevnik6lan.coupons
 kalt-start.winterzug.coupons
-keepass-xc.com
 lantern.plea36slavneck.coupons
 littlejoyonline.nl
 liveworkplaylkn.com
@@ -35992,7 +35872,6 @@ top-angebot.blaukraft.coupons
 topking.be5t2lancrown.ru
 toutsavoir.f2bricat9sar.ru
 truesir.duckdns.org
-trustconnectsoftware.com
 tukotoks-uz.sbs
 tv88.us.com
 updates.getupi.in.net
@@ -36183,7 +36062,6 @@ aiboxs.click
 aiolocksmithstpetersburg.com
 aivo.sa.com
 akademiawalki.com
-aktivates.fun
 akwatic-hotel.ci
 ardiellifornasa.ge
 ark7r5k.kolos56tomat.coupons
@@ -36204,7 +36082,6 @@ bebirdrank.com
 beer2p.com
 benn4x.brisk7dento.coupons
 berlof.shop
-betbobgunceladres.com
 beyond.trak8lin4zo.ru
 bezelek.shop
 bharatnamkeens.com
@@ -36706,7 +36583,6 @@ ajflzcd.com
 ajjwedb.com
 ajqoyqn.com
 ajtbmgo.com
-aktivates.fun
 alfenjan.iq
 alggopl.com
 alheqcj.ru
@@ -36772,7 +36648,6 @@ bclqhmf.com
 bcwmuys.ru
 bedojqw.ru
 belezamolecular.com.br
-betbobgunceladres.com
 bgaghbg.ru
 bgdnjuu.com
 bgnlbfi.ru
@@ -38517,7 +38392,6 @@ zkyhgfvluyvjh.im
 4kiwmn32z8feawr.top
 5zrm1p5ky8mfyqg.top
 7pzq4w03j.localto.net
-aktivates.fun
 al.skjeelanhemas.com.lk
 ale.deshsaradin.com
 alienmesh.servehttp.com
@@ -38530,7 +38404,6 @@ babyvein.xyz
 beast6azu4f7fxjakiayhnssybibsgjnmy77a6duufqw5afjzfjhzuqd.onion
 bei.tfuuuk.com
 bellplayground.xyz
-betbobgunceladres.com
 boytank.xyz
 branchmorning.xyz
 byebopfx.degenjudges.digital
@@ -38662,11 +38535,9 @@ gme.f50.myftpupload.com
 4wpv9rkz.breathforgiv.digital
 5.ooocyber.cfd
 aixcijiax.mcv.kr
-aktivates.fun
 allwheelwealth.duckdns.org
 armyshoe.xyz
 banner.patch-support.com
-betbobgunceladres.com
 birdiethirty.com
 cameework.com
 capitaf.cyou
@@ -39013,7 +38884,6 @@ baoefubfbfigozt.io
 bds3.umemarketingagency.com
 belloww.cyou
 berna-und-max.lenz-berauscht.de
-betbobgunceladres.com
 bh2.umemarketingagency.com
 bh3.umemarketingagency.com
 bhv.lt
@@ -39285,7 +39155,6 @@ apiv3.wincryptapi.com
 app-server.comof72509.workers.dev
 bafybeias4uzwo3l336d5ewygv2dd3oqbnlvrer5ndf5wyhjcwkm4igaafa.ipfs.w3s.link
 bafybeieq7tctzxkqidqpq4fjvtznbupqrpo2w4n4lfmzksehei4dinilii.ipfs.w3s.link
-betbobgunceladres.com
 botnet.lokifisch.dev
 captoolsz.com
 cheship.cyou
@@ -39305,7 +39174,6 @@ fa3276a2e41147eb84cce772fb791658--8000.ap-shanghai2.cloudstudio.club
 fgaehr4awhuw5he.duckdns.org
 fgeaghrwhgrw.duckdns.org
 filegrace2026.duckdns.org
-freefoodaid.com
 gfm.uk.com
 inconsk.cyou
 internet-homepage.digital
@@ -39315,7 +39183,6 @@ kaminowebapp.net
 killnnk.cyou
 little-frog-2e65.kaxij51156.workers.dev
 log.skjeelancipla.com.lk
-longsauce.com
 macbeamsend.com
 maccastlink.com
 maccaststream.com
@@ -39376,8 +39243,6 @@ uzgidro.fun
 vu4za2dgrqj0wmfi.wincryptapi.com
 wariorsdontquits.duckdns.org
 weaplink.com
-wellnesscaremed.com
-wellnessmedcare.org
 whreceiver.ru
 win-system-diag.tech
 www.gyan.dev
@@ -39423,7 +39288,6 @@ awa.eu.com
 awesomecamera.com
 azhvgwsv.xyz
 babyfrage.de.com
-betbobgunceladres.com
 bghxlwkc.xyz
 bgwyvsce.xyz
 bnfxczkj.xyz
@@ -39957,7 +39821,6 @@ primeshare33.com
 pub-3bc1de741f8149f49bdbafa703067f24.r2.dev
 quicksend0.com
 r2rr3y5p.velostager.digital
-retrodayaengineering.icu
 rickscribner.com
 robincompany.xyz
 romaniaprotv.in.net
@@ -40162,7 +40025,6 @@ zaryef.za.com
 28.tcp.cpolar.top
 archive.org
 bashupload.com
-betbobgunceladres.com
 bitbucket.org
 blackmore.twilightparadox.com
 denjak.store
@@ -40633,7 +40495,6 @@ asseccmod.ydns.eu
 assets.gametools.win
 aw-booking.bomain.ru
 awrfq7pjydfp3hwbsun6ltxrrzths5ztgxj7i7ybx7twjrdvzvxkgwad.onion
-betbobgunceladres.com
 blushwb.cyou
 bnli8khzo.localto.net
 bxi2cepk57dy3uhgwqd6dri6jtuqe7btay225rn6xkvvgnp2cvjvowqd.onion
@@ -41807,7 +41668,6 @@ zvnnsgyq7.localto.net
 78w-in.vip
 aggrowtlh.com
 agn121-46042.portmap.host
-aliyundunupdate.xyz
 almacensantangel.com
 aokgfu.sa.com
 aralkis.sa.com
@@ -42423,7 +42283,6 @@ genes4life.org.mozambiquemuseums.org
 gepsir.cl0udmist.ru
 gerxif.a8ent5ing.ru
 gesso.dymk0v5klei.ru
-get.activate.win
 get.activate.win
 getactiveex.com
 getinvolved.bukrilegacyfoundation.org
@@ -43980,7 +43839,6 @@ varqin.che6u7therm.ru
 vassal.d0minon2me.ru
 vaxhim.t0rquefinch.ru
 vazqer.a8ent5ing.ru
-vdfccjpnedujhrzscjtq.supabase.co
 vector.calculu5eve7y.ru
 vector.darkm1nt.ru
 vector.g0rico1ormica.ru
@@ -44476,7 +44334,6 @@ aaslooria.com
 ab.clearl1ne.ru
 abrababa.xyz
 accutane18.us.org
-activate.win
 adcn.stormw1ng.ru
 adobehelp.net
 adoption.sa.com
@@ -45354,7 +45211,6 @@ bonk-coin.rocks
 btc-norevia.com
 btc-uss.top
 bu7zr6fotni3qxxoxlcmpikwtp5mjzy7jkxt7akflnm2kwkbdtgtjuid.onion
-bz1d0zvfi03yhn1.top
 cab.cfg-group.org
 cab.qk-go.com
 cashback-npc.com
@@ -45408,7 +45264,6 @@ esprinaso.co.com
 ethereumpro.org
 eventrump.live
 exploredoctors.com
-ey267te.top
 facebook.bora-bora.dk
 faceit.en-vertex-club.com
 faodax.com
@@ -46810,22 +46665,11 @@ ios.clioudit.com
 # CERT-Alert-1950
 # 2025-12-23
 
-usapdfa.com
-soka-nline.com
-byzentium.com
-flip-book.wpmajesty.com
-dfg456tgdg.ddns.net
-sdfe46tyg.ddns.net
-myclients.ddns.net
-dfg56yhgv.ddns.net
-uc3fc91857b30178abe85740dd5d.dl.dropboxusercontent.com
 
 
 # Police-Phishing-INCD-40676
 # 2025-12-23
 
-ispolic.com
-wiaqz.com
 demo.wpmajesty.com
 
 
@@ -48716,16 +48560,9 @@ retseptik.info
 
 signup-forms.theonlycompany.com
 production.dav.indeedex.workers.dev
-pharmacynod.com
 careerst-mobile.com
 aadcasc.cn-nb1.rains3.com
 
 # User Submission
 # 2026-03-08
 
-gitempire.s3.us-east-005.backblazeb2.com
-elvenforest.s3.us-east-005.backblazeb2.com
-uppdatefile.com
-serialmenot.com
-moonzonet.com
-whitelock.xyz
