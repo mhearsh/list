@@ -11,6 +11,13 @@
 
 
 # Manual Entry
+# Malicious IP - TLP:CLEAR
+# 2026-06-17
+
+3.101.239.122
+
+
+# Manual Entry
 # Malicious IPs - TLP:CLEAR
 # 2026-06-17
 
