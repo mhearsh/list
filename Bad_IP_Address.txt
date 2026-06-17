@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Port Scanning Alert (dfeb1a64-25e8-42e1-98a1-8b490c990ac9)
+# DENY on base policy 0
+# 2026-06-13
+
+3.101.240.128
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-06-16
