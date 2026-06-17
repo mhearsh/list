@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# Manual Entry
+# Malicious Domains - TLP:CLEAR
+# 2026-06-17
+
+yopmail.com
+sendspace.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-06-17
