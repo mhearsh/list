@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual Entry
+# Malicious IP - TLP:CLEAR
+# 2026-06-17
+
+3.101.240.125
+
+
 # Port Scanning Alert (dfeb1a64-25e8-42e1-98a1-8b490c990ac9)
 # DENY on base policy 0
 # 2026-06-13
