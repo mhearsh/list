@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual Entry
+# Malicious IPv6 - TLP:CLEAR
+# 2026-06-24
+
+2a01:111:f403:c20e::1
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-06-24
