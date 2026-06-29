@@ -14,6 +14,13 @@
 # Malicious IP - TLP:CLEAR
 # 2026-06-29
 
+89.223.20.201
+
+
+# Manual Entry
+# Malicious IP - TLP:CLEAR
+# 2026-06-29
+
 89.223.20.151
 
 
