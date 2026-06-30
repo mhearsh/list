@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual Entry
+# Malicious Domain - TLP:CLEAR
+# 2026-06-29
+
+rootevidence.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-06-29
