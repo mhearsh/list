@@ -10,6 +10,30 @@
 ###############################################################################
 
 
+# TITAN/INCD - Microsoft Passkey Abuse (Event 42084)
+# High - TLP:CLEAR
+# 2026-07-14
+
+assignpasskey.com
+deploypasskey.com
+passkeydeploy.com
+passkeyadd.com
+setpasskey.com
+
+
+# TITAN/INCD - REF6045 SCMBANKER (Event 42086)
+# High - TLP:CLEAR
+# 2026-07-14
+
+ssinvestigaciones.com
+bancaporinternetbbmx.online
+ratonvaquero2026.online
+monteviral2026.duckdns.org
+osogransd.online
+negratomasa2026.online
+gestionmontelavaria2026.online
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-07-14

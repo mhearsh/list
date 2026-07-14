@@ -10,6 +10,32 @@
 ###############################################################################
 
 
+# TITAN/INCD - UAT-7810 Campaign (Event 42083)
+# High - TLP:CLEAR
+# 2026-07-14
+
+194.233.92.26
+217.15.160.247
+217.15.164.147
+95.182.100.231
+
+
+# TITAN/INCD - REF6045 SCMBANKER (Event 42086)
+# High - TLP:CLEAR
+# 2026-07-14
+
+68.211.161.46
+216.250.112.100
+185.242.246.169
+
+
+# TITAN/INCD - Vidar Stealer Campaign (Event 42087)
+# High - TLP:CLEAR
+# 2026-07-14
+
+116.203.243.208
+
+
 # Manual Entry
 # Malicious IP - TLP:CLEAR
 # 2026-07-14
