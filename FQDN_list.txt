@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42095
+# CitrixBleed 2 Exploitation Campaign IOCs / TLP:CLEAR
+# 2026-07-15
+
+dltsolutions.top
+eurofin.digital
+opa.tlsd.shop
+tlsd.shop
+
+
 # TITAN/INCD - Event 42093
 # Malicious Browser Extension IOCs / TLP:CLEAR
 # 2026-07-15

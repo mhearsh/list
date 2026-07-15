@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42095
+# CitrixBleed 2 Exploitation Campaign IOCs / TLP:CLEAR
+# 2026-07-15
+
+c84739655ce1af0a0269138263d47567418f69e0f75e249f8e23bc21802209e2
+eb083365dc70d0294e8c4f55a2e78be0edb0f3497f2a06a70c9f474dafab48d8
+c4fcae3847946173bf0b3cedf5d97a9e3d18090023842f942ba544fa7fda180d
+
+
 # TITAN/INCD - Event 42092
 # China India Espionage IOCs / TLP:CLEAR
 # 2026-07-15
