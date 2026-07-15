@@ -10,6 +10,33 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42092
+# China India Espionage IOCs / TLP:CLEAR
+# 2026-07-15
+
+91693c2d5a4b7d090fe06cc7382dfc18
+a45657da1390e54930ee1842065bbb53
+a106b2800db293a639abbb1f5120f5a9
+68caae371e3fc55b58817573fc47a4bf
+96b15bb9ce8ef7c41b708b1620029d99
+43e4984a2bcb1656c87c83c18d072494
+1f4adf9695afa103c87ab7a63ffbfddc
+397591dd098f9240684f9a999e38eb12
+449f0e87df10a564276ad760a7c5c8e4
+51b6300980982a20e1464831c21988d3
+9d4168ed11a5c62ddc5de763dd181af3
+fd1b7060304ce85a7823be776941137b
+
+
+# TITAN/INCD - Event 42094
+# npm & PyPI Typosquats IOCs / TLP:CLEAR
+# 2026-07-15
+
+6f3e0a883f2e6c7984e04cd753029e6b
+835138823b4a6b73199de53e48db1bae
+028b47ee706ce0d5626a1e7b56fdb010
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-07-15

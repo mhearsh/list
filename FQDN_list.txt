@@ -10,6 +10,21 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42093
+# Malicious Browser Extension IOCs / TLP:CLEAR
+# 2026-07-15
+
+perplexity-ai.online
+extension.tilda.ws
+
+
+# TITAN/INCD - Event 42094
+# npm & PyPI Typosquats IOCs / TLP:CLEAR
+# 2026-07-15
+
+caliber-spinner-finishing.ngrok-free.dev
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-07-15
