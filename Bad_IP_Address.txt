@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual Entry
+# Malicious IP / TLP:CLEAR
+# 2026-07-15
+
+172.110.223.179
+
+
 # TITAN/INCD - Event 42092
 # China India Espionage IOCs / TLP:CLEAR
 # 2026-07-15
