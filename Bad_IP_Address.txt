@@ -10,6 +10,20 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42101
+# CrySome RAT IOCs / TLP:CLEAR
+# 2026-07-16
+
+193.26.115.42
+
+
+# TITAN/INCD - Event 42105
+# Vidar InfoStealer Phishing Campaign IOCs / TLP:CLEAR
+# 2026-07-16
+
+107.189.24.190
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-07-16

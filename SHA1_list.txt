@@ -10,6 +10,42 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42101
+# CrySome RAT IOCs / TLP:CLEAR
+# 2026-07-16
+
+7fe995b6bdbfdc8af3d6475c7f94a86925386d83
+8813148f78c668d91fdf7af4e9b62727af4a8557
+79a617ac7b0b041901b319384950cc255762a4bd
+de2df0905ece1a1e7f0a70adf36c75deb06b4e4b
+3824e0677dd6d925bec4c2e99f1498ce2d0ad821
+f8a3f28ecbd0b08ecab73ef571f16c3d0bd5e009
+
+
+# TITAN/INCD - Event 42102
+# DenoGate Teams Backdoor IOCs / TLP:CLEAR
+# 2026-07-16
+
+ee901e67799147adf10c76382924e40ec486c399
+
+
+# TITAN/INCD - Event 42103
+# Phishing Campaign 16/07/2026 / TLP:CLEAR
+# 2026-07-16
+
+ee577f1880397a00480b210fcd6bc84d2330a19e
+7d415612a00d99617bd89670e1570c145863ad08
+
+
+# TITAN/INCD - Event 42105
+# Vidar InfoStealer Phishing Campaign IOCs / TLP:CLEAR
+# 2026-07-16
+
+6eaf8f8cfc9161c6a287d0a1ce8ab436d14cfcad
+87cb13512daff0f4e1783a59af449336b6e010e4
+bea391c7ef1665bc33712deee1109812fc606cc6
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-07-16
 

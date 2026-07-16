@@ -10,6 +10,31 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42101
+# CrySome RAT IOCs / TLP:CLEAR
+# 2026-07-16
+
+signindat.com
+
+
+# TITAN/INCD - Event 42102
+# DenoGate Teams Backdoor IOCs / TLP:CLEAR
+# 2026-07-16
+
+d1mjrkjsk5qy13.cloudfront.net
+
+
+# TITAN/INCD - Event 42103
+# Phishing Campaign 16/07/2026 / TLP:CLEAR
+# 2026-07-16
+
+aviatronika.online
+vniir-avia.space
+fgub-vniir.space
+vniir-info.space
+nova-stream.site
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-07-16

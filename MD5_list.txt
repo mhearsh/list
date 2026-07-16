@@ -10,6 +10,45 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42101
+# CrySome RAT IOCs / TLP:CLEAR
+# 2026-07-16
+
+b770cfe08912225f3a6daacf092a379d
+dcf817f2fa93f01ee0654f5cbcbc50b2
+af46b89c4eadabc82097c34a3a106715
+45a2228e44257169210cc5dc06e12a6c
+8567983c4fde4b108b2a7168ecbf7997
+2f4b5a0d98bc4e5616f2dd04337ae674
+
+
+# TITAN/INCD - Event 42102
+# DenoGate Teams Backdoor IOCs / TLP:CLEAR
+# 2026-07-16
+
+a2aeb0d5e617a3bcb1a53ffaa53d3363
+
+
+# TITAN/INCD - Event 42103
+# Phishing Campaign 16/07/2026 / TLP:CLEAR
+# 2026-07-16
+
+eabd440c996846d0992e37ab01d01208
+7884be8a701f31421717c0835add92d5
+6cc3c68c56e099792fdeadde76256d56
+
+
+# TITAN/INCD - Event 42105
+# Vidar InfoStealer Phishing Campaign IOCs / TLP:CLEAR
+# 2026-07-16
+
+0b8af4afd26175ba818c0fdb4622bf14
+1bbf1e83eea55e70d59f0d633789011e
+2fba9ec34fdf4b1584dd9c69b9ec9393
+4e885b1a0c1d0636e940b4af20fdc8db
+536dd0b0f6dff75dc01869df9809df61
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-07-16

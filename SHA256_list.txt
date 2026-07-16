@@ -10,6 +10,52 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42101
+# CrySome RAT IOCs / TLP:CLEAR
+# 2026-07-16
+
+ec68666e8f0a3b9870d7177bab684c8dcfb8ca0bc7c8c484a71b2b33ea4e26f4
+53f1da8a032115aa682749a114f4cfebcb5ef933400a89b4bbfa84f2057222ff
+ced4407f4ac7e43c1a3010a394d111d2ad1b50a2e95668b4e9cfe739235e67bd
+b7ca8fd9ebe0a76f16deea315fac7ee94dcb18e6ac2832b5c4cb562fbc6e0ed3
+c380268d493e0cba914ce2bc55faa1d7c050c599893c3196fee01fa745e6466a
+ff5dbdcf6d7ae5d97b6f3ef412df0b977ba4a844c45b30ca78c0eeb2653d69a8
+
+
+# TITAN/INCD - Event 42102
+# DenoGate Teams Backdoor IOCs / TLP:CLEAR
+# 2026-07-16
+
+ff5a477871a4b83e2b38e660f28ef998680dcb6ba21fddff3e3f66c04ffc3596
+
+
+# TITAN/INCD - Event 42103
+# Phishing Campaign 16/07/2026 / TLP:CLEAR
+# 2026-07-16
+
+47854deb456cb08c651b7f9ae2f9d87c72d0719de6af233340632efb3c1980f4
+f57e010541fb4ccbf23aefc4a827f753a6ff3f8792d9c04c3eea83f6963c6bae
+
+
+# TITAN/INCD - Event 42104
+# Banana RAT IOCs / TLP:CLEAR
+# 2026-07-16
+
+bc4c29bc0c84ea18311fbadc508f6f3a9d84b54a456e672c2ab34d6b42f56c0c
+443c0a821c214471d74b51093ab3d69bb9bee54ded049e5abcda2551e4f12707
+e9d918ff5f7918cff1a3a23f3945058a66b56d6dd724066414c7e1cab95e166d
+d828949ade683cf3ac6d4260f946ca33ef861035051db07d3ee79ec75dd243b2
+
+
+# TITAN/INCD - Event 42105
+# Vidar InfoStealer Phishing Campaign IOCs / TLP:CLEAR
+# 2026-07-16
+
+340820f7f4c97e3a2477bc99acf746e13b2c92719ebf5c9947a62eef7ec0dddb
+e8e7faa5e76dc773ffb1a7a6be36a47cc84e3ed45b928859b570332757cdb6cb
+cff8b04f2c8ed63d37fd393ad23652a8b818e80b03851d7c1bd5842963a03348
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-07-16
