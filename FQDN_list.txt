@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42121
+# Helix Data Extortion Campaign IOCs / TLP:CLEAR
+# 2026-07-20
+
+oskeysync.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-07-20

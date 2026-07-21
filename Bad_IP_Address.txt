@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42121
+# Helix Data Extortion Campaign IOCs / TLP:CLEAR
+# 2026-07-20
+
+179.43.185.230
+179.43.171.42
+179.43.185.226
+
+
 # Manual Entry
 # Malicious IP / TLP:CLEAR
 # 2026-07-20
