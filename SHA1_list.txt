@@ -10,6 +10,31 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42126
+# Daxin & Stupig Espionage Malware / TLP:CLEAR
+# 2026-07-21
+
+8302802b709ad242a81b939b6c90b3230e1a1f1e
+
+
+# TITAN/INCD - Event 42127
+# APT-C-60 IOCs / TLP:CLEAR
+# 2026-07-21
+
+18a0aa4869821b478cbaef8702f0135a6cac06ec
+5c5059e80d808ef02b3da0435deb143adcadf059
+19bf94401f243d24229767920362e96d4037edd6
+
+
+# TITAN/INCD - Event 42128
+# CAV3RN IOCs / TLP:CLEAR
+# 2026-07-21
+
+83ed3f17a83b083246f90011d33861cdb5734ab3
+beb57441b81e56d1d7ba72acd841f2ffe171a325
+66c8a4d782ec9e19d67f426376e0ebb5af868590
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-07-21
 

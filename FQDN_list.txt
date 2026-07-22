@@ -10,6 +10,20 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42128
+# CAV3RN IOCs / TLP:CLEAR
+# 2026-07-21
+
+cloudlanecdn.com
+ns1.cloudlanecdn.com
+ns2.cloudlanecdn.com
+ns3.cloudlanecdn.com
+ns4.cloudlanecdn.com
+google.com.ayalon-print.co.il
+clipeditskill.com
+accesslinkssl.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-07-21
