@@ -10,6 +10,35 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42134
+# Chinese AI-Assisted Cyber Espionage IOCs / TLP:CLEAR
+# 2026-07-22
+
+4da236de055bfaf08ee21fb6b88442b4
+050b84a0d6105a98f443f0165368cc1c
+
+
+# TITAN/INCD - Event 42136
+# Operation ShadowRecruit IOCs / TLP:CLEAR
+# 2026-07-22
+
+43a6e1e5be37b1f35071c5a5864b0994
+6bcf91af52b9577ba81cbae9368f91f8
+314a1d32650361281d86aa8175c05df4
+90682a7c53132750b1517f80cab2281c
+720ccdba0490592274a7ba3b3e838e6d
+3d06209ab0e61492e7f5d92d253cea7d
+f570cb086af5ef2b4b9fbad20f43cf1d
+6f2fd5cb3901d6818316423ac72da5e8
+
+
+# TITAN/INCD - Event 42137
+# SnakeKeylogger Phishing Campaign IOCs / TLP:CLEAR
+# 2026-07-22
+
+0cbfcc3573399368a2a9abcfa42af134
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-07-22

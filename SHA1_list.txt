@@ -10,6 +10,35 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42134
+# Chinese AI-Assisted Cyber Espionage IOCs / TLP:CLEAR
+# 2026-07-22
+
+1cac633d290a876fc1ead63c58de48575b67b1fc
+66049dd42a29dde7481d5ca2951efec27214ce15
+
+
+# TITAN/INCD - Event 42136
+# Operation ShadowRecruit IOCs / TLP:CLEAR
+# 2026-07-22
+
+ff0660795fff7404b1d927488cd558deb24a2e68
+c1a691fdd339709439774e9402b71a4b4ba50f42
+8b33d02e51218461cce1311760c1dd138f9731f4
+a154f9bff1999be4a42ffc4cbfc686e64a163997
+c20cd3570458ca25f2f226ffc29635c58b172045
+cfdb95a0280177579197793d68ad504c05964d9f
+a8a43bde8b126141b503e605dfb6851464cf386f
+081747ca2a2f4be07b52ab1da0c76b8e508248a7
+
+
+# TITAN/INCD - Event 42137
+# SnakeKeylogger Phishing Campaign IOCs / TLP:CLEAR
+# 2026-07-22
+
+806e8112a21b00f143fda422d0307d40973a6ff5
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-07-22
 

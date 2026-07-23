@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42134
+# Chinese AI-Assisted Cyber Espionage IOCs / TLP:CLEAR
+# 2026-07-22
+
+45.64.52.242
+134.122.200.155
+112.213.124.163
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-07-22
