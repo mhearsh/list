@@ -11,6 +11,13 @@
 
 
 # Manual Entry
+# Malicious IP / TLP:CLEAR
+# 2026-07-23
+
+135.87.39.23
+
+
+# Manual Entry
 # Malicious IPs / TLP:CLEAR
 # 2026-07-23
 
