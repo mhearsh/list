@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual Entry
+# Malicious IP / TLP:CLEAR
+# 2026-07-23
+
+103.237.102.191
+
+
 # TITAN/INCD - Event 42147
 # Linux CoinMiner Campaign IOCs / TLP:CLEAR / High
 # 2026-07-23
