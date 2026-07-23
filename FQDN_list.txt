@@ -10,6 +10,18 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42146
+# OkoBot Malware IOCs / TLP:CLEAR / High
+# 2026-07-23
+
+2baserec2.guru
+recavb22.online
+kbeautyreviews.com
+coffeesaloon.online
+thatwascringe.com
+moonsand.store
+
+
 # TITAN/INCD - Event 42143
 # Phishing Campaign IOCs / TLP:AMBER / High
 # 2026-07-23

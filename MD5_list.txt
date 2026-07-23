@@ -10,6 +10,23 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42146
+# OkoBot Malware IOCs / TLP:CLEAR / High
+# 2026-07-23
+
+b07d451ee65a1580f20a784c8f0e7a46
+187a1f68ae786e53d3831166dc84e6d2
+d84e8dc509308523e0209d3cd3544619
+83e6b8fcb92a0b13e109301f8ff649cf
+7306885bb4c98f2a9f056104cf092bc9
+b4c2e16cdb513be4dc798f88e2527334
+2157d2429124ad28db7a26f2477cb985
+77cecf5e2a622ae07d8ae9913457ab57
+e0c3bc27a65750e740c4f1719e531c7d
+ac93a821617aea1f56d4bc0bef4af327
+11dbc8a2bea04b15f8f68f3f01e8faf9
+
+
 # TITAN/INCD - Event 42143
 # Phishing Campaign IOCs / TLP:AMBER / High
 # 2026-07-23
