@@ -10,6 +10,17 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42147
+# Linux CoinMiner Campaign IOCs / TLP:CLEAR / High
+# 2026-07-23
+
+0d01bd11d1d3e7676613aacb109de55f
+0fde38c0cfa5e5bf8e6ac2a6be0232b7
+161d62e4b7ab39f677e7a6828039ef79
+2fcad1ae4a29ddb3862f3674065e7433
+3565360c4102e152852976effc9aab85
+
+
 # TITAN/INCD - Event 42146
 # OkoBot Malware IOCs / TLP:CLEAR / High
 # 2026-07-23

@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42147
+# Linux CoinMiner Campaign IOCs / TLP:CLEAR / High
+# 2026-07-23
+
+317f1a5ac392476d32920eeba5d5d5539ea0be2b
+e91db0b6ccb081f465308888e812fea4f16133e4
+7c5ab1061ca5104c8ccbed618ac3c7bf82ff54a5
+6453620914180a6578658ae51771ca593b84cb03
+
+
 # TITAN/INCD - Event 42143
 # Phishing Campaign IOCs / TLP:AMBER / High
 # 2026-07-23

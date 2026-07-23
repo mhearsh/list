@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42147
+# Linux CoinMiner Campaign IOCs / TLP:CLEAR / High
+# 2026-07-23
+
+143.20.185.252
+
+
 # Manual Entry
 # Malicious IP / TLP:CLEAR
 # 2026-07-23
