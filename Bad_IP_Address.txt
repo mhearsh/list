@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# Multiple Failed Logins
+# Failed login attempts from multiple countries (Sweden, US, Japan, Russia) / TLP:CLEAR
+# 2026-07-23
+
+198.167.201.238
+20.246.133.88
+40.81.205.181
+93.77.191.156
+
+
 # TITAN/INCD - Event 42134
 # Chinese AI-Assisted Cyber Espionage IOCs / TLP:CLEAR
 # 2026-07-22
