@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual Entry
+# Malicious IP / TLP:CLEAR
+# 2026-07-23
+
+176.111.37.5
+
+
 # TITAN/INCD - Event 42142
 # Iranian PLC Attacks IOCs / TLP:CLEAR / High
 # 2026-07-23
