@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42172
+# ClickFix Campaign IOCs / TLP:AMBER / High
+# 2026-07-26
+
+47eef4a089230024b8cbd1eaa7a5e324bf3da82497d8d02cf218f4e336570765
+
+
 # TITAN/INCD - Event 42169
 # TuxBot v3 IOCs / TLP:CLEAR / High
 # 2026-07-26
