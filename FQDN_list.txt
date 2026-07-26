@@ -10,6 +10,62 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42168
+# Phishing Campaign IOCs / TLP:AMBER / High
+# 2026-07-26
+
+edhxr0950o.onrender.com
+klhlledtojqpiyhppuxv.supabase.co
+
+
+# TITAN/INCD - Event 42169
+# TuxBot v3 IOCs / TLP:CLEAR / High
+# 2026-07-26
+
+cfcybernews.eu
+captcha.kanfetka.site
+digikalas.online
+jetross.com
+
+
+# TITAN/INCD - Event 42170
+# TELEPUZ ClickFix Campaign IOCs / TLP:CLEAR / High
+# 2026-07-26
+
+betalegenda.cfd
+mavpaprokla.lat
+momasites.lol
+momasites.com
+hardenedom.shop
+hardendedom.sh
+hardendom.shop
+hardeneddom.shop
+netblokirovka.asia
+netblokir.asia
+netlobikrovka.asia
+kidsko.sh
+mazaporka.shop
+hurgadatour.shop
+krabsburger.xyz
+zewaplus.club
+cal.joycedoula.com.br
+cal.snehamumbai.org
+neblokirovka.as
+
+
+# TITAN/INCD - Event 42171
+# UAT-11795 Starland RAT Campaign IOCs / TLP:CLEAR / High
+# 2026-07-26
+
+eorthopaedics.com
+sastoro.com
+zynaris.io
+alphabitcapital.info
+niggerdemon.in
+web-devtools.com
+aipythondevs.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-07-26

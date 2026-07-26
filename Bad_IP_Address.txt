@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# TITAN/INCD - Event 42171
+# UAT-11795 Starland RAT Campaign IOCs / TLP:CLEAR / High
+# 2026-07-26
+
+74.114.119.201
+178.255.126.39
+193.149.176.254
+
+
 # Manual Entry
 # Malicious IP / TLP:CLEAR
 # 2026-07-26
