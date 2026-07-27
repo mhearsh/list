@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# INCD | TITAN - HelloNet ViPNet DLL Sideloading IOC's
+# HelloNet ViPNet DLL Sideloading / TLP:CLEAR - Threat Level: High
+# 2026-07-27
+
+c1f6ca815b6395ee1ec8d749065c7e9018a9fc9a
+686292c07e33c4a5ca456db446bb71fb9fc67a81
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-07-27
 
