@@ -12,6 +12,14 @@
 
 # Manual Entry
 # Malicious IP / TLP:CLEAR
+# 2026-07-27
+
+3.101.240.50
+3.101.240.156
+
+
+# Manual Entry
+# Malicious IP / TLP:CLEAR
 # 2026-07-26
 
 3.101.230.206
