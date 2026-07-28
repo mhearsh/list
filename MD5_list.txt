@@ -10,6 +10,43 @@
 ###############################################################################
 
 
+# INCD | TITAN - GoSerpent IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-07-28
+
+ebffd5a76aaa690bcdb922f82e0bacc5
+dc506ff7bb72735444fb3703a6bee6d8
+d6e86bf8a90e9b632add5fa495f97fbc
+cb6c4c70a3b171fa3404b8e1a3382116
+64e9d1950e42bc98486dfd9919463d1c
+cbbb6d483737ea3566726e51752dff40
+7f223ee0716ce2ad56f55d3744419449
+19f8befcb035f52bf70094e6b4f5779a
+846ef7c1c7323849b2a778c5e4cda162
+d08a059e8b815e3b891505bc8777fc28
+93a1569d5d5ab2c4761fedf84f83709e
+
+
+# INCD | TITAN - Blind Eagle Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-07-28
+
+3f299fc6781250647d1b05008a8acb55
+4eb0c6d2aff2a94d3df5d4ddd8f92468
+
+
+# INCD | TITAN - Remcos RAT IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-07-28
+
+3757dccb2adae65ccdf8d5e5c948b927
+07d7d21c2c0920d198efb9ea54900a80
+20476f3a51dfddf3dc0603fc7858d894
+7842d12d9e37c75076133be5b9904cb2
+2a34bdd25b404737ee5d3b52bf0b3b70
+cc34d9760394104ad47877a0d57e9c63
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-07-28

@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# INCD | TITAN - Blind Eagle Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-07-28
+
+rema200426.duckdns.org
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-07-28

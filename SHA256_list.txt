@@ -10,6 +10,25 @@
 ###############################################################################
 
 
+# INCD | TITAN - Blind Eagle Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-07-28
+
+a4fbd707f4ce7ca68e6137cef1c56b6f408e5f0a0f148434d996bb98c3a21fff
+a73cb9d5d46e19f3daa4a14cfe5d8fa4319a3d62452039e4972e6a316bbb26f4
+
+
+# INCD | TITAN - Remcos RAT IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-07-28
+
+f9853d0bea5c8bdedfa15dc258ac3c8415532c8ad780a679914788f368000ef7
+e29a665cd6f2567f651880b2f5a054d474d639de8ed9005c52268bd0b49487ba
+279e14ad7bad135f7b63e17c355c969116c2db600967061bbab107f66d62dbb6
+b857821ade3427a9fd9d83f42150344bc905bda8328fa66ba49d499af64f23ee
+4be99a20b625ea36ebd6491062797c85077a5cc1611de9d61c4a7bf0d32a29e6
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-07-28
