@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual Entry
+# Malicious IP / TLP:CLEAR
+# 2026-07-28
+
+3.42.1.48
+
+
 # INCD | TITAN - HelloNet ViPNet DLL Sideloading IOC's
 # HelloNet ViPNet DLL Sideloading / TLP:CLEAR - Threat Level: High
 # 2026-07-27
