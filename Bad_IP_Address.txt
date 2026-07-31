@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual Entry
+# Malicious IP / TLP:CLEAR
+# 2026-07-31
+
+104.194.9.6
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-07-31
