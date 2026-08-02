@@ -10,6 +10,26 @@
 ###############################################################################
 
 
+# INCD | TITAN - ClickFix Campaign IOC's | 29/07/2026
+# TLP:AMBER - Threat Level: High
+# 2026-07-29
+
+5227be8b058e86b2e2fbf10fdee6d8a5
+7dc12027a0a4a691066fbc9b4873c10e
+1f4e5de1c3f4e4249abab445e80e6767
+c75c36061dd8748388e32c5394ca47dd
+b25ad01d164b09566c8103036305488c
+
+
+# INCD | TITAN - Prince Ransomware IOC's
+# TLP:AMBER - Threat Level: High
+# 2026-07-30
+
+6983f7001de10f4d19fc2d794c3eb534
+9efd15a3a47177a0b2face9528ee726d
+d9fabea1b1a8887aa8c17ce7875442cb
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-08-01
