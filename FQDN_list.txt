@@ -10,6 +10,49 @@
 ###############################################################################
 
 
+# TITAN 42217
+# Lua Loader IOC's | TLP:CLEAR
+# 2026-08-02
+
+mail.teamengineersgroup.com
+allportcargoservice.com
+taikei-rmc-co.biz
+
+
+# TITAN 42216
+# TrickBot Variant Using DNS Tunneling for C2 | TLP:CLEAR
+# 2026-08-02
+
+westurn.in
+
+
+# TITAN 42215
+# Mirage Kitten APT | TLP:CLEAR
+# 2026-08-02
+
+smartconnect.azurewebsites.net
+businessmixture.com
+global-reds.com
+maadinglobal.com
+business-deegital.com
+business-deegital.azurewebsites.net
+businessdeegital.azurewebsites.net
+neexportfolio.azurewebsites.net
+neexportfolio.com
+neexportfolio.eastus.cloudapp.azure.com
+aecert.org
+realhealthshop.com
+tjconsultingservices.com
+thehealth-life.com
+buisness-centeral-transportation.com
+healthcarezoom-centeral.azurewebsites.net
+healthcarezoomcenteral.azurewebsites.net
+healthcarezoomcenteral.org
+toadreport.azurewebsites.net
+business-startup.azurewebsites.net
+businessstartup.azurewebsites.net
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-02
