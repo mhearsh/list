@@ -10,6 +10,58 @@
 ###############################################################################
 
 
+# TITAN 42225
+# LAUNDRY BEAR Webmail Espionage Campaign IOC's | TLP:CLEAR
+# 2026-08-03
+
+xwe.us
+hgmydr.wiki
+xsza.net
+zxzaq.com
+upgybj.store
+zmailanalytics.com
+zimbra-metadata.com
+analyticemailmeter.com
+mailnalysis.com
+zimbrastat.com
+synacorzimbra.nl
+istc-cloud.com
+share-ya.space
+i.zmailanalytics.com
+i.zimbra-metadata.com
+i.analyticemailmeter.com
+i.emailanalytics.com.ua
+i.mailnalysis.com
+i.zimbrastat.com
+i.zimbrasoft.com.ua
+i.synacorzimbra.nl
+i.istc-cloud.com
+emailanalytics.com.ua
+zimbrasoft.com.ua
+
+
+# TITAN 42228
+# Helpdesk Hijackers Campaign IOCs | TLP:CLEAR
+# 2026-08-03
+
+scansec-upd.com
+filesdwnload.top
+dowlfles.online
+upldf.online
+geranteeg.online
+
+
+# TITAN 42227
+# Kimsuky Spearphishing Campaign IOC's | TLP:CLEAR
+# 2026-08-03
+
+medianewsonline.com
+fsfhsfgsfsnxcvbasfsgsrhsf234fsd.mywebcommunity.org
+scienceontheweb.net
+mofagov.com
+sportsontheweb.net
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-03
