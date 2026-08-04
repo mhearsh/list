@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual Entry
+# Malicious IP | TLP:AMBER
+# 2026-08-04
+
+185.70.42.36
+
+
 # TITAN 42228
 # Helpdesk Hijackers Campaign IOCs | TLP:CLEAR
 # 2026-08-03

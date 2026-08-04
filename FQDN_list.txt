@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual Entry
+# Malicious Domain | TLP:AMBER
+# 2026-08-04
+
+account.proton.me
+
+
 # TITAN 42225
 # LAUNDRY BEAR Webmail Espionage Campaign IOC's | TLP:CLEAR
 # 2026-08-03
