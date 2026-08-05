@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# TITAN 42238
+# Shai-Hulud Supply Chain Attack IOCs | TLP:CLEAR
+# 2026-08-04
+
+f92ee93a0af971a3966bfa8efa9c2625
+4140f7e17e6f97f83aa3472473e01add
+7bcf8d9f6834c44450eac145a967d2f2
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-08-05
