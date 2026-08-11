@@ -10,6 +10,27 @@
 ###############################################################################
 
 
+# TITAN 42247
+# Black Nevas IOC's | TLP:AMBER
+# 2026-08-05
+
+f18b501eca2a7390705967a24f67b808b43d2212
+aa10da9d601482262b87cb1e0748acca7a91c2a5
+cdb07718787743ceb488b5bd184d9a4939c12dbf
+cd2f25a8ab74bdc17d7c8170f2c4135537ece3c4
+7bf79cc58fb8f3d0ec774cb8b9e8ce311cbc27d2
+c1c9008b4be855583df0f04204443262a3fbc8ab
+499cd23b37a00b9a8ad212f879501705baad1781
+d5486a14ef0cd5f9aae9d4fb3321a7b72cbb28ef
+
+
+# TITAN 42251
+# BINDCLOAK IOC's | TLP:CLEAR
+# 2026-08-06
+
+577b1cc894636f4ac5ad670b0079b9b7ade137c3
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-08-10
 

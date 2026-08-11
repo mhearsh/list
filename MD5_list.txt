@@ -10,6 +10,38 @@
 ###############################################################################
 
 
+# TITAN 42247
+# Black Nevas IOC's | TLP:AMBER
+# 2026-08-05
+
+b4d6c43e00fe141725c0059c2c7aa363
+f9435b45e0c050eec1da31bb891e333d
+ad0bf2c5690665dd625a2bea61559469
+f2547a80dd64dcd5cba164fe4558c2b6
+cf51836a160c95370a145f7aa0c8c788
+4d2cd5aee36778666d67cdbd092d942c
+9f877949b8cbbb3adfe07fd4411b9f26
+2374998cffb71f3714da2075461a884b
+4a1864a95643b0211fa7ad81b676fe2e
+
+
+# TITAN 42251
+# BINDCLOAK IOC's | TLP:CLEAR
+# 2026-08-06
+
+7a14a99d70d42d3f7bf72f843185fc07
+
+
+# TITAN 42246
+# Deadlock Ransomware Bitcoin IOC's | TLP:AMBER
+# 2026-08-05
+
+505d23c7a66a02239056ac3cfed24132
+9a4dcce25a87819585aa0a1dd16186c8
+4374eb7807fbcb767ae3a6202b4dd8f8
+c8e16b76ae25d2f27e581a9bef134ea8
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-08-10

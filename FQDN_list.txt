@@ -10,6 +10,45 @@
 ###############################################################################
 
 
+# TITAN 42251
+# BINDCLOAK IOC's | TLP:CLEAR
+# 2026-08-06
+
+hypersnet.com
+blsouqs.com
+
+
+# TITAN 42252
+# ClearFake IOC's | TLP:AMBER
+# 2026-08-06
+
+www.badischwaendi.ch
+ren.trytoken.life
+
+
+# TITAN 42236
+# UNC6692 Remote Access IOC's | TLP:CLEAR
+# 2026-08-04
+
+d2g6dl71gua1qa.cloudfront.net
+d1jp293q9tvi92.cloudfront.net
+d23l50n6ubud7p.cloudfront.net
+d3nh8sl98s2554.cloudfront.net
+d385m5skczp5q5.cloudfront.net
+d7xpwoah6gdv2.cloudfront.net
+d3434apz0x8t7d.cloudfront.net
+
+
+# TITAN 42246
+# Deadlock Ransomware Bitcoin IOC's | TLP:AMBER
+# 2026-08-05
+
+dlock.liveblog365.com
+biggoalsports.co.za
+nmsneustadtl.ac.at
+envisionreg.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-10
