@@ -10,6 +10,27 @@
 ###############################################################################
 
 
+# TITAN 42243
+# Attacker IP | Port 23 Scanning | TLP:AMBER
+# 2026-08-05
+
+213.230.87.88
+
+
+# TITAN 42272
+# Malware Bypass DNS Direct To IP | TLP:CLEAR
+# 2026-08-10
+
+62.60.179.230
+
+
+# TITAN 42284
+# FakeCaptcha Traffic Distribution IOC's | TLP:CLEAR
+# 2026-08-10
+
+188.72.236.249
+
+
 # TITAN 42246
 # Deadlock Ransomware Bitcoin IOC's | TLP:AMBER
 # 2026-08-05
