@@ -10,6 +10,32 @@
 ###############################################################################
 
 
+# TITAN 42273
+# SmartLoader IOC's | TLP:CLEAR
+# 2026-08-10
+
+ab5cdef0cde09c4bb0cab33ab0d2f92e
+6f2e3a9ec6914209bf85be0677aadf9e
+c2a7f19ba96dc460d591d37d664fe6aa
+82e81158366a953c33d0720dfe34b95b
+673570abcb54b368b9521bdff8f331d4
+721a0b232b5456d8c40ef8f850f5be70
+5ae98c92fdb96b216d628ec633f65281
+0e3d182f6fd64f4b10910d3a19af738e
+d1f0e502ea4e81805ace4fd4cac2447a
+
+
+# TITAN 42275
+# npm Packages Worm IOC's | TLP:CLEAR
+# 2026-08-10
+
+dbb9b09957113463bbeb420c2c4108b5
+00ca0c04d247ef09f2b2acc452029345
+930553e362f99aa05d217ccaa68e9719
+db189867d98264bdce58eae5b1f72df4
+f82d39e82fb2ad3286d629f192365ca7
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-08-11

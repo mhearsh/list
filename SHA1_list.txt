@@ -10,6 +10,32 @@
 ###############################################################################
 
 
+# TITAN 42273
+# SmartLoader IOC's | TLP:CLEAR
+# 2026-08-10
+
+09c42a82aa43d639f519c000123d28409c281c4d
+eb34adba2c6119def77f408f4e1f7ec6c4cfb783
+2e930eb7072ac6f8906c5df11e041d88aaea1fcd
+4b5eee1d2ba5bf3ca0389c0415626634c640a4bd
+6b62b776acccf2316247b31e78804b7ee0999cd0
+b9f8b42be79c20b34e08fae7b80548d821824617
+ddefa54547b45c7fc0859fe05a35aa84d2215453
+90b7336963d5ec15ffc86489bed4d6eb18f516d6
+777439faf46d5120401e9474a94282de532c8693
+
+
+# TITAN 42275
+# npm Packages Worm IOC's | TLP:CLEAR
+# 2026-08-10
+
+7b0278216ac31ec18eca9eb8bc1c1261a1b26f6c
+ff7ed7a0fa1c43eed01809d076feedbaed464fc7
+134bd3d7a2d2073f6065cf6c55850d2fdfbfe766
+0eb89aed056169d69f3b9468e2c7266f1b298be9
+114ea040a7ed446cd324d1b058eb3051fb5eeca9
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-08-11
 
