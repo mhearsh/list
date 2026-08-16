@@ -10,6 +10,39 @@
 ###############################################################################
 
 
+# INCD TITAN 42276 - TA488 Half-Click
+# TA488 Half-Click IOCs | TLP:CLEAR
+# 2026-08-10
+
+6897b649f29e54d8910459963bbf94ed5c7a4fe66a56bc5962540b226b8e48c4
+
+
+# INCD TITAN 42277 - GenieLocker Ransomware
+# GenieLocker Ransomware IOCs | TLP:CLEAR
+# 2026-08-10
+
+46b55c1bda53cf8aa9ac963fe0f478198efe658dd2d9027d40943ac6c9efce25
+dce818f0738af0dc9592627b7db5f4d3e02aadfe24c8de8d4f10161a7b5f75df
+99acdf11b74029d053ee7daf62575e50dd43a42b474efd44853b78e29b4fa7cd
+fb6feb9eb3ab5a245f5d3a57683e48d34261fd4e23e47a8347ba405dd8a5d3ef
+
+
+# INCD TITAN 42278 - Cyber Crime Activity
+# Cyber Crime Activity IOCs | TLP:CLEAR
+# 2026-08-10
+
+b2d46bfc25df83dd39b7e15e9ef5c182cd20ee4d862ac612593ac46257d13be8
+
+
+# INCD TITAN 42279 - Larva-24009
+# Larva-24009 IOCs | TLP:CLEAR
+# 2026-08-10
+
+6e36060854006f9ed029ab7547f4478f0486ba5256ce9cc9027248882deebdc7
+5ef6e43a56e575086ce954ff9032ff9f1609e12ec2ea6ca88c29b4d58afb1b96
+50fff792045acd8dde0ff8285ea428d6fc9894e50f66e64521dd4503914939bf
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-08-16

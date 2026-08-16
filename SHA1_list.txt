@@ -10,6 +10,32 @@
 ###############################################################################
 
 
+# INCD TITAN 42276 - TA488 Half-Click
+# TA488 Half-Click IOCs | TLP:CLEAR
+# 2026-08-10
+
+1c9f9dab1879fc5f0269d499ff8d7d405132cb36
+
+
+# INCD TITAN 42277 - GenieLocker Ransomware
+# GenieLocker Ransomware IOCs | TLP:CLEAR
+# 2026-08-10
+
+006a89966de7db1cf9b3f826edfd3e76a15c134a
+2e6bc8ba12a9a3150257880fcd2a97f702a28d47
+191f02d1b516ce3bcfc53110ba1e394e485567a1
+c73b1e43324c570e53e786ebe45d3a8450697b4c
+
+
+# INCD TITAN 42279 - Larva-24009
+# Larva-24009 IOCs | TLP:CLEAR
+# 2026-08-10
+
+c2d2332b2bf0fecbea7da05792a61da979499b21
+0ebb7ce38923e7bc469a222d63bb78939bd30ad7
+7efc80bfb0797e3fd1327cc00edb6850902e8367
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-08-16
 

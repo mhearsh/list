@@ -10,6 +10,25 @@
 ###############################################################################
 
 
+# INCD TITAN 42276 - TA488 Half-Click
+# TA488 Half-Click IOCs | TLP:CLEAR
+# 2026-08-10
+
+dnsrecursive.eu
+tdndns.com
+
+
+# INCD TITAN 42279 - Larva-24009
+# Larva-24009 IOCs | TLP:CLEAR
+# 2026-08-10
+
+aonexa.shop
+mainsec2.site
+mainsec.site
+pozeny.shop
+serverdock.online
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-16
