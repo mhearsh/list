@@ -10,6 +10,42 @@
 ###############################################################################
 
 
+# INCD TITAN 42301 - Phishing Campaign
+# Phishing Campaign IOCs | TLP:AMBER
+# 2026-08-13
+
+webinarsforcampaignsnetwork.com
+u2534942.ct.sendgrid.net
+
+
+# INCD TITAN 42303 - Phishing Campaign
+# Phishing Campaign IOCs | TLP:AMBER
+# 2026-08-13
+
+nwcadvocates.com
+saanaconzdcsultingltd.vu
+
+
+# INCD TITAN 42306 - Police Phishing Campaign
+# Police Phishing Campaign IOCs | TLP:CLEAR
+# 2026-08-13
+
+infosuport.com
+soka-turkya.com
+tap-vpns.top
+simpelpdf.com
+infososo.com
+info4pdf.com
+theorbyt.com
+thebangbros.com
+woerkpdf.com
+pdf-supoort.com
+social-vpdf.com
+makeporn.art
+makenude.pro
+info-sospolice-pdf.com
+
+
 # INCD TITAN 42276 - TA488 Half-Click
 # TA488 Half-Click IOCs | TLP:CLEAR
 # 2026-08-10

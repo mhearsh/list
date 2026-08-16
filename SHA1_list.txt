@@ -10,6 +10,37 @@
 ###############################################################################
 
 
+# INCD TITAN 42300 - Operation Double Barrel
+# Operation Double Barrel IOCs | TLP:CLEAR
+# 2026-08-13
+
+f1201749ff12f750e01c5eb7a48120e3834d4b56
+74cc35b5b076f342fe02d84b376b944e061ab8ae
+cff0661ed392bc97a3b3c410bc3e1a33a33ee523
+526d773e08873b6198bb904a9ee9fe6a93c3d3f8
+f165513c2c42867279e12fd65db99a7d8a2ee136
+4b4cf4dfaa80bcfda597827d9db80944726841c4
+5a5fc3425c4b4ea183fa5317ea63633607e71af2
+4729db7f344fbf16d5268dbc5b3794a5794daaf4
+
+
+# INCD TITAN 42302 - Phishing Campaign
+# Phishing Campaign IOCs | TLP:CLEAR
+# 2026-08-13
+
+0a5c1a8663777200122b118172fafd9c8717d6a8
+402fcbccdf5efe059541d51af8136e8178daaf50
+f213720c3eca14a381df5ee2ec34b25ac9f79787
+13b793fccfd73806072a272763ba512bb18f2105
+
+
+# INCD TITAN 42303 - Phishing Campaign
+# Phishing Campaign IOCs | TLP:AMBER
+# 2026-08-13
+
+639ff3684b4a8563e599a4a98c5ec502616cbf50
+
+
 # INCD TITAN 42276 - TA488 Half-Click
 # TA488 Half-Click IOCs | TLP:CLEAR
 # 2026-08-10

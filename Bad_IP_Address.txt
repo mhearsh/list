@@ -10,6 +10,23 @@
 ###############################################################################
 
 
+# INCD TITAN 42300 - Operation Double Barrel
+# Operation Double Barrel IOCs | TLP:CLEAR
+# 2026-08-13
+
+104.207.135.174
+158.247.200.50
+158.247.240.44
+158.247.206.214
+
+
+# INCD TITAN 42302 - Phishing Campaign
+# Phishing Campaign IOCs | TLP:CLEAR
+# 2026-08-13
+
+178.16.54.241
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-16
