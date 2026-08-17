@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# INCD TITAN 42315 - HoneyMyte CoolClient
+# HoneyMyte Kernel Rootkit Campaign | TLP:CLEAR
+# 2026-08-16
+
+dursamjbataar.org
+
+
 # INCD TITAN 42301 - Phishing Campaign
 # Phishing Campaign IOCs | TLP:AMBER
 # 2026-08-13

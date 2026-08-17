@@ -10,6 +10,52 @@
 ###############################################################################
 
 
+# INCD TITAN 42281 - AtlasRAT
+# AtlasRAT IOCs | TLP:CLEAR
+# 2026-08-10
+
+eb852665a2a81e34e9e99242126b5477fb009215
+1d6371f15728c174e3a2725f6a674205150b97ac
+ae77d2b294a2455c18b639edb16479fc2d43827e
+3bc456127553d7c07d1eb45003a53072cf885590
+aefad99d1c09fc7e0725e0a42ba39fa4c6571e50
+
+
+# INCD TITAN 42280 - Next.js & Node.js Cryptomining
+# Cryptomining Campaign IOCs | TLP:CLEAR
+# 2026-08-10
+
+c9bb4fc8eadaad35e50de087e3bbd5969cb2df2f
+cf95630666f0ea10add2751b9133cfdbee34016c
+5438d5e1ca6911257b876ebfac5704e72ce7ade1
+c1eb6e96ec2b7d47da0f00f597bb1388540c1365
+a28b5ce72044d149ad2db40a5a3611d7011564eb
+e67fd42dac68ae213080a1f54f4a143c0bdd0e95
+
+
+# INCD TITAN 42315 - HoneyMyte CoolClient
+# HoneyMyte Kernel Rootkit Campaign | TLP:CLEAR
+# 2026-08-16
+
+286521e7d8dd40923350255e7583bb0038a806c7
+24ebdd3728db6b4f8bb8f14b5a23af4eb31be816
+
+
+# INCD TITAN 42319 - ClickFix Campaign
+# ClickFix Campaign IOCs | TLP:AMBER
+# 2026-08-16
+
+8223170ece34beb34d18dd7a67441b90c8ebb865
+dc687f9356de97f351fcaddf90a6e957716bbcb6
+
+
+# INCD TITAN 42320 - Lucid Stealer
+# Lucid Stealer Malware | TLP:CLEAR
+# 2026-08-16
+
+111fcd30ae5bf8797f60ecc063e3caeaeb0e7027
+
+
 # INCD TITAN 42300 - Operation Double Barrel
 # Operation Double Barrel IOCs | TLP:CLEAR
 # 2026-08-13
