@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual
+# Malicious IP | TLP:CLEAR
+# 2026-08-17
+
+172.233.62.80
+
+
 # INCD TITAN 42300 - Operation Double Barrel
 # Operation Double Barrel IOCs | TLP:CLEAR
 # 2026-08-13
