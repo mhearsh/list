@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# INCD TITAN IR Investigation XLSX
+# IR Investigation IOCs | TLP:RED
+# 2026-08-17
+
+api.studiotikva.com
+HelloWorld.co.il
+
+
 # INCD TITAN 42331 - ClickFix Malicious Domains
 # ClickFix Malicious Domains | TLP:AMBER
 # 2026-08-17

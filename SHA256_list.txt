@@ -10,6 +10,17 @@
 ###############################################################################
 
 
+# INCD TITAN 42333 - IR Investigation
+# IOCs From Recent IR Investigation | TLP:AMBER
+# 2026-08-17
+
+28a2b5dea87d875f3b5b9d95672a08faacb8cbaedf9ca47d32e18daccd9f5a5f
+40cc7d5ba1dca71bcd9e985749c760d0faf0d09e02a253cd2e4fa15a2daf4db7
+6ea2a53e39c61beec0ad3aafe1a332d5877247762ef21d3589bbd4224b991777
+647549ffe359e3ab5c1d8ad22ee199eb703788705458115993e9196de0798df5
+3055ebc930066e3212e731d3b97d3d10b551bea42b9fda4e1dd2fec73ea402cc
+
+
 # INCD TITAN 42323 - Lazarus Group Phishing
 # Lazarus Group Phishing Campaign | TLP:CLEAR
 # 2026-08-17
