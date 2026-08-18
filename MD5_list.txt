@@ -10,6 +10,23 @@
 ###############################################################################
 
 
+# INCD TITAN 42323 - Lazarus Group Phishing
+# Lazarus Group Phishing Campaign | TLP:CLEAR
+# 2026-08-17
+
+329dcba41a6a070dae647c9d72ec5fec
+ecbe5171265aef1f88d3b12a7891a949
+8a1ff3e23a209bfe920e01a61a6769aa
+b9254ba90665acc86905268c6edbc70a
+07c9e9716abfdb91cb11ac1dfd0ea536
+5413eeaa33cdf631c7317c9f6e280809
+c36966242f141aa2bc280b5821928111
+56d15f308984c1a388c112ac39dfb18a
+cc9e17a83ff4e200e9ad2afc9be559b3
+718706333b6f2251f13f62885ba0156d
+07bfd8b5cf77a22d6029c3fcf9157ecd
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-08-18

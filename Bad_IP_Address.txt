@@ -10,6 +10,21 @@
 ###############################################################################
 
 
+# INCD TITAN 42323 - Lazarus Group Phishing
+# Lazarus Group Phishing Campaign | TLP:CLEAR
+# 2026-08-17
+
+135.181.67.203
+135.181.185.158
+
+
+# INCD TITAN 42329 - City Forum Campaign
+# City Forum Campaign IOCs | TLP:CLEAR
+# 2026-08-17
+
+158.220.87.79
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-18

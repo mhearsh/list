@@ -10,6 +10,30 @@
 ###############################################################################
 
 
+# INCD TITAN 42331 - ClickFix Malicious Domains
+# ClickFix Malicious Domains | TLP:AMBER
+# 2026-08-17
+
+wirelesswebdevice.com
+leposeur.com
+
+
+# INCD TITAN 42323 - Lazarus Group Phishing
+# Lazarus Group Phishing Campaign | TLP:CLEAR
+# 2026-08-17
+
+envell.xyz
+enveil.online
+uxtramine.org
+
+
+# INCD TITAN 42329 - City Forum Campaign
+# City Forum Campaign IOCs | TLP:CLEAR
+# 2026-08-17
+
+city-forum.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-18
