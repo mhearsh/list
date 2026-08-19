@@ -10,6 +10,24 @@
 ###############################################################################
 
 
+# INCD TITAN 42317 - CaptiveCrunch
+# CaptiveCrunch Attack IOCs | TLP:CLEAR
+# 2026-08-16
+
+ms365-device.com
+ms365-live.com
+m365-owa.com
+owa-ms365.com
+
+
+# INCD TITAN 42338 - GhostDesk Chrome Spyware
+# GhostDesk Chrome Spyware IOCs | TLP:CLEAR
+# 2026-08-18
+
+ccleanerwind.top
+liderongrade.duckdns.org
+
+
 # INCD TITAN IR Investigation XLSX
 # IR Investigation IOCs | TLP:RED
 # 2026-08-17
