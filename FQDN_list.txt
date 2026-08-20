@@ -10,6 +10,57 @@
 ###############################################################################
 
 
+# TITAN 42340
+# Head Mare TrueConf IOCs / TLP:CLEAR
+# 2026-08-19
+
+penzadogshelter.site
+trendy-market.site
+bright-deals.site
+rinomobile.ink
+urbanpixel.store
+flexish.shop
+media-hub.today
+cosmetic-deals.store
+gossopka.forum
+
+
+# TITAN 42341
+# Armored Likho Still Toolkit IOCs / TLP:CLEAR
+# 2026-08-19
+
+orderapiserver.info
+tg4service.com
+srwinservice.com
+screenserv.com
+windowserv.net
+managementapiservice.com
+service8date.com
+updateservs.com
+
+
+# TITAN 42343
+# QuickFox FDMTP Supply Chain IOCs / TLP:CLEAR
+# 2026-08-19
+
+51quickfox.cn
+icloud-cdn.net
+google-apis.net
+techcheck1.com
+yahoo-cdn.it.com
+wangmeng.xyz
+wangmengsb.com
+wangmeng66.top
+
+
+# TITAN 42346
+# Phishing Campaign IOCs / TLP:AMBER
+# 2026-08-19
+
+onepoagiint.vu
+ftwestseattle.com
+
+
 # Manual
 # Malicious Domain | TLP:CLEAR
 # 2026-08-19

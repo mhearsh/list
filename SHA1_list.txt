@@ -10,6 +10,35 @@
 ###############################################################################
 
 
+# TITAN 42340
+# Head Mare TrueConf IOCs / TLP:CLEAR
+# 2026-08-19
+
+ac9f013ad20aab607264d7cfe69ad153a4224d4b
+ce1ae52bd60bf4a15a8d9aa597989b0d9df8ff3b
+d590d6889960e8991cadbd3ffe6fc567ee02912d
+f9a692dadf9cc72352b979b1ecb80eb09ddf941a
+7b9c37d82be5102e47a267e9f3c7c16b23bb1114
+b7cea387205e16c9f43d750035e77735415dad34
+
+
+# TITAN 42341
+# Armored Likho Still Toolkit IOCs / TLP:CLEAR
+# 2026-08-19
+
+b9258c816724cb074258df485dfbc5b08141cdcb
+17b6f4984930165939680a09d91989ad82bc57e2
+dd1f41f6f8e995fb482070d6689f4238505aac78
+724f6ca2ea66dbf117c7eea42c99760716ec75b9
+
+
+# TITAN 42342
+# Abyssos Modular RAT IOCs / TLP:CLEAR
+# 2026-08-19
+
+95f33d06d4d6f2a4613143fdff9c337f2470a588
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-08-19
 
