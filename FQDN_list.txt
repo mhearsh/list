@@ -10,6 +10,18 @@
 ###############################################################################
 
 
+# User Submission
+# Malicious domains / TLP:CLEAR
+# 2026-08-20
+
+memgroup.co.za
+www.memgroup.co.za
+e-rgroup.com
+www.emrgroup.at
+si.bimmergroup.com
+www.si.bimmergroup.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-20
