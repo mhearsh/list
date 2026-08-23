@@ -10,6 +10,25 @@
 ###############################################################################
 
 
+# TITAN 42350
+# ShinyHunters Cluster A Phishing IOCs / TLP:CLEAR
+# 2026-08-20
+
+baefa44614e26b94448f0e19f26eefb6e1dfa983
+a20e58ee48d531a62ea80b0bdc305382264bcac4
+
+
+# TITAN 42318
+# Kimwolf Botnet IOCs / TLP:CLEAR
+# 2026-08-16
+
+2b66fb6d23be66863185cc1b67cac7410222b0b2
+87a8245f24cdd2667992b8300858c6bdedd3c5a3
+2675949d9d204dc3bb8848037df319df119aa140
+4cf441a24a2aa4aacfef8a91285212876f95c11a
+fc5f1c24a93475cdc37ee46b10ced608e63463e6
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-08-22
 

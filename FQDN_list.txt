@@ -10,6 +10,161 @@
 ###############################################################################
 
 
+# TITAN 42349
+# Financial Extortion Activity IOCs / TLP:CLEAR
+# 2026-08-20
+
+myoktasso.com
+mypasskeysso.com
+setupssopasskey.com
+mspasskey.com
+activatepasskey.com
+enrollpasskey.com
+keyokta.com
+oktaenroll.com
+oktaportalsso.com
+passkeyportal.com
+portalpasskey.com
+passkeyportalsetup.com
+addoktapasskey.com
+activatemypasskey.com
+registerpasskey.com
+createpasskey.com
+passkeyregister.com
+passkeycenter.com
+secureauthpasskey.com
+passkeyrollout.com
+passkeyokta.com
+passkeyset.com
+createmypasskey.com
+newpasskey.com
+passkeysupport.com
+sqfepjvmrd.xyz
+passkeyregistration.com
+addmypasskey.com
+passkey-setup.com
+passkey-portal.com
+startpasskeysetup.com
+passkey-connect.com
+portalsetuphub.com
+activatepasskeyportal.com
+myconnectkey.com
+mynewpasskey.com
+passkeycreate.com
+oskeyconnect.com
+passkeycreator.com
+enablepasskey.com
+enablepasskey2fa.com
+checkpasskey.com
+passkeyuser.com
+keysyncos.com
+myaccountsecurity.com
+addpasskey2fa.com
+passkeyenroll.com
+startpasskey.com
+passkeyenable.com
+passkeyactivation.com
+createmfa.com
+passkeyhelpdesk.com
+makepasskey.com
+add-passkey.com
+passkey-check.com
+addyourpasskey.com
+passkey-enable.com
+mypasskeyid.com
+passkeystatus.com
+secure-passkey.com
+addssopasskey.com
+ssopasskey.com
+createssopasskey.com
+myssopasskey.com
+hubpasskey.com
+passkeymfa.com
+
+
+# TITAN 42350
+# ShinyHunters Cluster A Phishing IOCs / TLP:CLEAR
+# 2026-08-20
+
+mydisneysso.com
+mydisneymanager.com
+mydisneyconnect.com
+myyalemanager.com
+myupennmanager.com
+mykkrconnect.com
+mynikemanager.com
+myjbhifi.com
+mydicksmanager.com
+mypublixmanager.com
+mypetcomanager.com
+mypurpledirect.com
+mypurpleconnect.com
+mypurplemanager.com
+mypurpleidsso.com
+purpleidconnect.com
+mynavmanagbsnsjser.com
+mynavmanadbsnsger.com
+shift4internal.com
+accounts-nexo.com
+account-ndax.com
+amazoninternal.com
+atocalculation.com
+koinlylegal.io
+legal-koinly.io
+meridian-saving.com
+lvmhinternal.com
+brixmorssoo.com
+vault-blofin.com
+binanapi-912512.com
+myiqeq.com
+verify91358.com
+verification12589.com
+crypto-ato.com
+restriction-nexo.com
+overview-gmail.com
+safety-river.com
+account-ndax.io
+852319-ndax.com
+admin.account-ndax.io
+412721coinbase.com
+118507coinbase.com
+953536-cb.com
+419256crypto.com
+501938binance.com
+53253binance.com
+device-verizon.com
+admin.device-verizon.com
+accounts-bitpanda.com
+help-cointracker.com
+admin.help-cointracker.com
+myvanecksso.com
+myvaneckmanager.com
+dokopanel.com
+admin.dokopanel.com
+
+
+# TITAN 42354
+# Sable Squirrel Infrastructure IOCs / TLP:CLEAR
+# 2026-08-20
+
+healthymagination.com
+animalrampage3d.io
+gene-chips.com
+stope40.org
+sadd.io
+socoliveku.cc
+trackervsb.live
+xemlaibongda.net
+xoilacxys.top
+
+
+# TITAN 42318
+# Kimwolf Botnet IOCs / TLP:CLEAR
+# 2026-08-16
+
+rpcuniverse.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-22
