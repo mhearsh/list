@@ -10,6 +10,28 @@
 ###############################################################################
 
 
+# Jewelbug Espionage & Crypto Fraud IOC
+# TLP: clear
+# 2026-08-20
+
+microsoft-flash.com
+jkskhei.com
+
+
+# StopAndProtect Global Campaign IOC
+# TLP: clear
+# 2026-08-24
+
+maximumrock.ro
+platinumcar.ca
+norakremer.co.uk
+pharmart.ae
+www.lapellelaser.pl
+www.parsrulman.com
+mectcalcutta.com
+discherniation.com
+
+
 # TITAN 42366
 # UAT-10147 Agentic AI IOCs / TLP:CLEAR
 # 2026-08-24
