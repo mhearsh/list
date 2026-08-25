@@ -10,6 +10,33 @@
 ###############################################################################
 
 
+# TITAN 42366
+# UAT-10147 Agentic AI IOCs / TLP:CLEAR
+# 2026-08-24
+
+tippusoni.in
+
+
+# TITAN 42369
+# Grandoreiro Malware IOCs / TLP:CLEAR
+# 2026-08-24
+
+445675885304004.pointto.us
+b744156103040828396040.nhlfan.net
+beeges.health-carereform.com
+smartpdfhub-7q2m.read-books.org
+streamlinepdf-8m2x.workisboring.com
+voyage.mydissent.net
+
+
+# TITAN 42364
+# QUICSILVER Campaign IOCs / TLP:CLEAR
+# 2026-08-24
+
+mediumser.com
+maui-cocktailbar.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-24
