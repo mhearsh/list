@@ -10,6 +10,40 @@
 ###############################################################################
 
 
+# APT43 / TLP:clear - Threat Level: High
+# 2026-08-25
+
+77a7dfdc7bd74cc47ac3f4f8e019936c
+ed914a866d4601950c22cc2252b1187d
+0dd1cf2d9a72fdbef19e77af59ba9d1f
+83d854b640cd29aa2d1ba1001cc0d920
+4a53f711935c147247e20cb166e5e8e8
+b3c90f52e4b86a94ec637fee4354bb84
+b4cba75b2866846a1b886533a373c90e
+6f5ed3346695879a1ffa8877167b04f4
+72d18a3cb42efdff6b6f299c59854d71
+474ec7f3fb875770e2c05c7d6a9c7133
+ea346f9f4baa4ddc72d08a1d65d1a6bf
+691324d0c3cdc1259638da9dd0a68059
+b33f86d3f5c8500223281b7dd6d17784
+1cafeb3fd8493d47c3bb1086c92d542d
+d2dd3a2ade64c160ae04f4be1c43c445
+cbb059bd691d846e8279d617134d3129
+d2044685f2a58da9ad6ac67636acda32
+
+
+# CNCMachineRMS RAT Campaign / TLP:clear - Threat Level: High
+# 2026-08-17
+
+bfb25270df49bb391193a59281d5ffcf
+31c4eeb36c12d0784be6e21ee40a2b60
+3d393f2bdb67d15602a96a1496a82942
+1db08732a7f63ba3487b10f7c13ebaaf
+8dcb875c657f72e446d1ea88a1e8d82c
+1289b528f53c4b94f51a151ab1422797
+14477fd8ce26e5251dddf34a003364bc
+
+
 # Russian Espionage Campaign / TLP:clear - Threat Level: High
 # 2026-08-25
 
