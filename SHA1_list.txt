@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# UAT-10147 Agentic AI IOC's
+# TITAN IOC / TLP:CLEAR - Threat Level: High
+# 2026-08-24
+
+71235adabb41cee64376fc1c5e031d0dbd43327f
+d03ac7bf45c4936484f06ff5fbfef52738734ad5
+7ef15f5321062ceec342e7018125402ea723dfb3
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-08-26
 
