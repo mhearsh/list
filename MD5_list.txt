@@ -10,6 +10,29 @@
 ###############################################################################
 
 
+# Gh0stRAT Malware IOCS
+# TITAN IOC / TLP:CLEAR - Threat Level: High
+# 2026-08-26
+
+7d0ef133547b91591f7559a57e923c9e
+1fe2e4ad1c30e5432f8ade9040b86450
+7988f6d87dc0b651a00cb68ef6cd4f46
+cd768283690e047ee1c2e78dce7e9f08
+68c42efb598268a5adf45953e7223ac7
+4efbd289e6bb8c41db728c82bff1731c
+6425cf39730c17d53f6d9b9a342687a3
+96ff74a57b60a700c57296a62d838f61
+6b4be80d47b55b3affb24b1c55533f89
+4b889c0e20d5fbcad445b9fc4a3b865a
+eeaa4851487a8835dd44331a48d80dfc
+8b6d0f836cd28cd49847c10785906426
+f360f64167350fbeeaa79e2576f7fb6f
+47fcf921454a83527b1ca7d3b730119d
+afc7b34229934d5619fb64069983f46f
+97e3a7a5c80a93a7d68927ec67a23f78
+e444a91a28317f704229c95887a917fb
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-08-26

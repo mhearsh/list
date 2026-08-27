@@ -10,6 +10,29 @@
 ###############################################################################
 
 
+# Gh0stRAT Malware IOCS
+# TITAN IOC / TLP:CLEAR - Threat Level: High
+# 2026-08-26
+
+49d107427c1d4def726a5ff8652146ee796f7ce8
+36c96ecd11969dbf7e6835c59698ba5d9feec9c4
+32b14491f6c19ef7fb735fd4c277bc30584a5734
+1bc45e2d6932f319b9351a0dda87cdcfc9f670a7
+b81a3db0024c2b9fe462f29d3d3aacf6b17c2188
+c69bd1ec97795f76e316bcd02974dd52a733f090
+37df676140d2afd1c1ce0e6e610eb9b01a25a5f4
+37c9c9d202dd32117160bfab8d73cc901260bd4e
+67c00248e92c459ed2026112f293ae816d294fdd
+b27303553827caa24e15ffbc45c49bb41c2d483c
+c47c952b4e5442bfd406899ebc85cca25b9c560a
+91db76837101a1b3f21709ff1d55a6e5e7bd7c0e
+12146b950a8d4918a1c05c686e1facdfa6eeab89
+e867d543fdc7b23bfa6112fafd0dd465fd8a4aa8
+ffd02273087d1adbec508047960e6821ecfe46db
+c37242942c8e804fdb1a72bcfbd75fca74324cca
+99a96ac170e20e4f653075ac45fa8796a8ad43c3
+
+
 # UAT-10147 Agentic AI IOC's
 # TITAN IOC / TLP:CLEAR - Threat Level: High
 # 2026-08-24

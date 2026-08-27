@@ -10,6 +10,19 @@
 ###############################################################################
 
 
+# Gh0stRAT Malware IOCS
+# TITAN IOC / TLP:CLEAR - Threat Level: High
+# 2026-08-26
+
+imokentv.com
+imtkon.xyz
+omoto.cc
+app-huorong.cn
+apps-quark.cn
+app-quark.cn
+xixi518.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-26
