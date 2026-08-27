@@ -10,6 +10,126 @@
 ###############################################################################
 
 
+# Russian Espionage Campaign / TLP:clear - Threat Level: High
+# 2026-08-25
+
+dosportal.app
+foreignrelations.us
+fewfwfwfwfwf.info
+miov2iaiaoubqosiqoiajwowiwjso.online
+mioisiskwowiwjowuwjwolab.club
+chamber-ua.org
+wa-connect.eu
+wa-connect.net
+wa-invite.com
+wa-device.com
+wa-meeting.com
+shopinvite.org
+my-invite.org
+globsec.net
+statistic-ms.live
+finishoperations.com
+finishoperations.org
+foc-share.com
+share-foc.com
+internal-share.com
+foc-share.org
+verify-drive.com
+mail.kiis.co.uk
+
+
+# ClearFake Campaigns Delivering Amatera / TLP:clear - Threat Level: High
+# 2026-08-25
+
+dist.runtimeconsole.cc
+id.binaryharbor.cc
+id.exhumepacifier.cc
+abogadosrosarinos.com
+aptisweb.com
+avene-hebergement.com
+hxxps-xhamster.com
+www.caesarjaco.co.id
+skybap.shop
+health.luminexus.cc
+stream.threatenbrick.cc
+yw.enhanceblabber.cc
+updates.wildtrail.cc
+app-api.lensstory.cc
+proxy.fluxautomation.cc
+stream.pawpalace.cc
+
+
+# ClickFix Campaign / TLP:amber - Threat Level: High
+# 2026-08-25
+
+1234e.org
+
+
+# Mirage2FA Microsoft Session Theft / TLP:clear - Threat Level: High
+# 2026-08-26
+
+pslcertlive.site
+rsxbenefits.com
+vslbertlive.info
+greebys.com
+asvbtech.store
+avsbtech.store
+bezdelz.store
+baseasix.com
+allmetreod.com
+bverster.store
+cementslabconstruction.com
+septey.shop
+verpox.shop
+cureaveritax.store
+pcvgtech.online
+dezbelz.store
+dverster.store
+everster.store
+fureaveritax.store
+fverster.store
+gacorslot7d.com
+galatasaraydanhaberler.com
+gectech.store
+gverster.store
+gztev.it.com
+bandhiem.com
+hverster.store
+hynutech.store
+implentedgucedirectory.com
+intrugementslayerdocuservice.com
+iverster.store
+jscvbtech.store
+jureaveritax.store
+jverster.store
+mettsoll.com
+oectech.store
+avcbtech.store
+pcvgtech.store
+pancincorp.com
+pavetech.store
+pectech.store
+pezbelz.store
+pureaveritax.store
+pxvbtech.store
+pynutech.store
+m3-bulders.com
+diversesgs.com
+sopbtech.store
+dpsindustrialsgroup.com
+schwiessdoors.com
+vezbelz.store
+pigotnet.com
+vns.tvgsv.com
+atskinsonel.com
+bereetro.it.com
+gavernova.com
+iar0nline.com
+wectech.store
+cadsta.online
+zectech.store
+
+
 # Gh0stRAT Malware IOCS
 # TITAN IOC / TLP:CLEAR - Threat Level: High
 # 2026-08-26

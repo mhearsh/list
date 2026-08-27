@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Russian Espionage Campaign / TLP:clear - Threat Level: High
+# 2026-08-25
+
+107.189.18.7
+196.251.107.171
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-26

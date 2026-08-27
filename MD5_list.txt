@@ -10,6 +10,47 @@
 ###############################################################################
 
 
+# Russian Espionage Campaign / TLP:clear - Threat Level: High
+# 2026-08-25
+
+445db83bdc70d57718f0261594f3a028
+6e3afaa97c2d38e59281bdf2dcc1f434
+fe5d5b7750118d0a1ebc21bf44124cc1
+f76e490cc83a7303f627d3b26c80872a
+f1686451a1c9a6d819626856c54fd233
+5484009071ea96c7b43e8fa052b8d88a
+4d60298bf3ffe62d6c3830f12b2989a1
+4b40c249f80b73591c7d7623af7275a2
+3a86e7d41be609ae0af59f2f526b579b
+5166033d818a1d9ba117fe43eabb2a35
+
+
+# ClearFake Campaigns Delivering Amatera / TLP:clear - Threat Level: High
+# 2026-08-25
+
+c8d24cca8e7bfa24f5650a4799080578
+543c2c2319b6ac58c75a7c9aca798292
+fdcd92b54113a7a1821ddfd1814d7968
+232594806588cbdf8dbb79922d33a97f
+87a339436e4841d0e0f847377137bfd1
+c41f6d1b77ea7e7ec8371c552f2da42d
+f23e8778c1af081a1a505e310564b3f2
+8de58eb7533bff5774775cdeef82ab27
+45f6d1142b5921f90ddf7939df796774
+0a47aa3fbb4b852c2d346116c55a6432
+7fa69e011fcdf98d3363b91565b0013a
+b270253b3fa7838c67ad892f24de799a
+f48f7c79d12b0a6a1e490aba32fd7ec9
+999215b55e4d77c00b1fcbe5ea9e01c8
+
+
+# ClickFix Campaign / TLP:amber - Threat Level: High
+# 2026-08-25
+
+937d6dac6352f47abd3cd96307f9fb3b
+db216537402e11430cbe4374d2de4e3e
+
+
 # Gh0stRAT Malware IOCS
 # TITAN IOC / TLP:CLEAR - Threat Level: High
 # 2026-08-26
