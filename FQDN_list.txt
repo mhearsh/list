@@ -10,6 +10,82 @@
 ###############################################################################
 
 
+# CERT-IL Alert 2011 - Phishing Campaign
+# CERT-IL / TLP:CLEAR
+# 2026-08-27
+
+cloudvitasoyaustraliaproductsptyltd.onepoagiint.vu
+kalpcorp.in
+faiscacultural.org.br
+doblealtura.com.pe
+eduardoyokoyama.adv.br
+chrono24.mk
+dukanmart.pk
+hhlifestyle.com.pk
+amelson.com
+odvjetnik-kocijancic.hr
+galaxyarena.ro
+zeymart.lk
+afiliatealassg.com
+shiwani-impex.com
+gliste.ba
+hotelrekic.ba
+xn--almassuartma-94b.com.tr
+yumateamwears.com
+ibuild-corp.com
+moveline-solutions.de
+creative-grid.com
+rl.xnhckn.net
+mapholoba.co.za
+binnexcapital.mx
+clinicabless.com.br
+paicacampinas.org
+zmcdesign.ro
+cardialtreinamentos.com.br
+lavanderia24-7.cl
+aridosrucapillan.cl
+shaamstrade.com
+https://galaxyarena.ro/biosolinclewis/sharep-redirect.html
+https://cloudvitasoyaustraliaproductsptyltd.onepoagiint.vu/$
+https://kalpcorp.in/quintonarchitecttalone/sharep-redirect.html
+https://faiscacultural.org.br/globallogisctis/sharep-redirect.html
+https://doblealtura.com.pe/petrymobil/sharep-redirect.html
+https://eduardoyokoyama.adv.br/primolegalmarquistech/sharep-redirect.html
+https://chrono24.mk/oakwoodterraceoakwoodterrace/sharep-redirect.html
+https://dukanmart.pk/youngjudaea/sharep-redirect.html
+https://hhlifestyle.com.pk/lousimonettiwashlaw/sharep-redirect.html
+https://invast.com.pe/daralabbarthailife/sharep-redirect.html
+https://amelson.com/saxwerkmarklewis/sharep-redirect.html
+https://odvjetnik-kocijancic.hr/globalchannels/sharep-redirect.html
+https://zeymart.lk/hanmiglobalmena/sharep-redirect.html
+https://afiliatealassg.com/krauseandkinsman/sharep-redirect.html
+https://shiwani-impex.com/1765geminilewis/sharep-redirect.html
+https://gliste.ba/infradelprojects/sharep-redirect.html
+https://hotelrekic.ba/iwjustice/sharep-redirect.html
+https://xn--almassuartma-94b.com.tr/compassotakandla/sharep-redirect.html
+https://yumateamwears.com/wearslvmarkspencers/sharep-redirect.html
+https://ibuild-corp.com/klimchakstopwatchurgentcare/sharep-redirect.html
+https://moveline-solutions.de/carlyoncicamarkliws/sharep-redirect.html
+https://creative-grid.com/ameircandosrs/sharep-redirect.html
+https://rl.xnhckn.net/mbarzilay/sharep-redirect.html
+http://ibuild-corp.com/klimchakstopwatchurgentcare/sharep-redirect.html
+https://mapholoba.co.za/zofingentreuhand/sharep-redirect.html
+https://binnexcapital.mx/makkahparkclinics/sharep-redirect.html
+https://clinicabless.com.br/blessedcapllas/sharep-redirect.html
+http://hotelrekic.ba/iwjustice/sharep-redirect.html
+http://dukanmart.pk/youngjudaea/sharep-redirect.html
+https://paicacampinas.org/au10tixweibeldruck/sharep-redirect.html
+https://zmcdesign.ro/samsystemsisrela/sharep-redirect.html
+http://afiliatealassg.com/krauseandkinsman/sharep-redirect.html
+http://yumateamwears.com/wearslvmarkspencers/sharep-redirect.html
+https://cardialtreinamentos.com.br/Wealthiest/sharep-redirect.html
+https://lavanderia24-7.cl/nestureindiaavidan/sharep-redirect.html
+https://nwcadvocates.com/bhhhhhhgggf/sharep-redirect.html
+https://aridosrucapillan.cl/sealcoengmarkl/sharep-redirect.html
+https://shaamstrade.com/synergificsoftware/sharep-redirect.html
+https://almassuar?tma.com.tr/compassotakandla/sharep-redirect.html
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-27
