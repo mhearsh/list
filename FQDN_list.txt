@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# Mustang Panda / TLP:clear - Threat Level: High
+# 2026-08-27
+
+hacker.com.cn
+lookipv6.com
+smxjdj.com
+srtwlkj.com
+vxers.com
+
+
 # Iranian AiTM Campaign / TLP:amber - Threat Level: High
 # 2026-08-27
 
