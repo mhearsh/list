@@ -10,6 +10,20 @@
 ###############################################################################
 
 
+# Cruciferra Malware Loader / TLP:clear - Threat Level: High
+# 2026-08-27
+
+47d922b0fd5d704025d14ef98ded46e74830a423
+f9b1bdd776cff30c4299d44f83fe7ddc613dc9fa
+
+
+# PhantomStealer / TLP:clear - Threat Level: High
+# 2026-08-27
+
+3a4b518a0a8c513c5e3bbd2c0892b127d2153480
+917514f7e3e50f6693409dd4205290d9258118cc
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-08-29
 
