@@ -10,6 +10,97 @@
 ###############################################################################
 
 
+# 42355 - ConnectWise ScreenConnect / TLP:CLEAR
+# 2026-08-20
+
+aspenbio.top
+baigetrc.s3.us-east-2.amazonaws.com
+bieagtdk.s3.us-east-2.amazonaws.com
+botdip.cloud
+btegiacmq.s3.us-east-2.amazonaws.com
+cloudhudson.cloud
+cloudyspoon.store
+cryptora.pw
+ea-bnitkmg.s3.us-east-2.amazonaws.com
+ecoprune.site
+eobtdk.s3.us-east-2.amazonaws.com
+ieabgtsk.s3.us-east-1.amazonaws.com
+islund.site
+jceic.top
+jumpingcloud.top
+kilodz.s3.us-east-2.amazonaws.com
+loanix.club
+paperorbit.cloud
+paperwhale.cloud
+paylad.online
+paypig.online
+pixelio.site
+prjtmna.s3.us-east-1.amazonaws.com
+pub-39190877e0004c3a84a95c22db10d23b.r2.dev
+pub-b42d42acf73b4e5887636c7e58ea9500.r2.dev
+pub-d7ab35315be7454889d8f97c69fc2074.r2.dev
+seoulapp.tech
+soapano.site
+stcdubai.com
+talent.qpon
+tonora.cloud
+urbanio.online
+yellowrabbit.site
+
+
+# 42356 - Aeternum / TLP:CLEAR
+# 2026-08-20
+
+api.noderpc.xyz
+api.zan.top
+download.sftp-api-group-wechat.com
+endpoints.omniatech.io
+gateway.tenderly.co
+polygon-amoy.gateway.tenderly.co
+polygon-amoy.therpc.io
+polygon-mainnet.g.alchemy.com
+polygon-mumbai-bor-rpc.publicnode.com
+polygon-mumbai.g.alchemy.com
+polygon-mumbai.gateway.tenderly.co
+polygon-zkevm-mainnet.public.blastapi.io
+polygon-zkevm.drpc.org
+polygon.rpc.hypersync.xyz
+polygontestapi.terminet.io
+public.stackup.sh
+rpc.polygon-zkevm.gateway.fm
+rpc.polygonsupernet.public.arianee.net
+rpc.poolz.finance
+test-steve.cyou
+update-launcher.xyz
+update.constant-path.xyz
+
+
+# 42381 - Larva26010 / TLP:CLEAR
+# 2026-08-26
+
+139.180.210.71
+45.76.144.150
+64.176.55.16
+
+
+# 42398 - PavinLoader ClickFix / TLP:CLEAR
+# 2026-08-30
+
+catalyst-pro.lat
+echo-systems.cfd
+fimwoglea.shop
+kelemet.shop
+more-arpc.icu
+nexahub.lat
+perfectverified.com
+pinnacle-labs.lat
+rpcsecnoweb.pro
+trusaifi.cfd
+twigoamwu.cfd
+velodium.lat
+zarwieciv.cfd
+
+
 # CERT/IL Alert 2013 / TLP:CLEAR
 # 2026-08-27
 
