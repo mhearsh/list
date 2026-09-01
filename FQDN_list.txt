@@ -10,6 +10,29 @@
 ###############################################################################
 
 
+# 42402 - Android Car Multimedia Malware / TLP:CLEAR
+# 2026-08-31
+
+ishano456.sbs
+kookjar.com
+kshahnd.sbs
+mdsjhd.sbs
+nmnsny.sbs
+ovcloudcontrol.cdn.cardoor.cn
+ty4523.space
+ty54fgd435.my
+ue886578433.online
+xmsae.sbs
+xshaon123.sbs
+
+
+# 42403 - Iran Phishing Campaign / TLP:AMBER
+# 2026-08-31
+
+opening-now.eu.cc
+page-loading-enter.eu.cc
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-08-31

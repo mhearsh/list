@@ -10,6 +10,35 @@
 ###############################################################################
 
 
+# 42401 - BlueDelta HookEdge Malware / TLP:CLEAR
+# 2026-08-31
+
+033b6f06aecd0e476fe437aab38908f9
+0892fc5447ec18e04cf051c07a749eac
+13367abc4840cec85d2b8e829065f1db
+161ee5ba61b7860ff7f7fa75cfdbbdbe
+273b32e64f9a5a161c7399e1cfb6be08
+459601b69a1e47442fe1482abfb99667
+4b65b6b8fffae56748aac972481b00da
+6b2c2e56f058755d8b7f0fe45d0ebf6a
+7c103519b975225c26b3c73e56295dde
+8473a9fb11f822ef738259d4528f9d25
+8e994cef45b70f15bcf204f2b58d4403
+a2b69a4affcf593cd738dd681953f244
+b46cbc0a5405703f110218d4ee2e46eb
+bc9e320dec694a42aa48ca54932bbebd
+c9f3e6057e1809c10514f6a923a15860
+cb040464587c7901926169d8e046fad8
+eba56e503290204ab2bd77b130b3a1e4
+fb42b05ce74f0c0dce412241e9391948
+
+
+# 42405 - Fire Ant Infrastructure / TLP:CLEAR
+# 2026-08-31
+
+5d232b72378754f7a6433f93e6380737
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-08-31
