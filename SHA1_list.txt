@@ -10,6 +10,36 @@
 ###############################################################################
 
 
+# 42407 - Phishing Campaign / TLP:AMBER
+# 2026-09-01
+
+5d8f51bd5ec6e4520619151a42e1cc1979ec4ea7
+
+
+# 42409 - AI Enabled Malware / TLP:CLEAR
+# 2026-09-01
+
+0246696395c8514494435f645cdff034d70d0951
+1732202d4d9f130fafc3b9a4cad9995e0eda03d7
+3988d1e0628299d29ef39bbb7f24ee347933ab9b
+4c0c4941a31f9e45b422704a18fdfb44c2c1c4fa
+53076d20b5f36fd8b69a0507d5cb08c0965db4a2
+aa8e0f879f1b6a0d83d2657e86cca4b66d8235cf
+b1022afe74471f945b18efed4366598bc6abb192
+bc013aace5491c65a869e944123a4344cea6c1f0
+bc5342ecc4aed4f4257bae35f9718968f0b08608
+e402758f4f1a331d9ae4c5b596466e3794188a3c
+f78a6b537244b544dc75a07bdbc7eda6ca15699e
+ff96db4b937971ca2d60e785ff9f706a50e51de4
+
+
+# 42411 - ValleyRAT Backdoor / TLP:CLEAR
+# 2026-09-01
+
+166782de653fc96c2ac7d731e2d6fe1568a16054
+818a83dbd7755bca848a0dbcfb0ad49b665149da
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-09-01
 

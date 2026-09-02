@@ -10,6 +10,29 @@
 ###############################################################################
 
 
+# 42407 - Phishing Campaign / TLP:AMBER
+# 2026-09-01
+
+3417f0127ad6ac175e1232e19f771121
+
+
+# 42409 - AI Enabled Malware / TLP:CLEAR
+# 2026-09-01
+
+039f85a7670428430274476cbe733db4
+2456fdd65bc48203815f22e444d78fb0
+54e383ca658ebd3caaf586f032f1c401
+61d7585b5702d195bc35e0be2f75915c
+834c7fd865eee5f7e17a3a1fb62e7051
+8c21cefcd6b32face145ed801f256589
+c5c47f7a17ef4533d1c162042aa0313b
+c8194a43ff73e4ebc4f65122a3bd5670
+c8dd54784fb1b6cbd16cec060487fb8f
+ca8ff8fb255a47d4be94af4ee3327c07
+ddbd9f6858712ac7efb371f21ee24597
+fe36f2fda53c21f8f7e06629cdcc377b
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-09-01

@@ -10,6 +10,20 @@
 ###############################################################################
 
 
+# 42407 - Phishing Campaign / TLP:AMBER
+# 2026-09-01
+
+dobrore-eng.github.io
+vmi3343890.contaboserver.net
+
+
+# 42410 - Phishing Campaign / TLP:AMBER
+# 2026-09-01
+
+app.powerbi.com
+asujxuohgy.denodo.cam
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-09-01
