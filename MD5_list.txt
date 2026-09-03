@@ -10,6 +10,34 @@
 ###############################################################################
 
 
+# 42413 - Cyber Islamic Resistance / TLP:AMBER
+# 2026-09-02
+
+15b5241b1e39e17b5eee0b9b61c16d72
+
+
+# 42415 - PackClient Malware / TLP:CLEAR
+# 2026-09-02
+
+022c841ce6fd2b92cdf7cc953372d64d
+1f23d7cc6d6354c0e7b24eaa0652d96d
+c55f9bc3c53ac32e6169ad3cc8b2ce49
+dacbf83d8d3729354d4f079ebaeeb151
+f585ede33ccee3198f199a182504f8e0
+f8ddf7376d9124e92c802954816e7188
+fd2f94d01651c3e2ed816248193db6e8
+
+
+# 42416 - Stager / TLP:CLEAR
+# 2026-09-02
+
+0744512363ba3a2464b451a85e3a422c
+25fd80bb2eddcb882cbd7d790df8d0e1
+c2a6feac7dac61a2afc794d373636a04
+cb0c82265258d1996b059f941b9d529a
+ff25b675d13f530762e15f265e846f01
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-09-02
