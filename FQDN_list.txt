@@ -10,6 +10,54 @@
 ###############################################################################
 
 
+# ConnectWise ScreenConnect / TLP:clear
+# 2026-08-20
+
+https://baigetrc.s3.us-east-2.amazonaws.com/ScreenConnect.ClientSetup.msi
+https://bieagtdk.s3.us-east-2.amazonaws.com/ScreenConnect.ClientSetup.msi
+https://btegiacmq.s3.us-east-2.amazonaws.com/ScreenConnect.ClientSetup.msi
+https://ea-bnitkmg.s3.us-east-2.amazonaws.com/ScreenConnect.ClientSetup.msi
+https://eobtdk.s3.us-east-2.amazonaws.com/ScreenConnect.ClientSetup.msi
+https://ieabgtsk.s3.us-east-1.amazonaws.com/ScreenConnect.ClientSetup.msi
+https://kilodz.s3.us-east-2.amazonaws.com/ScreenConnect.ClientSetup.msi
+https://prjtmna.s3.us-east-1.amazonaws.com/ScreenConnect.ClientSetup.msi
+https://pub-39190877e0004c3a84a95c22db10d23b.r2.dev/Secure_Document_Viewer.msi
+https://pub-b42d42acf73b4e5887636c7e58ea9500.r2.dev/msi/1907797257/20260621_150522_cb1eadfc.msi
+https://pub-b42d42acf73b4e5887636c7e58ea9500.r2.dev/msi/1907797257/20260626_181121_3cf54548.msi
+https://pub-b42d42acf73b4e5887636c7e58ea9500.r2.dev/msi/6707110503/20260708_184219_e1bdbdc9.msi
+https://pub-b42d42acf73b4e5887636c7e58ea9500.r2.dev/msi/8405320297/20260630_154034_69eb5426.msi
+https://pub-d7ab35315be7454889d8f97c69fc2074.r2.dev/SSA_STATEMENT_EN_US.zip
+https://stcdubai.com/googlemeet/
+
+
+# Aeternum / TLP:clear
+# 2026-08-20
+
+http://sekirolegion.duckdns.org/api/endpoint.php
+https://api.noderpc.xyz/rpc-polygon-pos/public
+https://api.zan.top/polygon-amoy
+https://cdnjsdelivr.beer/
+https://endpoints.omniatech.io/v1/polygon-zkevm/testnet/public
+https://gateway.tenderly.co/public/polygon-mumbai
+https://github.com/Mash3Do/
+https://github.com/lencod/
+https://polygon-amoy.gateway.tenderly.co/
+https://polygon-amoy.therpc.io/
+https://polygon-mainnet.g.alchemy.com/v2/demo
+https://polygon-mumbai-bor-rpc.publicnode.com/
+https://polygon-mumbai.g.alchemy.com/v2/demo
+https://polygon-mumbai.gateway.tenderly.co/
+https://polygon-zkevm-mainnet.public.blastapi.io/
+https://polygon-zkevm.drpc.org/
+https://polygon.rpc.hypersync.xyz/
+https://polygontestapi.terminet.io/rpc
+https://public.stackup.sh/api/v1/node/polygon-mainnet
+https://public.stackup.sh/api/v1/node/polygon-mumbai
+https://rpc.polygon-zkevm.gateway.fm/
+https://rpc.polygonsupernet.public.arianee.net/
+https://rpc.poolz.finance/polygon
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-09-05
