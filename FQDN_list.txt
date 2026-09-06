@@ -10,6 +10,87 @@
 ###############################################################################
 
 
+# Russian Espionage Infrastructure / TLP:clear
+# 2026-09-03
+
+ad-g.org
+eurcpa.org
+fllefolder.com
+formshare.cloud
+internationalaffairsportal.us
+linkfileshare.net
+sharedfolders.app
+sharedfolders.org
+sharefolders.org
+stateaffairs.us
+usercontent.app
+usercontent.online
+
+
+# Gryxa AI Toolkit / TLP:clear
+# 2026-09-03
+
+gryxa.com
+seczio.com
+sevrz.com
+wirbe.com
+
+
+# Blind Eagle's / TLP:clear
+# 2026-09-03
+
+bbuseruploads.s3.amazonaws.com/...img_test.jpg
+bitbucket.org/adssgfdsg/testing/downloads/img_test.jpg
+github.com/cabeto850128/comicsam
+github.com/cabeto850128/jacobo
+raw.githubusercontent.com/cabeto850128/comicsam/.../CdBhhfa.html
+raw.githubusercontent.com/cabeto850128/comicsam/.../kiSBJ4DDvg.pif
+
+
+# Blind Eagle's / TLP:clear
+# 2026-09-03
+
+consultanotificacionesjuridicas.site
+creainovada.xyz
+dccomicrat81.duckdns.org
+simpmit.co
+
+
+# BlueDelta Hookedge Espionage / TLP:clear
+# 03/09/2026
+
+http://webhook.site/1e72b758-79e4-4c1c-90ed-7a8dc118f105
+http://webhook.site/62114596-33f5-47fb-9012-0223529e5a13/docopened.jpg
+http://webhook.site/68d68fc7-aa94-4f2d-a727-d18fb40b0d69/docopened.jpg
+http://webhook.site/c1d8ba4a-f044-4454-8b1c-b6866518f92c/doc.jpg
+http://webhook.site/c29905ab-e5fa-446c-8958-4eab15d8fb80/docopened.jpg
+http://webhook.site/c29905ab-e5fa-446c-8958-4eab15d8fb80/mailopened.jpg
+http://webhook.site/c2e1be16-401b-4f60-8a0f-276b30417fda/docopened.jpg
+http://webhook.site/d63049e3-1cbe-474b-9005-237517af53a7/docopened.jpg
+http://webhook.site/d63049e3-1cbe-474b-9005-237517af53a7/mailopened.jpg
+https://webhook.site/01d6a811-ae9a-4ecb-be3f-610075556304
+https://webhook.site/272f1315-14d7-458c-a4ca-e2df423490b4
+https://webhook.site/34f908b6-dd89-4600-b413-a29cd5e37a0b
+https://webhook.site/36c9aecd-19f5-4564-a354-7708d947da8e
+https://webhook.site/4e6cf717-e4d6-4f40-9f2d-134196fa5e7d
+https://webhook.site/4e81a907-cc30-45c0-8bbd-5248e9f6dacd
+https://webhook.site/4ef62d6a-90c0-4a70-8dd2-468879c70fd6
+https://webhook.site/5744c020-a8d9-4755-abfb-cde6ccd450af
+https://webhook.site/5dbed3be-f1c9-41e5-b5d5-e961d08b5fba
+https://webhook.site/655a413e-4a66-4987-8f5b-f5cbfe34cdd6
+https://webhook.site/68ff1679-974b-4d15-9ce0-799892c63f04
+https://webhook.site/752c57b9-20d1-4990-a909-fd212ab71dcd
+https://webhook.site/81f3d140-eb6e-4d72-a6ca-e6e952c3d9c2
+https://webhook.site/82911ae6-ea27-4996-a664-2322e89da9ae
+https://webhook.site/9f2837e2-8321-46a5-aee5-ccdda349f864
+https://webhook.site/a3f4e990-0b2a-4f6a-a02e-c573005de3ee
+https://webhook.site/a72d8905-b15f-4e95-9a8f-5e4bb7dc9b3d
+https://webhook.site/bbdbf60c-8593-4660-9620-d3c0de24a8ab
+https://webhook.site/c24a31e4-691e-4a7b-96af-037ae735d358
+https://webhook.site/cf25f91c-0a20-4339-834f-02f73e8bc75e
+https://webhook.site/d993e113-a672-48aa-a382-64c5aaac56eb
+
+
 # ConnectWise ScreenConnect / TLP:clear
 # 2026-08-20
 

@@ -10,6 +10,26 @@
 ###############################################################################
 
 
+# Aurora Ransomware Affiliate / TLP:clear
+# 2026-09-03
+
+a4af136d159a8eb96b54924fa80355ca52874913301300f55af7d67ae97edcfe
+eb0aab1e892d7e09e2c7bcf1d21fd83c1743ed9196b3efac6c78482fb0d99207
+
+
+# BlueDelta Hookedge Espionage / TLP:clear
+# 03/09/2026
+
+38f0e1e00d5c6d4afd96217556ba1dbe963298be4f9f0890fc1a7618bed009bd
+7d8e98c0e322110021ae6d89f1a3ea090ef0741cf35b040dd4d0426a502d4845
+877648c6ff448aa4efe1e3f004c089411285b8cb4139320e0dbec9d1d1bb3c77
+8f18e02cbe1fa7abd280d2e070efe7af07e20cfe635f81140d6d347c292f8f44
+9c02d5429717001c55420730ee345c172e7ed89df3052b1e32b9bd122fce616d
+b8a1494b68617de92a3f58af8ca49dda4e9894f24c718ff3b26897a340e45c80
+bfc008f57dca8c6bf341d9d7cf66cdad53faf8b1bcfbeded4593a60f129174b6
+c6db004f2e8ff321d8a0e6d0134f2737d0f6ff79a4627a4b803ef926c107aa00
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-09-05
