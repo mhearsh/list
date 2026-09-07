@@ -10,6 +10,56 @@
 ###############################################################################
 
 
+# Phishing Campaign / TLP:amber
+# 2026-09-06
+
+https://8y3mj1u8c2.execute-api.us-east-1.amazonaws.com/default/nshgjwdi2
+https://app.powerbi.com/view?r=eyJrIjoiOWFmOWMyY2QtZjA4MC00ODM0LTg3MjYtYjNlNTkxMDA1MGY0IiwidCI6ImU5ZDMxMGU3LTc1Y2QtNDgyNC1iYTg5LTc4YTExZTBiMjUzNiJ9
+https://vspw60m1h1.hithiium.com/l/-YrAiRpNYFw
+
+
+# Phishing Campaign / TLP:amber
+# 2026-09-06
+
+https://israel-gov-2026.vercel.app/
+
+
+# BREEZE COMET / TLP:amber
+# 2026-09-06
+
+http://credeb.gov.gn/r.zip
+http://gcm.setelagoas.mg.gov.br/files/notepadd.exe
+http://gcm.setelagoas.mg.gov.br/files/tes.exe
+http://gcm.setelagoas.mg.gov.br/files/ti.zip
+http://suporte.ourinhos.sp.gov.br/files/a.exe
+http://suporte.ourinhos.sp.gov.br/files/s.zip
+http://suporte.ourinhos.sp.gov.br:443/files/s.exe
+https://cmgovernadorluizrocha.ma.gov.br/Comprovantepdf.exe
+https://conseg.ssp.go.gov.br/COAF-POLICIAFEDERAL.exe
+https://conseg.ssp.go.gov.br/ComprovanteBBpix.exe
+https://jmcov.gov.py/cxv.exe
+https://minacu.go.gov.br/ComprovantePDF.exe
+https://procon.go.gov.br/ComprovantePDF.exe
+https://servicos.salto.sp.gov.br/j.jar
+https://sit.baer.gob.ve/r.exe
+https://suporte.camaratunapolis.sc.gov.br/ti/1.exe
+https://suporte.camaratunapolis.sc.gov.br/ti/attvpn.zip
+https://tisup.camaratunapolis.sc.gov.br/SoftEther.exe
+https://www.mrtb.gov.ng/apps/attvpn.vip
+
+
+# BREEZE COMET / TLP:amber
+# 2026-09-06
+
+dontpad.com
+
+
+# TITAN Ransomware / TLP:amber
+# 2026-09-06
+
+titanblog.org
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-09-06

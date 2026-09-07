@@ -10,6 +10,12 @@
 ###############################################################################
 
 
+# Phishing Campaign / TLP:amber
+# 2026-09-06
+
+0f91ee0c81e2d10f30b41a995d78c12c
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-09-06
