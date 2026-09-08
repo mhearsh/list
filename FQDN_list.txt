@@ -10,6 +10,70 @@
 ###############################################################################
 
 
+# Extensions Credential-Stealing IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-07
+
+active-enable-right-click.top
+api.enable-right-click.click
+enable-right-click.click
+payload.siteinsight.bond
+api.extensionanalyticspro.top
+password-protect-pdf.com
+privatecryptonewsreader.pro
+cryptoratesfiatconverter.pro
+cryptopricebadgequickglance.pro
+ws.site-signal.top
+content.resonanceweb.top
+api.creativelibrary.top
+api.codefilearc.net
+ws.seopulsepro.sbs
+relay.seopulsepro.sbs
+defipulsetracker.pro
+blockfolioaddressmonitor.pro
+pricealarmsvolatilitywarnings.pro
+extension.io-safe.icu
+feedback.feedx-ray.top
+lucky-random.sbs
+pipi.saghirmohamed19.workers.dev
+mimi.saghirmohamed19.workers.dev
+cookie-whitelist.top
+whale-alert.art
+ggle-analytics.com
+
+
+# Cambodia Multistage SparkRAT IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-07
+
+sx.nuihuw.com
+nuihuw.top
+
+
+# UNC1549 CHALLNODE Backdoor IOC's
+# TLP:AMBER - Threat Level: High
+# 2026-09-07
+
+crossdwm.azurewebsites.net
+dnshnsdev.azurewebsites.net
+greenyjsgfd.azurewebsites.net
+helptellerbls.azurewebsites.net
+hpjumpsrv.azurewebsites.net
+lifespotify.com
+naturalapplication.azurewebsites.net
+plugplay.azurewebsites.net
+retaildemo.azurewebsites.net
+rgbteller.azurewebsites.net
+storview.azurewebsites.net
+timedrv.azurewebsites.net
+tubitak.azurewebsites.net
+userwellgtfs.azurewebsites.net
+visitfinancedentists.com
+wdisystem.azurewebsites.net
+wslmenus.azurewebsites.net
+wslwebui.azurewebsites.net
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-09-07
