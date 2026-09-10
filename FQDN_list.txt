@@ -10,6 +10,55 @@
 ###############################################################################
 
 
+# AI-Powered Attacks IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-09
+
+m-doxa-apodo.duckdns.org
+m-doxa-geo.duckdns.org
+m-doxa-intel.duckdns.org
+m-doxa-repuve.duckdns.org
+m-doxa-sre.duckdns.org
+m-doxa-vacunas.duckdns.org
+http://167.148.195.53:8888/socktz_v9.exe
+
+
+# TerminalFix campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-09
+
+gitnow.dev
+bestsocialmedianewspapper.com
+offlineupdater.com
+http://linked-log.com
+
+
+# Ted backdoor and curlRAT IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-09
+
+img.monderhouse.space
+img.smartnords.site
+img.darklights.store
+img.responsive.pstatic.autos
+img.socialteams.store
+img.worksongo.store
+
+
+# StyleSmuggler Magento Exploitation IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-09
+
+cdnflare.xyz
+windwsecurity.run
+microsft.run
+microsft.studio
+ntp.timesync.to
+ntp.synctime.to
+ntp.syncstime.to
+https://www.incofar.it/js/jquery/plugins/ajaxfileupload/mag.txt
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-09-09

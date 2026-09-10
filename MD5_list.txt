@@ -10,6 +10,67 @@
 ###############################################################################
 
 
+# AI-Powered Attacks IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-09
+
+29eee8a0e2c63360e361a0d462d30ae6
+
+
+# TerminalFix campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-09
+
+41514e66bef576a7bff797056f8952e8
+20886084a54d20f6a6415b0c1deefa7c
+dca97f30772c48939af78b5be926843c
+986e6b8dd7a493bbbd5955cfa2d7fccc
+b3a1de660bd20ed7d6a4c529c1482039
+a98972edc605f9327b88b4daf8f81d03
+
+
+# Ted backdoor and curlRAT IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-09
+
+e738ad238cdff7582b6cea8cd1f94ec6
+bcc6729c73c97559a7f746890ff92719
+17eec467794a1cb367845096e592d7d2
+7c0fd2589d76e0e821ae316caf8dad84
+5b948ca6cc84443982f7d1c9bdf958ab
+8ae4983f5ebcb44374593d50a741d33b
+4fdac946aea1c224f1f85532506e8faa
+826cd8037c91f04d8a45ca8c64564051
+2cf25c690f8c4d4e2d1cc47c26c5f9fd
+370d060bffecac72c24e55638126dc7d
+5675b9b12be181fd69216ef5073acd41
+f42deb783b85893ccc20d99bafc8a3e8
+29483e8844ffccf75228f72e3bc3cf69
+0600c982f4a473669ba50ee9029fa5a8
+893e22a1d5548dd2de5f8e1af3b2e431
+5602e4912d5ea4117586a391b9e237b7
+
+
+# Python NodeStealer IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-09
+
+960a9f837471c6fe0a82dd2237342e1b
+3e9be2956c5086a7fddcce0087bf241b
+337a818478d0135b7db90e906ff755dd
+
+
+# StyleSmuggler Magento Exploitation IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-09
+
+d4a15b847786c75a383ce0cb0e5e139d
+a07bc08eded18cc7317216cbbd7032d2
+4c2be4278efd226ea081e0123887ed8e
+5fba2219d8715ff5026288aeea604c2f
+63290e1c707a7ff9e1c7c56428d3f656
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-09-09
