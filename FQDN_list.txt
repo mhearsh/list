@@ -10,6 +10,26 @@
 ###############################################################################
 
 
+# Silver Fox Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-15
+
+pc-razerzone.com.cn
+app-microsoft-edge.com.cn
+kaspersky-lab.hl.cn
+gehie246.com
+iualef.net
+oijfwe.net
+
+
+# Phishing Campaign 17/09/26
+# TLP:AMBER - Threat Level: High
+# 2026-09-17
+
+https://herpisrael.es/israel/isrelherp.msi
+support@estructurasignaciosalazar.cl
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-09-21

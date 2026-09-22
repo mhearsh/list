@@ -10,6 +10,45 @@
 ###############################################################################
 
 
+# MikroTik Attack Chain
+# TLP:AMBER - Threat Level: High
+# 2026-09-10
+
+6dca83338d60467b65b7789d4d59754e40a7aaa36f40ea2da57538367ac9b89e
+6e95f70fdbabb57881b3f5b2c8465d4b17ba901100704efb1278bb3386e6729d
+972b474b896f9fac3cd6b5b8476b410b8f39fbedee8a3b0c745d6e3b328d7dcd
+
+
+# Silver Fox Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-15
+
+c6100166e2d3b40388980f7674712ef39e937ac04925ca5d370415399ed73faf
+c4100ad39d8db98f063feb6c3b6c8e9a9f9d9bf25a1e0233f43b058ff8a7dbdf
+01bc6bc24fe94f5f6586271d5215b53ce971f617ee759064df0baea5c284a9ce
+297231ac0c0187afe2116c91aa6463971ea1cac3b75e6c8e3c0a38f7d5cfeb4b
+eff36d3e7e1f4c17476c38590c52e2c1d46f8ee2973d2ffb85f9226621029173
+
+
+# Cadence Breach IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-17
+
+07fe4608cb167818a48e90102f33fd2c1709451222dc3ac792c75ab0832f6f47
+0e408bfac2c575af774fb2af8c94eb32eb2748fe987f45c4b1e491453cc1415a
+08a1e1569b57a42ea74c88600d7ddec79fe286a74702a8f8f7c9263163dca588
+78b1f087230ead241657141b363d532ed48e35cab865bf5e27ef4f761ddd476c
+
+
+# Cisco FMC Exploitation IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-17
+
+b037f45e02a289325a1a5eb0d4db6a9fce9954fd0fdfd07162cb4eb2acbef77d
+db491181ece3f319de6567ab6f6daa90c6879911cd890155e6b7d8cc7a1a8c8e
+6f98add5d1a7729192b6ad8491d85c505c64836f7881742d6b93bd8e3d2fe461
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-09-21

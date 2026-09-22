@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# MikroTik Attack Chain
+# TLP:AMBER - Threat Level: High
+# 2026-09-10
+
+103.102.31.18
+82.192.72.4
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-09-21

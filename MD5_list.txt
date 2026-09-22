@@ -10,6 +10,24 @@
 ###############################################################################
 
 
+# Silver Fox Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-15
+
+c3105a236ee1599b612d7843cda3ada9
+e335b1dfe040cc764963f5f42f67d0ab
+a5200bb8488ad20ebc09ee84a4fe8b22
+
+
+# Cadence Breach IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-17
+
+8c3dbb4c02edd6eef4c97f11dc609b50
+74024426c7173bd33a1f10ca7cda7002
+dc3a2f67b736b6767207ed3318752a8b
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-09-21
