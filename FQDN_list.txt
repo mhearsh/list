@@ -12,6 +12,20 @@
 
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
+# 2026-09-26
+
+a.hbweb.icu
+capricecapitalpartners.com
+maple30.com
+metrics.agoxpathbet.one
+power.belyxhost.in
+quillchant14.com
+secure.eicar.org
+tryclix.com
+
+
+# Auto-Fetch-ThreatIntel
+# URLhaus + ThreatFox
 # 2026-09-25
 
 0j03b8ri.jetbahis2023.xyz
