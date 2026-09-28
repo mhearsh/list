@@ -10,6 +10,39 @@
 ###############################################################################
 
 
+# PhantomRaven Info Stealer
+# TLP:CLEAR - Threat Level: High
+# 2026-09-22
+
+c31831d47fcbf52ff1f4e61838611916a4276d005a564e69946d5dac04235eed
+95a7dcc6de46826b22c43bee7fc550f3b5e2e6cbc5f33b0c241faf523641cf63
+db3fe46df0a65fe9f8c99d2e11126a032a72e9814e354ce017448ce088a01e02
+
+
+# ShinyHunters PeopleSoft Campaign
+# TLP:CLEAR - Threat Level: High
+# 2026-09-27
+
+48b4a0827da7bbfce9fb52464f8a659dea7a035189c52c506c0bfb4b1c3fe494
+2bee941fb40519d0d1ec52bd79a8f63fc65aac6455c8f2d6b668e3360dfdb5d7
+419c571ee38b7e7266d130c4b6bbc4dd0ef44d6e5f3bc02cc2cf73b762f07c86
+ba14419beb2ec0bb94cab6298c14d7fb3e1d819366fe378290c0c2a4d97f7e07
+3ba215692665513abfffd4e815c5c45f2d41e5dcc4283a2a3b740930c5c417c3
+
+
+# Atomic macOS Infostealer Malware IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-27
+
+b02e622c983a82691b71c71a953eadbd51be546d30be7a9f2254fe3d44dd84fd
+824c0961a0bdf4340d4c43a87f1ff54b9950cafa5d0a2af538780fdf180fea38
+d8e63fbb35c6de6e355f7899013908819dfe680a0518839d87fc8ac361bfc9e3
+71781ad8adefb499aee9bcbe1a166e69ccc37a47066682f617d65c76d8cde88c
+7ea6ff8b12c59aaae1ab6f4f5a57045dad5a8127954f3ffd3d1c154d40d7ca3a
+6bfcdb4920383375b7e519918df7eb4db751b974b5571a15ce66b82478012620
+4504006d1911057be42435d4625f03d83c4d0b7b6898d14beb9cdeba6cf667b9
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-09-27

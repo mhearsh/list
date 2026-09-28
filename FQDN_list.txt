@@ -10,6 +10,28 @@
 ###############################################################################
 
 
+# PhantomRaven Info Stealer
+# TLP:CLEAR - Threat Level: High
+# 2026-09-22
+
+jpartifacts.com
+
+
+# ShinyHunters PeopleSoft Campaign
+# TLP:CLEAR - Threat Level: High
+# 2026-09-27
+
+winmanage-me.network
+
+
+# Atomic macOS Infostealer Malware IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-27
+
+ferncore13.com
+getmacouscloud.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-09-27

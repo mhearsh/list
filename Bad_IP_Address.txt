@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# ShinyHunters PeopleSoft Campaign
+# TLP:CLEAR - Threat Level: High
+# 2026-09-27
+
+162.219.30.165
+5.199.162.157
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-09-27
