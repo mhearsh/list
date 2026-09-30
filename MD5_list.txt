@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# NightEagle IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-24
+
+1dcafb7f8448683281106b06dd22409a
+1f3034b706c78b35d8e34044e68c693a
+3ecd1cd627d0340c92901a478a7caad8
+631fb131a56caf4ca0f287ed73e876ab
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-09-29

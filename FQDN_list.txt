@@ -10,6 +10,30 @@
 ###############################################################################
 
 
+# Red Heron Exploit
+# TLP:CLEAR - Threat Level: High
+# 2026-09-23
+
+s2.981666.xyz
+
+
+# NightEagle IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-24
+
+https://github.com/mirror-js/mirror-js
+https://github.com/browserthemes/resourcepack
+
+
+# Phishing Campaign Targeting Microsoft Credentials
+# TLP:AMBER - Threat Level: High
+# 2026-09-29
+
+hwmqlobal.com
+https://app.powerbi.com/view?r=eyJrIjoiZDYxZGU0MzUtZTkwOC00NzYwLTk1ODktOGE4MDlkMmU1MDI0IiwidCI6IjUwNTU4YWEzLTFiMGEtNDI4Zi1hY2QxLTI5ZTI5NDY2ODhjNSJ9
+https://hje21h60p8.hwmqlobal.com/l/YxMOQn-ILUA
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-09-29
