@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# Chinese APTs Exploit Chrome and Windows IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-17
+
+msbenefit.com
+gitprogram.com
+shinewrist.net
+opusaccel.top
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-09-30

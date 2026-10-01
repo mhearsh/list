@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Evooo1Bot Linux Botnet IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-22
+
+5cf4be1ac8487cca74189a71b7d36a69
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-09-30

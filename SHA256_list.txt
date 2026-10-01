@@ -10,6 +10,29 @@
 ###############################################################################
 
 
+# Chinese APTs Exploit Chrome and Windows IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-17
+
+cd0c21f9b32b7feeda1787fccab622dec60ecdf84c0538c08bde3946856b0fa0
+b7b0cd6539464ab39c6526e499f86d611faa21c5af945535ebaf187cec543af1
+5995f42a828606705a7339d58a665c229936e81c4e539cdfa115eb46a2eb53d6
+51462a23ac25e1bd0e49b7cae7f3a71f8d2201e22d45175b587e4740b49863cc
+69c1603f3f9015beb0097d0a3bb0f17400c314e2eae65a7eceacd3b93ea570dc
+3b71d721c39fad92a44ddd764bbb34afeae44a5db886d0a4827a399a5fbd367f
+56eda0ac82e06ee609b034306025e67df161c5877399c305c8eaea136e80c951
+e2a59432ce2b0d83ded936374a11fca3d3defaf4aab90eb37fca58683eae32c0
+5eb5645511b00e4f4d73125654eeb3a3930fcf09c65685dc7f03f725331492e3
+
+
+# Evooo1Bot Linux Botnet IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-22
+
+f13cb360768363d3424e2192c7805b8c8015eb8706dbbbcdead6aed8cf390109
+4c0886349e9d348569fffe1b7a31e474d514508bf0cd6f1e5dd99c2a73525e4d
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-09-30
