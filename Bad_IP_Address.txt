@@ -10,6 +10,20 @@
 ###############################################################################
 
 
+# Malicious IP Address | 30/09/2026
+# TLP:AMBER - Threat Level: High
+# 2026-09-30
+
+2.144.236.85
+
+
+# Citrix NetScaler Exploitation IOC's
+# TLP:CLEAR - Threat Level: Undefined
+# 2026-09-30
+
+143.198.7.94
+
+
 # Malicious IP - Targeting SIP & VoIP Services
 # TLP:AMBER - Threat Level: High
 # 2026-09-28

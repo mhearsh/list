@@ -10,6 +10,80 @@
 ###############################################################################
 
 
+# GhostCode IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-09-23
+
+kwservlces.com
+performanceservlces.com
+crvsurveilance.com
+salisburymore.com
+dernaeng.com
+laseroilfleld.com
+tealc0n.com
+curtiinco.com
+verify-access-umjlvvrx.alltoyotatrucksuvparts.com
+signin-access-bpbippyw.geefjelevenkleur.com
+mfa-access-pyvxbnjc.atomzilla.com
+signin-access-whtc5iq4.accudiodesign.com
+authenticate-access-unb5gtsf.xhscyp.com
+validate-access-kgcdauwc.xhscyp.com
+verify-access-6dlrv01r.adogabroad.com
+identity-access-1w2m8s2x.arlingtonhousecleaning.com
+bjssourcing.com
+ingredlon.com
+pantera-energy.com
+rpgsurfacepreps.com
+rapidlntermodal.com
+bochacornpany.com
+carkeysexpres.com
+thlnk-arc.com
+evollvtechnology.com
+360apartmentrenovation.com
+abswaranty.net
+alllitematerial.com
+flipbookviewer.us
+flipbookonlinevault.com
+account-access-rc3uenqi.elitechiropracticandrehab.com
+account-access-thlwvhxo.cxxzf.com
+account-access-unlcjkmj.androidpreneur.com
+saml-access-bgzdiwai.pelicol.com
+saml-access-hjg5zb1m.schuelerhvac.com
+saml-access-fgphrx1b.geefjelevenkleur.com
+saml-access-0yni8zkk.deltarstar.com
+saml-access-qhtexulk.atomzilla.com
+saml-access-ebntirhn.followmyitems.com
+saml-access-umjn1zxd.vnamecard.com
+saml-access-whwhikxl.lygdhc.com
+saml-access-4ejlnged.cciwedding.com
+saml-access-vdjnpebo.alltoyotatrucksuvparts.com
+onestep-access-aosbgdan.tv-appspot.com
+signin-access-3qbuumoo.alltoyotatrucksuvparts.com
+session-access-hrh9axw6.androidpreneur.com
+signin-access-ltcpr2s7.breakingpandora.com
+secure-access-ht0ysxlq.alltoyotatrucksuvparts.com
+pirctobln.com
+greenlightdlstribution.com
+aceshopequlpment.com
+chayahconsulting-group.net
+douglasdynarnics.com
+frugeseafoods.com
+craecominc.com
+njjutb.com
+nyrnetroglass.com
+asllancorporation.com
+ptpttx.com
+patriothealthpartner.com
+orchadmedicalmgt.com
+houchems.com
+janlssary.com
+ankerrpak.com
+kinaaxis.com
+plescla-cd.com
+versaterrm.com
+inflnity-tx.com
+
+
 # Chinese APTs Exploit Chrome and Windows IOC's
 # TLP:CLEAR - Threat Level: High
 # 2026-09-17
