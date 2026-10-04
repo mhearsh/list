@@ -10,6 +10,17 @@
 ###############################################################################
 
 
+# SideCopy MSHTA Campaign IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-10-01
+
+docsportal.in
+educationportals.biz
+https://docsportal.in/public/reps/com/com.hta
+http://docsportal.in/public/reps/com/com.hta
+https://docsportal.in/public/reps/com/161.php
+
+
 # CERT-IL Alert W-2011C
 # TLP:CLEAR - Threat Level: High
 # 2026-08-27

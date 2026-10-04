@@ -10,6 +10,19 @@
 ###############################################################################
 
 
+# SideCopy MSHTA Campaign IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-10-01
+
+de27ee1eb8b4fbdd91d1c96b88ed78939574d266
+6eec74e120f77f0146a56c1e2754967ac7991dad
+941eb142b4216ace14688f32d1512ecf595293f4
+aed1337366f0d10b3731be8b009e9b9e563c1240
+bf91817170af44a732399a0be88e124d5d690f76
+08f79f7df9f4ede0aaee141ce3308808b5d1d8b5
+b81e8efefef49497cfab489e18a1aafe6ba2d578
+
+
 # CERT-IL Alert W-2011C
 # TLP:CLEAR - Threat Level: High
 # 2026-08-27
