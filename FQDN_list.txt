@@ -10,6 +10,22 @@
 ###############################################################################
 
 
+# PyPI & npm Supply Chain Attack IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-05
+
+skyleen.fr
+
+
+# Phishing Campaign IOC's | 05/10/2026
+# TLP:AMBER - Threat Level: High
+# 2026-10-05
+
+hxxps:[//]download.qkstore.shop/%D7%A8%D7%90%D7%99%D7%94%20%D7%9C%D7%94%D7%A4%D7%A8%D7%94.zip
+https://1591030657-atari-embeds.googleusercontent.com/
+https://sites.google.com/view/record-evidence
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-10-05

@@ -10,6 +10,49 @@
 ###############################################################################
 
 
+# PyPI & npm Supply Chain Attack IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-05
+
+3d8db89d9fc419780fa557b5bbb6dd53
+ecac3e301bc0b287fb4f5740a2cd8b8f
+6d29804e91e3396eb8a9ffbf89d7b47b
+298db9bb671e71aaa641d9eb09d0460f
+3bad0e6f81d456af57eb3fcaefdb2f51
+accd3efd5c76ef3e8f167b30146db145
+b27b274f26aa174711aff89a55ecf494
+cfd1a375631fc86c043f0f2dbe6cda3b
+6217d71f82ed6a7a7e07ab8568dca5f1
+500833eba17e9b36b588b407cebd098a
+1f780e8895a7ea4f0cc16346732fa916
+f19ac12845d788e8957de0a587db8dfa
+
+
+# Python Infostealer IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-05
+
+610f0c65a3f8e88559f89ed90ea9ee5c
+429ed63ab3fbda8d22d0ac750ecfe8cc
+9ffe0e45c7a3f20e4481206c1c3b0854
+
+
+# PAYLOAD GPO Ransomware IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-05
+
+0108656a3e1ade6ca4f21b084f5e1208
+bea5e267f24d7da59f6821bffdbff293
+
+
+# Phishing Campaign IOC's | 05/10/2026
+# TLP:AMBER - Threat Level: High
+# 2026-10-05
+
+b911c905bf657d8864f553f92b5043e4
+b5e6a58936e06cd60572aba0a1178d38
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-10-05
