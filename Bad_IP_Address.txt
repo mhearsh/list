@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# Blinder Tunnel Campaign IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-10-06
+
+87.248.129.239
+65.109.214.145
+
+
 # SparroWocky Campaign IOC's
 # TLP:CLEAR - Threat Level: High
 # 2026-10-07

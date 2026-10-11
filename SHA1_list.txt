@@ -10,6 +10,37 @@
 ###############################################################################
 
 
+# Firefox Extension Malware
+# TLP:CLEAR - Threat Level: High
+# 2026-10-06
+
+1c62f3bf26f6898d42b4265032e825d2293b8fec
+333b3ada4b460412c4e44f8ceb7851c544e03509
+dd7766de630d66c862ec8fa59b63b5e772eeb167
+
+
+# Blinder Tunnel Campaign IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-10-06
+
+701f2a5c8d8bdc28e51e11a12955197fbd652698
+f320cd3c6de7efb61b59669ce70c81fc8a94758a
+aa7f18c1552042d4d0854de69d5c69ee47a21ba2
+90f733c6aa7eaa37dbd654ef1f4cedfbb711dc03
+7fa5ce4031e57e608b4a2f92cacdaf9183dfe76a
+18586ca8e3e3c4633ed3fccd909a0be87ba0a573
+8c839823f58e8965c770c900be2b2cf14e054871
+
+
+# MintsLoader Campaign IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-10-06
+
+74ea2b170c30863b78b06fdfb919358612705e09
+f3a1e3f4f78095769041808353af6e0367517f6b
+ff78a3c1afb5d7178890c999c5f3751d8567113b
+
+
 # Phishing Campaign IOC's | 07/10/2026
 # TLP:AMBER - Threat Level: High
 # 2026-10-07
