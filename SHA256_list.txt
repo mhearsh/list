@@ -10,6 +10,47 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's | 07/10/2026
+# TLP:AMBER - Threat Level: High
+# 2026-10-07
+
+7862ff03c217fd0cebad82fa1c434d7f49c79bf71620955ad93a0c6ae0ab67ea
+060463d8a54740672cba926c644d0fd686f55ceb6ecc8fac7174a02174c55189
+71cff6538a48ff2a8353dc20a7768b02c08341bec848bff9d5f9669107004bf0
+
+
+# Kothamine RAT Malware IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-07
+
+ec4219a7ecf132c29080fbb20e4ab410c57faa85aeed7acade1eb15d905a6ee0
+74eca3973ad72a6ddc9397aff8250d9ee287211fc9a055d5ee290d01cf76a70c
+
+
+# MovieReaper IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-07
+
+c424abd51507f75221701a52ba57264d6c0839944fe26a7118597a455626a632
+c0ef2dade55b1b110e1af43ae1b54443e61c2daceb497057d6af9c960824cc19
+
+
+# SparroWocky Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-07
+
+e0b6f8535e19f0a4938e3317de0c4493ecea17aa906fd0454805ba2086cbf3a8
+
+
+# TraderTraitor macOS Backdoors IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-07
+
+77b4fd46994992f0e57302cfe76ed23c0d90101381d2b89fc2ddf5c4536e77ca
+f3404ef308098202246f2f3c38c8c3166e9a8e7843ec69c1b11ac0ce9cb4038e
+4b2d3e8ccce8920a6d01e7d02b84236545a20e5f754b3eec253f8b416b731daa
+
+
 # UNC6676 FakeCAPTCHA IOC's
 # TLP:AMBER - Threat Level: High
 # 2026-10-08

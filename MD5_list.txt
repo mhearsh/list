@@ -10,6 +10,51 @@
 ###############################################################################
 
 
+# Phishing Campaign IOC's | 07/10/2026
+# TLP:AMBER - Threat Level: High
+# 2026-10-07
+
+497f7399e72e94374081f0d610d6a208
+b70279f6a5ddd14480adc916345e073f
+a79d4807355f72eb28b9e7ce798aa55d
+
+
+# Kothamine RAT Malware IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-07
+
+b7c93ea4ab524237077b92631aa18d39
+cc4eedfa7dc09a9aff1d96e65caddc2f
+
+
+# MovieReaper IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-07
+
+4843f9fafcae492f11e2d4d33dbb4cdd
+5310cabae3fbe6db8742849b588093f9
+a0b13781edd7cfdab13d79afff3c83c1
+70060341caf3338697a7ddfe0fb62875
+ad4643eea15ac286fa47d1131f9ef756
+d0b967571ac8a3863c7f324bf5bde99c
+d88d550d0fb8e60cffff3ea61ff7a067
+
+
+# SparroWocky Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-07
+
+922c1edb47fba94b548edca863165fb1
+
+
+# TraderTraitor macOS Backdoors IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-07
+
+d95dede4387ff516f4c23351c450427d
+c43f594fac7544e5485cbbe441e470bf
+
+
 # UNC6676 FakeCAPTCHA IOC's
 # TLP:AMBER - Threat Level: High
 # 2026-10-08
