@@ -10,6 +10,86 @@
 ###############################################################################
 
 
+# Phishing Campaign 08/10/2026
+# TLP:AMBER - Threat Level: High
+# 2026-10-08
+
+https://payment-pdfdocusignform.document360.io/shared/bab41835-d025-4c3f-a999-b2cfb6cf9965
+regionalentwicklung-oberland.sbs
+
+
+# Fake Security Locker via Google Ads
+# TLP:CLEAR - Threat Level: High
+# 2026-10-08
+
+d4f8s8i9.stackpathcdn.com
+e6n6m5w2.stackpathcdn.com
+e7j8k3s8.stackpathcdn.com
+p8r8c4j3.stackpathcdn.com
+r6t7n6e6.stackpathcdn.com
+r9g5z5h7.stackpathcdn.com
+s6h6b8v7.stackpathcdn.com
+t8y3t7p8.stackpathcdn.com
+u6z2m2f8.stackpathcdn.com
+h7r7m4v7.stackpathcdn.com
+m6j9g5t6.stackpathcdn.com
+h7j4x7z8.stackpathcdn.com
+i9n5z4q2.stackpathcdn.com
+v7z9s3n4.stackpathcdn.com
+w6m3b5j2.stackpathcdn.com
+x4d8p9y6.stackpathcdn.com
+x5x4p3x2.stackpathcdn.com
+y4j4p9m5.stackpathcdn.com
+k4p5j5a7.stackpathcdn.com
+g5z9x5e4.stackpathcdn.com
+v2a4u6k7.stackpathcdn.com
+v9u5y7v7.stackpathcdn.com
+y2d7s2v4.stackpathcdn.com
+k3a7e8k4.stackpathcdn.com
+k5c2j4v6.stackpathcdn.com
+k6n5u8e5.stackpathcdn.com
+i4h3k4s6.stackpathcdn.com
+b3x6d2v5.stackpathcdn.com
+c5m8g6b6.stackpathcdn.com
+
+
+# Logistics & Cargo Shipping impersonation IOC's
+# TLP:AMBER+STRICT - Threat Level: High
+# 2026-10-08
+
+https://subdoamin.greendue.space/v2/endpoint/
+https://cludepagetest.pages.dev/
+https://mycludepagetest.pages.dev/
+https://test6.bluerivers.site/var/v2/css/style/
+subdoamin.greendue.space
+bluerivers.site
+mycludepagetest.pages.dev
+cludepagetest.pages.dev
+test6.bluerivers.site
+
+
+# UNC6676 FakeCAPTCHA IOC's
+# TLP:AMBER - Threat Level: High
+# 2026-10-08
+
+http://api.recapcha.fun/auth/ws?token=undefined
+https://main-node-eight.vercel.app/task/parser/windows?token=912
+https://status-handler-sage.vercel.app/api/get-status?requestId=
+https://shell-node-7uxe.vercel.app/task/parser/windows?token=912
+https://status-handler.vercel.app/api/update-status
+https://api.recapcha.fun/auth/v1?token=306
+https://api.recapcha.fun/auth/v3?token=306
+https://status-handler-sage.vercel.app/api/update-status?token=undefined
+https://api.recapcha.fun/auth/v2?token=306
+http://api.recapcha.fun/auth/we?token=undefined
+https://shell-node-7uxe.vercel.app/activator/windows?id=e
+https://shell-node-7uxe.vercel.app/activator/windows?id=s
+api.recapcha.fun
+main-node-eight.vercel.app
+status-handler-sage.vercel.app
+status-handler.vercel.app
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-10-10
