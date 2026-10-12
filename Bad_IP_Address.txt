@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual IOC Addition
+# Threat Level: High
+# 2026-10-12
+
+102.244.78.57
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-10-12
