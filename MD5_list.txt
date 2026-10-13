@@ -10,6 +10,79 @@
 ###############################################################################
 
 
+# Citrix NetScaler CVE-2026-88771 IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-12
+
+bd3f9986f3e09b84c5fcd18055cdc12e
+bb724df37959c23a4ce6b5c5c374217e
+
+
+# Custom GPTs ClickFix Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-12
+
+933d5f57f755190d6445b22a63b4a026
+6dd2caaab7c2f2a6e269d6c62d700a39
+3670e2b4fbd64fbd735d585793f489e5
+f89c036a9ac60bd50e15b7e23d8084b8
+110d9af22289ac5aa652a9241682e264
+e22c0b881f7bacf6d1610a7622eb71a0
+5f940c49471e41549071f3fdd9ade1b3
+8553f1d01bfeffb9bc59e7a089e27854
+8986af3c278b5384af6d0f1d954ed5fc
+06d5f06cd54c326750d1544290017174
+ad3b54af6f2b2a8202227796b8ad124d
+52cf886b8b6c6dce461286e6c25c22d6
+53b0e873aa1592c9f94b4205d0152a7a
+d8326e736280b2b73d1bb83bb9b56489
+
+
+# 2CLoader Malware Threat IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-12
+
+21b4ae216b3e391dee3520c358343d5b
+19bd38875edc2c743993bbbeda388d99
+a62367f5f06bf825a0660abdda834909
+8982ac80eca7dd42138c6de99ed46ea7
+0e46d54c7dc43b9f0ed720980054ea73
+9bfa4d8625be6bffa7ae433d30f6ad1e
+f12f406b95c0d82ecc2bebef6f2b343e
+7f76b6c1bb1b20a4a93c9397882cea09
+7797b4603c874196c3eae50b89191f63
+1c70ca6e573de25b3a823ce114b2e308
+b19d6e9d339e4ca313cc34f02b2dd59b
+
+
+# BPFDoor & AVERAT Malware IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-12
+
+e80a1d4d8f73387a3fd2bd6389b5a2a0
+e8ccbc746fd4a7dfc161a8e268e468fa
+780b580157cf16f1d90870c74fac2644
+16fd8b49739019168738cfe7f6965eed
+604df3a3c51c14d4a9e74059eb6592a8
+01a15bde5b142a9502bbba53b5568d75
+01bdd5a304a40d73ec19469e0e0c74c5
+b40da694a31630bd3a66b1e0ee3d8d49
+648fb3e6bd64ac118f9e8f08f29bd821
+fc446b9bb277b0a1161da99fd9789172
+b31ab64501401e65d64f8bb8b4de0700
+a9a02d0c541731382e6a671d48da2a90
+
+
+# Underground Crypto Theft IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-12
+
+78520e33e7a7dbf493393bbe3bad98dc
+869d9d22398aff13fb1a4c73683a694a
+77247371253b9cf63fea54ed68635adf
+625da7061fda549cc58ae3b559b5d9b2
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-10-12

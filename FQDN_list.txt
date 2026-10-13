@@ -10,6 +10,45 @@
 ###############################################################################
 
 
+# Citrix NetScaler CVE-2026-88771 IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-12
+
+http://62.133.62.80:80/xd7h/x
+http://23.27.143.20:9000/main.py
+http://64.94.85.67:443/update_c08937.pl
+http://64.94.85.67:443/update_result_3567cs.tgz
+http://31.56.197.72:9090/lula
+
+
+# 2CLoader Malware Threat IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-12
+
+aware-cr1.com
+http://62.60.226.185/t0907.exe
+
+
+# BPFDoor & AVERAT Malware IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-12
+
+zxopfds.com
+suwaccqi.com
+wwstifsteel.com
+
+
+# Underground Crypto Theft IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-12
+
+true-lie.com
+mmemento-mori.com
+ngc246.com
+quick-neo.com
+poribax.com
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-10-12
