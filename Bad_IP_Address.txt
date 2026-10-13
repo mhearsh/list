@@ -12,6 +12,13 @@
 
 # Manual IOC Addition
 # Threat Level: High
+# 2026-10-13
+
+144.124.251.24
+
+
+# Manual IOC Addition
+# Threat Level: High
 # 2026-10-12
 
 102.244.78.57
