@@ -10,6 +10,36 @@
 ###############################################################################
 
 
+# TIKTOUK Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-13
+
+9903f4576980ff7cfd560ca57c665a4b59b3c30d
+
+
+# CyberXero Attack Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-13
+
+e1eee4ef6fbd5c8362859a10a9ab750f91d21f33
+
+
+# VIDAR Infostealer IOC's
+# TLP:AMBER - Threat Level: High
+# 2026-10-13
+
+f4bf3124244d1ecedec27f1522b9bd1277c8bf24
+
+
+# TraderTraitor IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-13
+
+4402e44c0bc959ac22340041413de2482e8b5d53
+93c655963d7dd6cac017d9a59f54f7cee196fc89
+0b7ca6630ea1e66b7d96f3adf2a3e25b08fc1e92
+
+
 # Citrix NetScaler CVE-2026-88771 IOC's
 # TLP:CLEAR - Threat Level: High
 # 2026-10-12

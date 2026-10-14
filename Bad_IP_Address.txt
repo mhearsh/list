@@ -10,6 +10,22 @@
 ###############################################################################
 
 
+# TIKTOUK Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-13
+
+193.32.162.134
+195.178.110.209
+31.56.58.59
+
+
+# VIDAR Infostealer IOC's
+# TLP:AMBER - Threat Level: High
+# 2026-10-13
+
+95.182.97.240
+
+
 # משנה בודדות מגורמים שונים
 # TLP:CLEAR - Threat Level: High
 # 2026-10-14
