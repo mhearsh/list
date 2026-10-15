@@ -10,6 +10,174 @@
 ###############################################################################
 
 
+# UAC-0099 MATCHBOIL & MATCHWOK IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-14
+
+virtualdailyplanner.pro
+telemetry-conf.com
+flycloud-service.com
+airarticlegenerate.com
+
+
+# Silent Ransom Group IOCs
+# TLP:AMBER - Threat Level: High
+# 2026-10-14
+
+aim6umein3kee.com
+business-data-leaks.com
+slplsskdj2836v2jjsx.com
+
+
+# Warden Stealer IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-14
+
+23rosak.asia
+actorsspotlight.com
+aksdaodsaodsaodsadoasdasod.best
+aksdladladaldsaldald.best
+aksdoaodaldadladal.best
+asdnmasoida.cloud
+askdsdkadiadoaqwopdqwod.best
+atlancoproducts.com
+axionet.cc
+berff3788.com
+bitlance1.com
+bizstash.club
+bobilittelpony.com
+boloshoy-huy-negra.com
+bomboclat.rest
+boris-vlaga.club
+cap-recheck.org
+cheristo.com
+chuhua.cc
+culture-shock.club
+dentre-go.com
+dgqweg.com
+dojaekrt.cc
+dojaekrt.forum
+dojaekrt.trade
+dolbaeb.co
+downloadmanagerfree.com
+downtown886.com
+ebashim1.com
+er44t35t5.cc
+erifytrtr1.vip
+gerhodd.com
+germany-opendoors.com
+getpower.rent
+ggresp.com
+grant-deer.com
+guckridge.com
+helvion.cc
+hotelcalifornia.club
+iannonnels.quest
+ilia-from-izhevsk.club
+ipa-gaming.com
+jaskdhakjsdhww.com
+jgkawdq.cloud
+joaix.co
+john-jones.club
+johnisgoo.com
+jokeggr1.com
+kaifdlyaw.com
+kekkekesgkdf.com
+kertc1.website
+kertc2.website
+kertc3.website
+konradkertc2.website
+konradkertc3.website
+konradkertc4.website
+konradkertc5.website
+konradkertc6.website
+kreet.cc
+ksakdakd1k.club
+lerinstallsew.com
+levelx.beer
+lily-philips.club
+madmonkeystyle.com
+maryafuller.com
+migelgarciapakota.club
+minecraftingskins.wiki
+modicontools.com
+montrex.cc
+myufix.club
+nepstech.com
+nweenwew234.cc
+nyaciarabing.pics
+ockwellero.pics
+patduggan.com
+perturabo40000.website
+pianolovers.club
+pis-doliz.club
+piska-sosidka-govno.asia
+pofek.rest
+powerhousewebs.com
+qq-0732gwh22.com
+quentianel.mom
+qwont-support.club
+rabbidscc.cc
+rabbidsnotcc.cc
+randiest.rest
+recap-check.org
+redlable2.website
+redlable4.website
+rrrrrrrfffff.club
+russianaltushkawantdickinside.club
+seerdfu.com
+shlyapunabuche.com
+stukachab.club
+stukachero.club
+stukachio.club
+thebestof9.com
+tldsapi.com
+tony-sopranos.club
+uefarafara.forum
+uefarafara.mom
+uefarafara.rest
+uncelanise.skin
+vagina3.com
+value-dome.club
+verifytrtr.vip
+vlad-nazarenko.club
+vlad-nazarenko2004.club
+vladfrombarcelona.club
+vladik-from-barsa.club
+vode-aroma.club
+wakalayasm.forum
+web03-azureupdate.com
+web05-cloudupdate.com
+webex-028ue2.com
+websreamyard.com
+witchcandp.com
+xlamedioz.rest
+zalupka111.com
+zb64x.com
+
+
+# Phishing Campaign IOCs | 14/10/2026
+# TLP:AMBER - Threat Level: High
+# 2026-10-14
+
+opening-chathamhouse-zoom.site
+online-roorn.life
+meeting-chathamhouse.online
+
+
+# Adception Malvertising Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-14
+
+claude-desk-code.com
+ksmgakajgpsals.pages.dev
+rapid-craft567.com
+clawddddd.com
+fairpoint29.com
+turbowave45.com
+lake-90.com
+
+
 !k!.dahdahtoys.com
 !k!.homa.bet
 !k!.i90.bet
