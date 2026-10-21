@@ -10,6 +10,23 @@
 ###############################################################################
 
 
+# Phishing Campaign IOCs
+# TLP:AMBER - Threat Level: High
+# 2026-10-18
+
+hadassah-conference.online
+
+
+# AI-Powered Linux Campaign IOCs
+# TLP:CLEAR - Threat Level: High
+# 2026-10-18
+
+beraskencur.site
+magento.ink
+solidmonpe.com
+wibu-bau-bawang.online
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-10-20
