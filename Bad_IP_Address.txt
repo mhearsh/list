@@ -10,6 +10,20 @@
 ###############################################################################
 
 
+# DragonForce Ransomware IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-20
+
+185.73.125.8
+
+
+# Malicious IP Address | 20/10/2026
+# TLP:CLEAR - Threat Level: High
+# 2026-10-20
+
+185.195.232.139
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-10-20

@@ -10,6 +10,23 @@
 ###############################################################################
 
 
+# UAT-11985 Phishing Campaign IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-20
+
+centerhoti.com
+https://google.morelessty.com
+https://jmlh.morelessty.com/
+natrlyi.com
+
+
+# Phishing Campaign 20/10/2026
+# TLP:AMBER - Threat Level: High
+# 2026-10-20
+
+https://www.dropbox.com/scl/fi/kfbwzvcdiofnc6tltjcke/emp-3.0.2-OjUpUCI-office-x64-2.msi?rlkey=pyf9gam8yfhgw4tfw09tw3igk&st=tlndrpaz&raw=1
+
+
 # APT43 Financial Campaign IOC's
 # TLP:AMBER - Threat Level: High
 # 2026-10-19
