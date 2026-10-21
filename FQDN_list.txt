@@ -10,6 +10,71 @@
 ###############################################################################
 
 
+# APT43 Financial Campaign IOC's
+# TLP:AMBER - Threat Level: High
+# 2026-10-19
+
+bwer5t6kl.getenjoyment.net
+cfr556yujk.onlinewebshop.net
+cmieqf7yjs.sportsontheweb.net
+doput5rg.myartsonline.com
+edcv89ik.onlinewebshop.net
+ezms1ez.mygamesonline.org
+fqw345rdxc.onlinewebshop.net
+gp098ujm.scienceontheweb.net
+gtib96.onlinewebshop.net
+h4s7hlkpo.getenjoyment.net
+hcdse34r.onlinewebshop.net
+https://secure-sitest.rf.gd/%EC%97%B0%EB%8C%80%EB%B3%B4%EC%A6%9D%EA%B3%84%EC%95%BD%EC%84%9C%20%EA%B2%80%ED%86%A02%EC%B0%A8.pdf
+jkio954rt.medianewsonline.com
+jklo8yghj.scienceontheweb.net
+ki876tgvb.mypressonline.com
+nimdm8cx87.mygamesonline.org
+ny6r3kijc.mypressonline.com
+oh8e6hd7ip.getenjoyment.net
+qvck223mxo9.onlinewebshop.net
+rty789ijnh.medianewsonline.com
+se4567yuhn.sportsontheweb.net
+secure-sitest.rf.gd
+svpiwsw.mypressonline.com
+tgg7ujhn.myartsonline.com
+tvzc49.sportsontheweb.net
+vyt01cq8o1.atwebpages.com
+w346yjkiu.onlinewebshop.net
+xv57j3d.scienceontheweb.net
+yrfghjk652u.mygamesonline.org
+zqiayw.sportsontheweb.net
+zvwb1ep7i.onlinewebshop.net
+
+
+# PEERSTITCH FortiManager Exploitation IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-19
+
+http://23.240.77.233:8084/acme/authz/1
+http://23.240.77.233:8084/acme/finalize/61924744/774083503
+http://23.240.77.233:8084/acme/new-acct
+http://23.240.77.233:8084/acme/order/11111
+http://23.240.77.233:8084/directory
+http://23.240.77.233:8085/pM.js
+http://47.18.167.159:8085/pM.js
+
+
+# Aoki Infostealer AI Credentials IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-19
+
+dobeqnesmot.cc
+hjazfioe.surf
+
+
+# WebSockets Backdoor IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-20
+
+xionamiconm.com
+
+
 # Phishing Campaign IOCs
 # TLP:AMBER - Threat Level: High
 # 2026-10-18
