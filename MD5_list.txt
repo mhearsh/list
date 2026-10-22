@@ -10,6 +10,30 @@
 ###############################################################################
 
 
+# UNC6984 Campaign IOC's
+# TLP:AMBER - Threat Level: High
+# 2026-10-21
+
+1f8919d7e2fbff3ec678934d6d633c37
+4168aaafde0756e8e0a9b63abb7386bd
+472c221c7a03e3d927da66ae0cb35274
+5ce0d80f4e910f2c6c3d6d502bd2ecec
+bcc90aaf24c6432b13a33510f617807d
+d48347b55c5ca9c24b6ceba9f2822f6c
+
+
+# UNC7017 IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-21
+
+1036639d8bf40811b228140f58468439
+31487ff55705b17f835136577b43d328
+566e12db07c7ab02124ce9f45ec976dc
+610f0eb5a5067e9d4aee02e908eff28a
+836e7c0e77acc69049225bac8e353f4b
+8f52fdd687289c2a86600b47cc781483
+
+
 # Auto-Fetch-ThreatIntel
 # MalwareBazaar + ThreatFox
 # 2026-10-21

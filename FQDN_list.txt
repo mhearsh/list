@@ -10,6 +10,55 @@
 ###############################################################################
 
 
+# Meta Careers Phishing IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-21
+
+joinhire.cfd
+joinhire.info
+jointhetalent.cfd
+jointhetalent.info
+jointheteam.cfd
+
+
+# UNC6984 Campaign IOC's
+# TLP:AMBER - Threat Level: High
+# 2026-10-21
+
+http://103.140.154.152:8080/1.txt
+http://103.140.154.152:8080/McpManagementPotato.exe
+http://103.140.154.152:8080/by.exe
+http://103.140.154.152:8080/frpc.txt
+http://103.140.154.152:8080/frpc.zip
+http://103.140.154.152:8080/jb.txt
+http://103.140.154.152:8080/mueng.txt
+http://103.140.154.152:8080/rgmsr.txt
+
+
+# UNC7017 IOC's
+# TLP:CLEAR - Threat Level: High
+# 2026-10-21
+
+aomei.storage-data.com
+https://promotion.storage-data.com/config/component.zip
+https://promotion.storage-data.com/config/en.zip
+https://promotion.storage-data.com/config/whitelist.ini
+https://promotion.storage-data.com/download/abpopup/upgrade-now.zip
+https://storage.googleapis.com/aomeiupdate/component.zip
+https://storage.googleapis.com/aomeiupdate/upgrade-now.zip
+promotion.storage-data.com
+serv.oss-cn-hongkong.aliyuncs.com
+storage-data.com
+
+
+# NetScaler Agent Malicious Shell IOC's
+# TLP:AMBER - Threat Level: High
+# 2026-10-21
+
+citydeliverylineuq.com
+v6v.uk
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-10-21

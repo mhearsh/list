@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# NetScaler Agent Malicious Shell IOC's
+# TLP:AMBER - Threat Level: High
+# 2026-10-21
+
+185.139.215.221
+
+
 # Malicious IP Address
 # TLP:CLEAR - Threat Level: High
 # 2026-10-21
