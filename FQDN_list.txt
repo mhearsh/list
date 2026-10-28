@@ -10,6 +10,52 @@
 ###############################################################################
 
 
+# Spyder Patchwork Downloader
+# tlp:clear - Threat Level: High
+# 2026-10-25
+
+http://nodejsupdates.com/ticket_line/afa.php
+http://cloudwindowapps.com/enclose-pdf
+http://nodejsupdates.com/ticket_line/certificate.php
+cloudwindowapps.com
+nodejsupdates.com
+
+
+# AgentTesla Phishing Campaign
+# tlp:clear - Threat Level: High
+# 2026-10-26
+
+server356.web-hosting.com
+bbl@anmarinee.it.com
+
+
+# Phishing Campaign | 26/10/26
+# tlp:amber - Threat Level: High
+# 2026-10-26
+
+gov-israel.com
+israel-entrypiba-gov.com
+israel-police.com
+israel-police.net
+israel-police.cc
+israelpost-co.cfd
+israelepost.top
+dis-net-nethanyuisraelforever.com
+consulateisrael.com
+israelpoast.buzz
+israel-police.work
+israel-police.link
+israel-polices.com
+israel-polices.net
+
+
+# Phishing Campaign | 27/10/26
+# tlp:clear - Threat Level: High
+# 2026-10-27
+
+https://dizajnerskimebeli.com/7EmdAorS
+
+
 # Earth Sirrush
 # tlp:clear - Threat Level: High
 # 2026-10-19

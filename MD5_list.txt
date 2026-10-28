@@ -10,6 +10,44 @@
 ###############################################################################
 
 
+# Spyder Patchwork Downloader
+# tlp:clear - Threat Level: High
+# 2026-10-25
+
+3dd569ab355ecbb19cf77dfe9649b158
+3f4221dacc105466932db94b9b210b84
+3f8ee7eda499ad12f9072b8c9035acda
+bfe32a0314139bb88672c838238c7574
+58bc8ec8f3b99fd096697b73378f0b97
+a8973f6aa29011843c06c83e0caafb02
+dcd38befbaff3b153c40cd9c2858e72a
+84edbd8cff045c17c2b22ea991b66513
+
+
+# Zalmoxis Stealer Campaign
+# tlp:clear - Threat Level: High
+# 2026-10-26
+
+7a13793ace227b34e5ef37d5bf61d54f
+038cccb44753b43dee0e4b257ba18b1b
+5b47d1ba9d7030a58ec443ece6dcbf5c
+
+
+# AgentTesla Phishing Campaign
+# tlp:clear - Threat Level: High
+# 2026-10-26
+
+8777a9b0533660fddc2a73b819638c18
+cbcc4ba1a1485cb01a4b65fc7915e629
+
+
+# Phishing Campaign | 27/10/26
+# tlp:clear - Threat Level: High
+# 2026-10-27
+
+2e996235dd4a80c09897b77423d08f58
+
+
 # DarkBlinders
 # tlp:clear - Threat Level: High
 # 2026-10-20
