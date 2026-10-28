@@ -10,6 +10,81 @@
 ###############################################################################
 
 
+# Earth Sirrush
+# tlp:clear - Threat Level: High
+# 2026-10-19
+
+egyptanimals.com
+geostat.lat
+kpuszkiev.com
+secfileshare.com
+startdeeplearning.com
+rutech.tech
+uztickets.com
+virtualtelemetryassistant.com
+crazy-love.app
+shareitsimple.com
+infotrackerstatistic.live
+white-check-security.tools
+activation-planner.pro
+api-available-checker.com
+cyberathleticshealth.com
+cyberflysystems.com
+order.cyberflysystems.com
+veetransfer.com
+easysend.co
+kaufen-qpon.icu
+
+
+# DarkBlinders
+# tlp:clear - Threat Level: High
+# 2026-10-20
+
+gcc-sg.online
+mfakuwait.org
+mofakuwait.online
+mfakuwait.online
+mfakuwait.website
+korektell.com
+msonedrive.cloud
+vision-cloud.online
+googedrive.online
+cdndrive.online
+drive-g.cloud
+drive-go.cam
+meetcloud.site
+meet-goo.cam
+stark-meet.com
+stark-meet.online
+stark-meet.website
+starkmeet.com
+artcyberspacetraining.site
+optionbmitfilterport.site
+artwavecollective.site
+astravioncapital.site
+lifeinmotionnow.site
+g-prx.itugegape524.workers.dev
+https://gcc-sg.cloud/owa/auth/logon.aspx?replaceCurrent=1&url=/owa/&reason=0
+https://mfakuwait.org/owa/auth/logon.aspx?replaceCurrent=1&url=/owa/&reason=0
+http://mfakuwait.online/owa/auth/logon.aspx?replaceCurrent=1
+https://mfakuwait.website/owa/auth/logon.aspx?replaceCurrent=1&url=/owa/&reason=0
+https://cdndrive.online/drive/file/d/1JpH3ySmJpvX6TyGnF7C-S8qYiaoxyC5O/view
+https://drive-g.cloud/drive/file/d/15EMLDq9hpNXyZdu7RIZokPWLSdDC0y_0/view
+https://krgcloud.online/drive/file/d/1JpH3ySmJpvX6TyGnF7C-S8qYiaoxyC5O/view?ref=3yh3q5
+https://moelcloud.online/drive/file/d/1JpH3ySmJpvX6TyGnF7C-S8qYiaoxyC5O/view?ref=3yh3q5
+https://stark-meet.com/wp-content/uploads/2025/08/StarkMeet.zip
+https://starkmeet.com/download
+https://api.github.com/repos/PeakyBlindersTeam/myLic
+https://api.github.com/repos/PeakyBlindersTeam/myLic/contents/cd8c5ffad5278fa0/cd8c5ffad5278fa0Lic.txt
+https://api.github.com/repos/PeakyBlindersTeam/myLic/contents/cd8c5ffad5278fa0/cd8c5ffad5278fa0Inf.txt
+https://g-prx.itugegape524.workers.dev/rate_limit
+https://g-prx.itugegape524.workers.dev/repos/PeakyBlindersTeam/myLic/contents/cd8c5ffad5278fa0/cd8c5ffad5278fa0Lic.txt
+https://g-prx.itugegape524.workers.dev/repos/PeakyBlindersTeam/myLic/contents/cd8c5ffad5278fa0/cd8c5ffad5278fa0Inf.txt
+https://g-prx.itugegape524.workers.dev/search/issues?q=20260825+repo:Microsoft/vscode+type:issue
+http://194.62.249.114/8001
+https://api.github.com/repos/PeakyBlindersTeam/myCode
+
+
 # Meta Careers Phishing IOC's
 # TLP:CLEAR - Threat Level: High
 # 2026-10-21
