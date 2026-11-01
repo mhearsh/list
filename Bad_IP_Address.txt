@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# Manual Addition - Malicious IPs
+# tlp:clear - Threat Level: High
+# 2026-11-01
+
+37.72.140.44
+194.180.49.36
+
+
 # Phishing Campaign | 27/10/26
 # tlp:clear - Threat Level: High
 # 2026-10-27
