@@ -10,6 +10,24 @@
 ###############################################################################
 
 
+# Aokigahara Infostealer
+# tlp:clear - Threat Level: High
+# 2026-10-27
+
+dfwioeiofwr.info
+gate.dfwioeiofwr.info
+somelitersofblood.pw
+
+
+# Phishing Campaign | 28/10/26
+# tlp:amber - Threat Level: High
+# 2026-10-28
+
+https://soultionscoperateorganizations.cspc-cr.com/
+helpdesksolutionsicsoftheorganizationssdigitalmedialtdcapit.cspc-cr.com
+http://app.maskanparand.com/scmms/cmms/#?jt=c2hlcnJ5QGd1ZXRhY3JhbmVzLmNvLmls
+
+
 # Spyder Patchwork Downloader
 # tlp:clear - Threat Level: High
 # 2026-10-25

@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# PHP2Shell Exploitation Campaign
+# tlp:clear - Threat Level: High
+# 2026-10-29
+
+92.118.112.100
+
+
 # Manual Addition - Malicious IPs
 # tlp:clear - Threat Level: High
 # 2026-11-01
