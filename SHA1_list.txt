@@ -10,6 +10,20 @@
 ###############################################################################
 
 
+# ALERT-CERT-IL-W-2023
+# tlp:clear - Threat Level: High
+# 2026-10-26
+
+626c4f8204086a8b7810a0a14cdd071e147b71a7
+
+
+# Winos/ValleyRAT IOC
+# tlp:clear - Threat Level: High
+# 2026-10-29
+
+098608525d999524864a75e578e3a7425c0f6f74
+
+
 # Aokigahara Infostealer
 # tlp:clear - Threat Level: High
 # 2026-10-27

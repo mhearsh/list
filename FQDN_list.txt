@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# Storm-3119 & Storm-2990 IOCs
+# tlp:clear - Threat Level: High
+# 2026-10-29
+
+ncapmmda.icu
+shivping.cfd
+jewishchoice.org
+
+
 # Aokigahara Infostealer
 # tlp:clear - Threat Level: High
 # 2026-10-27
