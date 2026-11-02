@@ -10,6 +10,22 @@
 ###############################################################################
 
 
+# LLMJacking IOCs
+# tlp:amber - Threat Level: High
+# 2026-11-01
+
+jet-night.com
+prod-litellm.0x01111110.com
+
+
+# WildCard Keylogger IOCs
+# tlp:amber - Threat Level: High
+# 2026-11-01
+
+nimo.onthewifi.com
+news.serveblog.net
+
+
 # Storm-3119 & Storm-2990 IOCs
 # tlp:clear - Threat Level: High
 # 2026-10-29

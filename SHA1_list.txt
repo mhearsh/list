@@ -10,6 +10,43 @@
 ###############################################################################
 
 
+# Settra Ransomware Group
+# tlp:clear - Threat Level: High
+# 2026-11-01
+
+ad73ea26f11e90cc56487edcbd8050f3724eb4cc
+a5e46b09f83a61a2605ec0492eeb5178dae03da9
+
+
+# WildCard Keylogger IOCs
+# tlp:amber - Threat Level: High
+# 2026-11-01
+
+de9583a8f9c7812a175b27a0a3e7f64dceff3a2c
+bdfa4cd532061c91376b95c000cf13130dd9c252
+b3eac708d2374b8ba3cad1fe18cdee92b9edf042
+84350b4394a3a7c48a5126150b2e150fcf9cb3f7
+742a15b04fd707af9092456271fa6fd772ea25a3
+6ae870235c245bfdc3b5d6a2f69351e8f6d68993
+965bafd6d3f3203aa1ecbe35107418e9de8280e6
+23d5d431cc9882e20908655c3b8f411e18530f82
+
+
+# Phantom AI-Framework IOCs
+# tlp:clear - Threat Level: High
+# 2026-11-01
+
+2470655619454d70222ca9369d16dd975a9cd840
+2f769d3d79a5fcfcfa2ec7fdf7279102f271e741
+69a26acfec69f177c0cfed77abf7d80f315c352e
+9164d980b060efc041b00ac3b84f3700297ca914
+c7249f28dbf15d7f73fc9acbb2a105ba55f64053
+f9dc6467bed6954c76ecd237e1595cd106ede01a
+afc540179dfe3fec6c16ce6c9121ad496ee09342
+c5108cf0060df9d922ace04b1893dd031fc3bd50
+d6831ac93b8059a007dd38f3d1494e3bf4b72b17
+
+
 # ALERT-CERT-IL-W-2023
 # tlp:clear - Threat Level: High
 # 2026-10-26
