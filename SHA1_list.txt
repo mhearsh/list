@@ -10,6 +10,38 @@
 ###############################################################################
 
 
+# GRASS NEPTUNE IOCs
+# tlp:amber - Threat Level: High
+# 2026-11-03
+
+803a6658cb46b3cd4622cdda4ca604b12f4fdef3
+d49db0790ec563c6a5bd8e24b69ae61be45744b5
+d4b444ed4185160252a4838f25fabd649bbe8855
+7141cd06900909d79e3ecbba112280d2495e01d4
+b0ef6eaaebb748636ee5186b2ac99fce5bda1622
+2c732d4ed42332996437c7f363e7eb71005c5de6
+fd78bf4ebdf43f60871e33718ba316e7ebb42caa
+24b3ab60583b465f3a74864839947a7bfd3ab853
+ccafae35be1c5bb3db0bb6dabe2706368745f1a8
+edd340f46fffd0e3d73d180c691827bbf53a6fdf
+b71b13bd10307dd0e37a8a53b8171af49f6f1028
+35a6b3735628d15afb1091d5ff0ebf50906c8034
+06437dda2ad9e72197c1816c4208f6b7eca35617
+87fd2ce82e621dd8acc0b9df35959d9fc3745e3e
+e44834ecd051ab95700e357e24bfd669a2c1da0b
+8e859c17b4e37a798e2bd79ce7cd70815f6a92e4
+747f661a60b365b6a2ffab8b2a1dc8799a161205
+1d3b55fd07cc0bb8db8c6f9864a40aa2200dad13
+42f071400ad6a7ce3cc25bccff562d436c41e8ff
+
+
+# Stadia RAT and StealC Infostealer
+# tlp:clear - Threat Level: High
+# 2026-11-03
+
+1ba76d2029744cc6e2f7209c96a696b32962b1f1
+
+
 # Settra Ransomware Group
 # tlp:clear - Threat Level: High
 # 2026-11-01

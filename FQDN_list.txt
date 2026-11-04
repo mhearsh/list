@@ -10,6 +10,50 @@
 ###############################################################################
 
 
+# Phishing Campaign IOCs | 02/11/26
+# tlp:amber - Threat Level: High
+# 2026-11-02
+
+linenpalace.live
+
+
+# GRASS NEPTUNE IOCs
+# tlp:amber - Threat Level: High
+# 2026-11-03
+
+tcp://freeplay.servegame.com
+dev.cdngoogleapi.com
+file.cdngoogleapi.com
+freeplay.servegame.com
+hiworks.works
+ksystem.servehxxp.com
+ksystemupdate.serveirc.com
+netsecu.servehxxp.com
+node76y-455.vps.dynuhosting.com
+node93x-403.vps.dynuhosting.com
+node97u-507.vps.dynuhosting.com
+panda.ourhome.o-r.kr
+tracking.hiworks.works
+unassigned.207-174-0-74.spryt.net
+websec.ddns.net
+
+
+# Office 365 Impersonation IOCs
+# tlp:amber - Threat Level: High
+# 2026-11-03
+
+loginm365cloud.alleglancetitle.com
+financeline.alleglancetitle.com
+alleglancetitle.com
+
+
+# Stadia RAT and StealC Infostealer
+# tlp:clear - Threat Level: High
+# 2026-11-03
+
+stadiadev.cc
+
+
 # LLMJacking IOCs
 # tlp:amber - Threat Level: High
 # 2026-11-01
