@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# MALFEX Malware Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-03
+
+026e37881c82b79ab83ac605c76de469
+0561cce6ca995b5a4f0d84665ba6c0c0
+ff0cf609513264ed7201e0b25a301a07
+
+
 # GRASS NEPTUNE IOCs
 # tlp:amber - Threat Level: High
 # 2026-11-03
