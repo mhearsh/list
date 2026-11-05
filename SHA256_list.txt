@@ -10,6 +10,35 @@
 ###############################################################################
 
 
+# CNCMachineRMS RAT IOCs
+# tlp:clear - Threat Level: High
+# 2026-11-04
+
+b74b2bfc895f1205dfb389772b201a8e31b7bc4464ff3c4463b417626ecedb1c
+0efb9058385e057821ee5b6a7282bc6c06b16f4c9ad1d51572325181f8e31a29
+a270ce8c4ab1a4edcc474a24c5fb5fac239c48ec961a63df972ec40f0d6fff77
+7eae86c5ae86e0074446782aec858b4bc44bbb2f01342f185ecf5f7e20272857
+96033083a2da941691fb234bf7bf1737df731e5bc26947e4e23ff89ded6f0042
+3e87cda06f72dc8408483eb497d894de6fbbd47d365ac4d0e763d7a71d9c1125
+84190634766ffdd987d8935426b8a65aa409768ab85fd5ed9608f7abda95800c
+
+
+# PuTTY Malware Loader IOCs
+# tlp:clear - Threat Level: High
+# 2026-11-04
+
+73ab77da60d7196bce61405c615f8cd03a3157abffaf4a2447bd79fb8082da9f
+823d9e0d1086a5894e126dbff272259731208bd17dc47a0753849ee98818339e
+2214430d1611a20f60cd656025b031d9476c5f2d9bdb421ec5d4e87551167453
+
+
+# Attacker IOCs
+# tlp:amber - Threat Level: High
+# 2026-11-04
+
+b33649706cb69206e7c89265bb8a35fabc7e68447e136290ca6f5bce38dd389b
+
+
 # MALFEX Malware Campaign
 # tlp:clear - Threat Level: High
 # 2026-11-03

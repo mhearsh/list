@@ -10,6 +10,30 @@
 ###############################################################################
 
 
+# Impersonating Phishing Campaign 04/11/26
+# tlp:amber - Threat Level: High
+# 2026-10-29
+
+https://link.sendlink.co/qr/4ZQuNvbczVQo
+https://link.sendlink.co/qr/5C3Ito-9U1YC
+https://sites.leadconnectorhq.com/preview/ZdWVNo5iNYd1YAhbMhVP
+https://sites.leadconnectorhq.com/preview/3FSjLw5CpRsXfr4ih16s
+
+
+# CNCMachineRMS RAT IOCs
+# tlp:clear - Threat Level: High
+# 2026-11-04
+
+wizardexpensive.com
+
+
+# Attacker IOCs
+# tlp:amber - Threat Level: High
+# 2026-11-04
+
+https://tempfile.org/wHHWxyDURqg/download
+
+
 # Phishing Campaign IOCs | 02/11/26
 # tlp:amber - Threat Level: High
 # 2026-11-02
