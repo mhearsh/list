@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual IP Address
+# tlp:clear - Threat Level: High
+# 2026-11-07
+
+79.177.145.159
+
+
 # PHP2Shell Exploitation Campaign
 # tlp:clear - Threat Level: High
 # 2026-10-29
