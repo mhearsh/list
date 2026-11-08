@@ -10,6 +10,36 @@
 ###############################################################################
 
 
+# TRUST#GRAFT Backdoor Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-05
+
+vtevens.icu
+nutmann.club
+
+
+# ARTEX Financial Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-05
+
+xcai.pro
+u6ud2s.dnslog.cn
+
+
+# Yoba Malware Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-05
+
+github.com/gpt-5-6/sol-free-desktop
+gpt-5-6.github.io
+github.com/gpt-5-6/gpt-5-6.github.io
+github.com/gpt-6-astra/gpt-6-astra.github.io
+gpt-6-astra.github.io
+opus-5-0.github.io
+github.com/opus-5-0/opus-5-0.github.io
+files.catbox.moe/z5zpy9.dat
+
+
 # Impersonating Phishing Campaign 04/11/26
 # tlp:amber - Threat Level: High
 # 2026-10-29

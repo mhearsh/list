@@ -10,6 +10,21 @@
 ###############################################################################
 
 
+# ARTEX Financial Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-05
+
+38.244.50.120
+154.201.79.246
+
+
+# Vulnerability Exploitation IP
+# tlp:amber - Threat Level: High
+# 2026-11-05
+
+162.35.163.246
+
+
 # Manual IP Address
 # tlp:clear - Threat Level: High
 # 2026-11-08

@@ -10,6 +10,42 @@
 ###############################################################################
 
 
+# TRUST#GRAFT Backdoor Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-05
+
+197f6a5103870ab3bb1a213f27a63c73
+
+
+# Marsalek Infostealer
+# tlp:clear - Threat Level: High
+# 2026-11-05
+
+3bb839752add32357026298d3a7a504b
+
+
+# Yoba Malware Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-05
+
+43b452896ce6dcc00c049d49c420387c
+bc6975ba26d034e98472751e3b7f7f2d
+55eab3cfdf75e78328f57ba9defd33a1
+38557f265cabc3cb785741c778a16b66
+f72026a4043c043be65870671b2ad50c
+9811fae777173f8913b69d2d2adfbfa7
+456e4c2ffab6909dc3f180b17299fbc5
+5a295e2fc6883d901791e11766c35981
+6b095b7166ca3252b2abcae9cb871186
+eb29772884eeedccbef521c94f441b34
+58a827e2cfe1e5edca1a0ba44d919961
+6972e2358a360a9a712cd12e5d39e7b3
+5bd92087d9e8a1335779d1e2f92aba31
+dc641c942d059ff6ffffca95354a3ec7
+bb2cd07349d104f92717d8f38519ca9e
+cbc74731681448c3e3fbf9fe16f71c76
+
+
 # CNCMachineRMS RAT IOCs
 # tlp:clear - Threat Level: High
 # 2026-11-04
