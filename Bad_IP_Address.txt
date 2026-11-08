@@ -12,6 +12,13 @@
 
 # Manual IP Address
 # tlp:clear - Threat Level: High
+# 2026-11-08
+
+79.124.49.130
+
+
+# Manual IP Address
+# tlp:clear - Threat Level: High
 # 2026-11-07
 
 79.177.145.159
