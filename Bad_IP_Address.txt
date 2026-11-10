@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Manual IP Address
+# tlp:clear - Threat Level: High
+# 2026-11-10
+
+64.177.68.237
+
+
 # ARTEX Financial Campaign
 # tlp:clear - Threat Level: High
 # 2026-11-05
