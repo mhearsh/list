@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Phishing Campaign 10/11/2026
+# tlp:amber - Threat Level: High
+# 2026-11-10
+
+https://links.notification.intuit.com/ss/c/u001.94YPr_67myg1ffPBueEq0-tgdlmB5IC1G5J7wra6bzDHy7NPtXmfKoIT30dvG-JN2VtYmLmuA2N5gZ_GPSP5OA/4ve/p-8NeEgOSnuFKzt2HZoBLg/h1/h001.KIodeDy1l-haOIoQ5G5IrzxIXcuEElKjMkhEXhph_oo
+
+
 # TRUST#GRAFT Backdoor Campaign
 # tlp:clear - Threat Level: High
 # 2026-11-05

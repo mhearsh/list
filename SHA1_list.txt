@@ -10,6 +10,25 @@
 ###############################################################################
 
 
+# Phishing Campaign 10/11/2026
+# tlp:amber - Threat Level: High
+# 2026-11-10
+
+4d7bb70d5ea337e42915bff81306b4df73c97c4f
+
+
+# Fake-Download Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-10
+
+331d2c3bdbe90fbbadae74d2a15fafda6151e4a0
+1166beab3ed1abd0cfdcdb188a0fecf3ab084020
+4e8c873e74181722059ee09fbd27e870660fac8a
+12b9d54df394af95221d0813fb296a97a30c35a6
+694ee6ebf6ddb1f3adc0e55828319911ee8c7d12
+02931ea9da3100f3383a78c4276d76fc3e034907
+
+
 # TRUST#GRAFT Backdoor Campaign
 # tlp:clear - Threat Level: High
 # 2026-11-05
