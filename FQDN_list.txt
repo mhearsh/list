@@ -10,6 +10,47 @@
 ###############################################################################
 
 
+# VAPOR PANDA
+# tlp:clear - Threat Level: High
+# 2026-11-09
+
+nginxmysql.com
+sqlserver-sqlite.com
+ddduuuppp.com
+
+
+# UNC7257
+# tlp:clear - Threat Level: High
+# 2026-11-09
+
+communication-zoom.com
+zoorn-private-conference.com
+word-microstorage.courses
+teams-emergency-notifications.com
+work-storage-notifications.casa
+
+
+# Operation FlashHole
+# tlp:clear - Threat Level: High
+# 2026-11-09
+
+javadevhouse.co.kr
+pythonapischool.com
+https://cubedesign.co.kr/news
+https://cubedesign.co.kr/mobile/fashion
+https://fp-news.co.kr/shop/cart
+https://k-wbc.co.kr/skin/social/social_view.php
+https://rcsh.co.kr/modules/bbs/tiles/bbs_div/inputForm.php
+https://www.ksog.org/insert_file/handle.php
+
+
+# UNC5792 Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-09
+
+myauthdevice.com
+
+
 # Phishing Campaign 10/11/2026
 # tlp:amber - Threat Level: High
 # 2026-11-10

@@ -10,6 +10,36 @@
 ###############################################################################
 
 
+# VAPOR PANDA
+# tlp:clear - Threat Level: High
+# 2026-11-09
+
+6b3751efa10e5042f0e1f07620a69ea306f7800e
+392173d6c8068265ca14519374ab0f0687c4ac1d
+
+
+# UNC7257
+# tlp:clear - Threat Level: High
+# 2026-11-09
+
+e89628afc184a77c95a9569daa97e268284ddeef
+
+
+# Operation FlashHole
+# tlp:clear - Threat Level: High
+# 2026-11-09
+
+0549eacd067f37f8b2df8b1bac68838ac1e70352
+
+
+# UNC5792 Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-09
+
+662badbd4d0a9048afa6f195737d8f17a5d24d03
+d129e0cb684136034547d538e0977a7ba523b6bf
+
+
 # Phishing Campaign 10/11/2026
 # tlp:amber - Threat Level: High
 # 2026-11-10
