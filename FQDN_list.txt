@@ -10,6 +10,35 @@
 ###############################################################################
 
 
+# NIK C2
+# tlp:clear - Threat Level: High
+# 2026-11-12
+
+total-sitevv.lol
+https://2.26.51.12:4443/api/c2/update
+
+
+# Qilin ESXi Attack
+# tlp:clear - Threat Level: High
+# 2026-11-12
+
+wikileaks2.site
+
+
+# Malicious Claude Extension
+# tlp:clear - Threat Level: High
+# 2026-11-12
+
+http://134.209.82.225:8099/beacon
+
+
+# NetamLoader APT Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-12
+
+openaigpt4v.com
+
+
 # Microsoft Teams External Access
 # tlp:clear - Threat Level: High
 # 2026-11-09
