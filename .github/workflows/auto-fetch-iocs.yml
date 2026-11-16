@@ -107,8 +107,38 @@ jobs:
       - name: Merge all domain sources
         run: |
           cat /tmp/urlhaus_domains.txt /tmp/threatfox_domains.txt 2>/dev/null | \
-            sort -u > /tmp/all_domains.txt
-          echo "Total unique domains: $(wc -l < /tmp/all_domains.txt)"
+            sort -u > /tmp/all_domains_raw.txt
+          echo "Total unique domains: $(wc -l < /tmp/all_domains_raw.txt)"
+
+      - name: Filter domains against allowlist
+        run: |
+          python3 - <<'EOF'
+          allow = set()
+          with open('.github/allowlist-domains.txt') as f:
+              for line in f:
+                  line = line.strip().lower()
+                  if line and not line.startswith('#'):
+                      allow.add(line)
+
+          def allowed(domain):
+              d = domain.lower().rstrip('.')
+              return any(d == a or d.endswith('.' + a) for a in allow)
+
+          kept, skipped = [], []
+          with open('/tmp/all_domains_raw.txt') as f:
+              for line in f:
+                  d = line.strip()
+                  if not d:
+                      continue
+                  (skipped if allowed(d) else kept).append(d)
+
+          with open('/tmp/all_domains.txt', 'w') as f:
+              f.write('\n'.join(kept) + ('\n' if kept else ''))
+
+          print(f"Kept {len(kept)} domains, skipped {len(skipped)} allowlisted")
+          for d in skipped:
+              print(f"  SKIPPED (allowlist): {d}")
+          EOF
 
       - name: Merge all IP sources
         run: |

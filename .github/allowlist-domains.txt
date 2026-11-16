@@ -1,0 +1,68 @@
+# Domain Allowlist - never added to FQDN_list.txt by auto-fetch
+#
+# Matching: exact domain, or any subdomain (foo.example.com matches example.com)
+#
+# Only list providers that control their own subdomains. Do NOT list
+# user-content platforms (blogspot.com, github.io, web.app, firebaseapp.com,
+# amazonaws.com, blob.core.windows.net) - attackers control subdomains there
+# and those entries must stay blockable.
+
+# Google
+google.com
+googleapis.com
+googleusercontent.com
+gstatic.com
+googlevideo.com
+google-analytics.com
+googletagmanager.com
+youtube.com
+youtu.be
+
+# Microsoft
+microsoft.com
+microsoftonline.com
+office.com
+office365.com
+outlook.com
+live.com
+msn.com
+windowsupdate.com
+sharepoint.com
+azureedge.net
+
+# Apple
+apple.com
+icloud.com
+
+# Infrastructure / CDN
+cloudflare.com
+cloudflare-dns.com
+mozilla.org
+mozilla.com
+
+# Business services
+adobe.com
+zoom.us
+slack.com
+dropbox.com
+atlassian.com
+salesforce.com
+sap.com
+oracle.com
+ibm.com
+cisco.com
+fortinet.com
+
+# Social / consumer
+linkedin.com
+facebook.com
+instagram.com
+whatsapp.com
+x.com
+twitter.com
+paypal.com
+wikipedia.org
+
+# Israel
+gov.il
+mer-group.com
