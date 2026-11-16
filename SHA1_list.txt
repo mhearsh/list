@@ -10,6 +10,62 @@
 ###############################################################################
 
 
+# BITTER PapRAT Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-12
+
+71c8351a8d63a2fb8589d1f4f3f8aedf73853fee
+a31d30fd6d5ba22a148bbf7d9a120a9bbe8108a2
+630f21883a6ba72d7adc13a7cb8344a8d60bcd8a
+a3f1841ac4fb4f93c87bf74abb0718a9e1696c82
+
+
+# XLoader
+# tlp:clear - Threat Level: High
+# 2026-11-15
+
+10c0d28f428fbd69ade0e6fbdcab5fe8b67cce90
+0cd3796b4870b903d24428f56406f08c9b8bcb04
+157ecdc7e532b188864d886772a3d0b9c31abd27
+145c72f8acdcd366869f955dffd000d3bc146b6e
+ebc44f7694019ce5881c16b66ab39b56fe79c6ea
+0f92a4b22506d86b0d1f3f164afc4b0938dd5b18
+168dbd14667dc37d72b7a2bfde59933ee8b109e1
+8e8c94ad10d201b7d3085d4dbcf7a309b1c3f93a
+522f2b7aba3abe1b7f04efba816e89dd3af2369c
+68af51f30e680aa89937931ee525fc20727d58b2
+258a7ae6786009607ac5680be5a2793d7c9a9c53
+0b6ad4af55ca5d86a902339b313e3aa8c5378231
+a302e6d2cb4e97fcdd352ac51606583b748d4f82
+
+
+# Additional CheckPoint PHP2Shell Exploitation
+# tlp:clear - Threat Level: High
+# 2026-11-15
+
+84af187720e2961d1b9fb11004003dc2c9d7263b
+683b2501899ff732becb1dbf27bafdf725b7476d
+e3228b60dd55064e5d2783e067d424dab805692f
+de69001c12fbbd1d71b3eb42e275f8a81588ada1
+
+
+# Gorbag Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-15
+
+c17369b4b49113d07f080df832e218156fb0940f
+a5e0a82bf6cc302a20d917235643b748f73fcc27
+e27e0d0a4b308f9b6b0469159931eb5e343e7ff8
+0589d2079fbef814dc7bb95c4b3b555c8b933af6
+
+
+# Malicious ScreenConnect Outline
+# tlp:amber - Threat Level: High
+# 2026-11-15
+
+f02c5d8a464322df352235c98a35e9850796e903
+
+
 # NIK C2
 # tlp:clear - Threat Level: High
 # 2026-11-12

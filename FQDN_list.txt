@@ -10,6 +10,48 @@
 ###############################################################################
 
 
+# BITTER PapRAT Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-12
+
+techtalkhelp.com
+www.rivingtonclarks.com
+goodnfortunes.com
+felixfuturenext.com
+gomescareerplans.com
+netmansrvdns.com
+
+
+# XLoader
+# tlp:clear - Threat Level: High
+# 2026-11-15
+
+http://iqos-one.com/gf2n/
+http://offon33fv.club/6yav/
+http://eolienzaer.com/jrsi/
+http://tori.fi/8yfp/
+http://okbajegame.com/l3iy/
+http://komplek.id/gkws/
+http://sonhero.top/xc0y/
+http://grandseosite91.shop/1ud5/
+http://moreultras.store/2r3a/
+http://bagolone.it/qbqm/
+http://tomatox.com.tw/upw6/
+http://511mma.ru/dnir/
+http://hahashoe.com/r0zm/
+http://snvipvn.com/v0rc/
+http://revelintravel.com/zd56/
+http://990match.com/ccp8/
+
+
+# Malicious ScreenConnect Outline
+# tlp:amber - Threat Level: High
+# 2026-11-15
+
+https://www.dropbox.com/scl/fi/dh4u4f12ur9vq9qrlsmcw/Installer.msi?rlkey=daqumvb1upi2coc24qlesroqx&st=w65h9iff&dl=1
+https://instance-e2wzjj-relay.screenconnect.com
+
+
 # NIK C2
 # tlp:clear - Threat Level: High
 # 2026-11-12
