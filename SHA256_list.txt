@@ -10,6 +10,32 @@
 ###############################################################################
 
 
+# Impersonating Phishing Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-16
+
+5ba125e255866a43b8d10f6197d8266b9ff434286ee103744566d2ce6d61b47b
+6a543155893960ecc93a799e9c08991deea37e37a53bf0210a1002f5798c0dd3
+e5104d9a4a6bc6cefe4188b8975154b6b47ec270a062e97fe31d3487f428d7dd
+
+
+# ClickFix Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-16
+
+c9cf86f3a77f3a373f1fd968e7d91d46b790befec3626a2292d243b9c68d377c
+b8974270945045bec7bb0009d5c174296f8e03ffdd8bd58701803e0f4a095bc2
+
+
+# Helpdesk Impersonation AD CS
+# tlp:clear - Threat Level: High
+# 2026-11-16
+
+85b6c424117494d3056e88689dbc94c75e9afdb187a339714043aec0da109f17
+f326201269f1ee2f803ae435317507263bb6e0dbfdeb70bd1bb5446e2e46f001
+06c5c14f043aee3bcc5843b5f50909623d5c9a6239a7c1fba9cddad4111469e7
+
+
 # BITTER PapRAT Campaign
 # tlp:clear - Threat Level: High
 # 2026-11-12

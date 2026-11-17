@@ -10,6 +10,23 @@
 ###############################################################################
 
 
+# ClickFix Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-16
+
+5378315deabe3fc43ea77c3af3a51356
+f74444bb91c47b201df8015b19aebe52
+
+
+# Helpdesk Impersonation AD CS
+# tlp:clear - Threat Level: High
+# 2026-11-16
+
+7151dc47580618f3b4b3c2254ded341c
+e24244445fd3686fcd49e35a78fb921e
+6c1cfc02b4d1e31bf9bbdb0693340c94
+
+
 # BITTER PapRAT Campaign
 # tlp:clear - Threat Level: High
 # 2026-11-12

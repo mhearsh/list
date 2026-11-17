@@ -10,6 +10,25 @@
 ###############################################################################
 
 
+# Impersonating Phishing Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-16
+
+ctcafinancial.com
+https://ctcafinancial.com/share/-Dqg5xC27V8
+ttps://web-relay-b6ec.vault-link-7bc2.workers.dev/share/ffU8Qewo3qo
+https://web-relay-b6ec.vault-link-7bc2.workers.dev/share/BoBTRGq1Wqg
+https://s3.eu-west-2.amazonaws.com/scan-293992.receipt-inv/document2939923securepassverify.pdf
+
+
+# ClickFix Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-16
+
+http://45.94.47.126/yrjrs/tctc.bba
+http://45.94.47.126/update/t/t.001
+
+
 # BITTER PapRAT Campaign
 # tlp:clear - Threat Level: High
 # 2026-11-12

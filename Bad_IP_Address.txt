@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# ClickFix Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-16
+
+45.94.47.126
+
+
 # Additional CheckPoint PHP2Shell Exploitation
 # tlp:clear - Threat Level: High
 # 2026-11-15
