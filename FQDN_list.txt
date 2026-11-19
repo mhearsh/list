@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# Israeli Tax Authority Impersonation - Malicious Android App
+# CyberSecurityIL / Same actor as Yad2 campaign
+# 2026-11-19
+
+misrut-aplc.pro
+rashut-misim-app.com
+
+
 # Impersonating Phishing Campaign
 # tlp:amber - Threat Level: High
 # 2026-11-16
