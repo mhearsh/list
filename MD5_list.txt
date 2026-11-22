@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# SlippyNunchucks DarkVigil
+# tlp:clear - Threat Level: High
+# 2026-11-17
+
+c0d248994187db08f6413df26c4c5d8c
+92d5aa18041ccf0487a73ecaaa86f871
+
+
 # APT29 Mobile Exploitation
 # tlp:clear - Threat Level: High
 # 2026-11-18

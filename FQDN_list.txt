@@ -10,6 +10,44 @@
 ###############################################################################
 
 
+# LLMJacking Exploits Cloud Infrastructure
+# tlp:clear - Threat Level: High
+# 2026-11-15
+
+newapi.pro
+
+
+# BossAI Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-17
+
+xs1.ccwu.cc
+attacker-collector.com
+jytian.cc.cd
+gdp.gasjy.kdns.fr
+gds.gasjy.kdns.fr
+bossjy.kdns.fr
+ssh.gputw.ai
+
+
+# SlippyNunchucks DarkVigil
+# tlp:clear - Threat Level: High
+# 2026-11-17
+
+wangmengfun.top
+mssproxy.net
+fusfun.top
+sogou-cdn.com
+soft-png-cdn.com
+
+
+# Phishing Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-17
+
+https://ap.boyehouse.cl/mssc/
+
+
 # APT29 Mobile Exploitation
 # tlp:clear - Threat Level: High
 # 2026-11-18

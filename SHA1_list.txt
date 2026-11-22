@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# SlippyNunchucks DarkVigil
+# tlp:clear - Threat Level: High
+# 2026-11-17
+
+8a60a8e90e1f5f08f28fe5a6dd57bd686c20dc23
+3e16ba611782af6e45576d390488d28fd676bade
+
+
 # Camera Software Compromise
 # tlp:clear - Threat Level: High
 # 2026-11-18
