@@ -10,6 +10,35 @@
 ###############################################################################
 
 
+# Israel Tax Authority Impersonation Phishing Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-19
+
+f00d9ba4c8bc003770bdae032399384b86008f88
+
+
+# MSBuild Loader and SectopRAT
+# tlp:clear - Threat Level: High
+# 2026-11-19
+
+ce4ca54dfe91b486050ac200877a98f913c9e505
+dba43bd6c39bc1b1bf39f9054f24c79021c97fad
+eae87d76c77cd05bc2e285e685d4add3b985598a
+b1e3139a0a6007ffe06ba14392c81d024e069725
+61c8e98d9bb95a3e86ceeb9a8fe4846b627dcb87
+d733df31ae3a19d71a167fb2a2e0eb3edce164fb
+89b1e49c197f2d76b168d1e38cc0b341ba320297
+2f91875853a3de5150787cd2c1587fad8bfef925
+
+
+# Optimizely JavaScript Injection
+# tlp:clear - Threat Level: High
+# 2026-11-19
+
+e1feea4b98dbf6d070ea8f4c34335091fa0b2677
+a46f6787524b787f7331ce19673cef1d7929f755
+
+
 # ClickFix Campaign
 # tlp:amber - Threat Level: High
 # 2026-11-16

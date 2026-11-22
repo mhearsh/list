@@ -10,6 +10,35 @@
 ###############################################################################
 
 
+# Israel Tax Authority Impersonation Phishing Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-19
+
+f36d1f25aed220e10bf8b2c1718549c53856de958d4985dbf0c50aae98666234
+
+
+# MSBuild Loader and SectopRAT
+# tlp:clear - Threat Level: High
+# 2026-11-19
+
+1c6f663b67e26badeeade4064a57c656e96d00cff1d4bb52a805ce27515e0662
+28392302b64af9777f23b2d44222bf584bbe66bf94f1d7c0c8147febe4f2cb07
+2cb6a818f929c3c175db6e7c39cb26c5bfc9f318e3f90493293af79bb2c2bc60
+a86733c70d1eed6bbcd4e587ada4580289abc740187eb7cefff3b1a41b4d0434
+86b3cdcc9cf4f93d49e1a52f34c644b41bf0629c3390d7ec591ef4a97bc0cc15
+fbdcf1c1ef19a5bef2c9ca43b3685aa5dacd78b7b071a90ced67ead83b736fa7
+e4765f3d293f969916e61c756691868b1c8f530e7e00abffca16b95fec4fdcf4
+e98126909c5d2ea0d1f744ba7be5ff5ac6253f89e6468aa3594b3705813a4c66
+
+
+# Optimizely JavaScript Injection
+# tlp:clear - Threat Level: High
+# 2026-11-19
+
+814a963c0da480e2449d9b6664480156e1cd6d731014117401bf635badec3a0f
+f7b84b9a94f749f8ced3f0112d0a66894e8bbc3b4aa5592021d1b8976a9bad40
+
+
 # Israeli Tax Authority Impersonation - Malicious Android App
 # CyberSecurityIL / Same actor as Yad2 campaign
 # 2026-11-19
