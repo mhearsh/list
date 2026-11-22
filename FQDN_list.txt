@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Optimizely JavaScript Injection (from Excel file)
+# tlp:clear - Threat Level: High
+# 2026-11-18
+
+5vobaaua3ojpklx.icu
+
+
 # LLMJacking Exploits Cloud Infrastructure
 # tlp:clear - Threat Level: High
 # 2026-11-15

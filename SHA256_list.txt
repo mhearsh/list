@@ -10,6 +10,13 @@
 ###############################################################################
 
 
+# Optimizely JavaScript Injection (from Excel file)
+# tlp:clear - Threat Level: High
+# 2026-11-18
+
+f7b84b9a94f749f8ced3f0112d0a66894e8bbc3b4aa5592021db8976a9bad40
+
+
 # SlippyNunchucks DarkVigil
 # tlp:clear - Threat Level: High
 # 2026-11-17
