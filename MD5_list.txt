@@ -10,6 +10,29 @@
 ###############################################################################
 
 
+# APT29 Mobile Exploitation
+# tlp:clear - Threat Level: High
+# 2026-11-18
+
+a0a89e02d746a9e233b6b53e26b653e6
+
+
+# Camera Software Compromise
+# tlp:clear - Threat Level: High
+# 2026-11-18
+
+261277dce7a5cf16952761a8b9d456cf
+0a9cb414b53536ad8fc217fc46a2cf56
+d63349101a5416f5beb51a77e59eaee0
+
+
+# Linux PUREHIKE
+# tlp:clear - Threat Level: High
+# 2026-11-18
+
+f74ea5366d3f609a1174e27ae2b3e9b2
+
+
 # Israel Tax Authority Impersonation Phishing Campaign
 # tlp:amber - Threat Level: High
 # 2026-11-19

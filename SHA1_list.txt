@@ -10,6 +10,22 @@
 ###############################################################################
 
 
+# Camera Software Compromise
+# tlp:clear - Threat Level: High
+# 2026-11-18
+
+c4bf721f82d3fef7253a89392a96ac5d1d84bec0
+b3130b0a2048a64fcc76fcde45fd3abb1b89c9b8
+5df869d94540e2037b4ed2029bebb675e5c10cbc
+
+
+# Linux PUREHIKE
+# tlp:clear - Threat Level: High
+# 2026-11-18
+
+df7dd569023d6569f0f2f98089a168cb339b8899
+
+
 # Israel Tax Authority Impersonation Phishing Campaign
 # tlp:amber - Threat Level: High
 # 2026-11-19

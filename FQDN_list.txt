@@ -10,6 +10,34 @@
 ###############################################################################
 
 
+# APT29 Mobile Exploitation
+# tlp:clear - Threat Level: High
+# 2026-11-18
+
+flux-telemetry.com
+clouds-stacks.com
+starx-net.com
+theowo.club
+america250.holiday
+
+
+# Leumi Impersonation Phishing Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-18
+
+signinnext.cfd
+nextlog1n.cfd
+nxt-auth5.sbs
+nextshow-ticket.shop
+
+
+# AiTM Phishing Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-18
+
+macosoft.live
+
+
 # Israel Tax Authority Impersonation Phishing Campaign
 # tlp:amber - Threat Level: High
 # 2026-11-19
