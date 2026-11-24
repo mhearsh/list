@@ -10,6 +10,37 @@
 ###############################################################################
 
 
+# UltraViewer & UltraMailer Phishing Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-22
+
+qbcares.com
+
+
+# CookUp Malware Loader
+# tlp:clear - Threat Level: High
+# 2026-11-22
+
+applicensingstudio.com
+
+
+# Fake Google Workspace MSIX Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-22
+
+workspacedriver.live
+microsoftnonoficialworkspacefordifferentstuff.live
+driverwinupdate.live
+
+
+# ClickFix Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-22
+
+tawny-ridge-zoandgoaara.pro
+silverrogpuia.pro
+
+
 # Plugin RAT
 # tlp:clear - Threat Level: High
 # 2026-11-23

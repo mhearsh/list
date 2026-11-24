@@ -10,6 +10,43 @@
 ###############################################################################
 
 
+# Data Breach
+# tlp:clear - Threat Level: High
+# 2026-11-22
+
+4188295ae1f7f8a99d15e90eb037eef3eb03f6acd4422bf877c6e3304e70fcb9
+0405d4f79a3cc97fa492f1957cde0d51bc569f5432792f1b8f72077aa3fb2434
+fcbfc74ddffad4789120c618bdf166c6c8aaca286fb2d184f7fa0ed8b8f26c59
+cde477ef57ef6f100dcb0242f055113690fdeade8204e0986a3ad257be1fb81e
+9d3f2f6031ec3b487ae12dd6f9311dd89b4a6bd23af252212bcc1f5507784f39
+ee15c2a54f1bb483f70bf7777ae08d39c8abbbf7f5b1f2139de0ff76ec3e241e
+e7e6bfc3a2d6c3eb0ed6e1f4ade99ca761d517886412da99a2cf4a0626bce5e3
+
+
+# UltraViewer & UltraMailer Phishing Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-22
+
+28f046d9f985e58cbc8b245b54d4179feacecc12f41e2f6594306867ce3e8727
+9e1a679ca45a149d2bd681cbb8ec3b1cc3d271fad51b092a3db5e5642eb6676b
+
+
+# CookUp Malware Loader
+# tlp:clear - Threat Level: High
+# 2026-11-22
+
+e7bc65daf98767646cb1a0e8c3d19cf0db0dce4618a9bcd2d287426cfd2c9034
+
+
+# Fake Google Workspace MSIX Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-22
+
+e5634f9e2668fffdaffe257bbe4d8eee07c02fb9435fe82c753387f544f87cf0
+566e52d5176791c792a434a1bd30e949ff2a0a133a68cba296b91867e1fd335f
+b51b3d4e170c3c0e1ca43baf5a6e40ff4e2856881fac401e11583cb0aba2235e
+
+
 # Plugin RAT
 # tlp:clear - Threat Level: High
 # 2026-11-23

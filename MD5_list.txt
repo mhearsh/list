@@ -10,6 +10,30 @@
 ###############################################################################
 
 
+# UltraViewer & UltraMailer Phishing Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-22
+
+2ceff410962083c279048e303244c9da
+049d96a43da0fcee1cfbd874a3706e2a
+
+
+# CookUp Malware Loader
+# tlp:clear - Threat Level: High
+# 2026-11-22
+
+97de61cfbfe1eb0024c194d47f290b68
+
+
+# Fake Google Workspace MSIX Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-22
+
+22f55855b2e81d140b243309fd13d692
+fd0ece766c76b10bfccd4e1a5dbf0370
+618474ea5420810e9715533c977f6fda
+
+
 # Plugin RAT
 # tlp:clear - Threat Level: High
 # 2026-11-23
