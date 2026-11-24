@@ -10,6 +10,15 @@
 ###############################################################################
 
 
+# Auto-Fetch-ThreatIntel
+# URLhaus + ThreatFox
+# 2026-11-24
+
+auth.abuse.ch
+contact.abuse.ch
+urlhaus.abuse.ch
+
+
 # UltraViewer & UltraMailer Phishing Campaign
 # tlp:clear - Threat Level: High
 # 2026-11-22
