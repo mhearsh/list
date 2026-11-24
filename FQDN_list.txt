@@ -10,6 +10,51 @@
 ###############################################################################
 
 
+# Plugin RAT
+# tlp:clear - Threat Level: High
+# 2026-11-23
+
+http://192.238.177.20/
+
+
+# CloakGuard Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-23
+
+cloakguard.org
+alico.shop
+https://jdsw.alico.shop/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
+
+
+# AnimateClipper & Efimer
+# tlp:clear - Threat Level: High
+# 2026-11-23
+
+https://tuasesoriadigital.es/default.dat
+http://tuasesoriadigital.es/default.dat
+https://hasansunnah.xyz/composer.dat
+http://hasansunnah.xyz/composer.dat
+https://voedseltuinijplein.nl/composer.dat
+http://voedseltuinijplein.nl/composer.dat
+https://webenvysolutions.com/composer.php
+http://167.233.30.202/files/swfe60.exe
+http://167.233.30.202/files/9je7p2.exe
+http://167.233.30.202/files/xgc6jp.exe
+http://167.233.30.202/files/wjpr1q.exe
+https://kupunasvolpiano.com/g/static/s/cinzel/v23/Taskforce.exe
+http://91.92.47.8/quis.exe
+https://91.92.47.8/quis.exe
+https://hindustanagency.com/666.exe
+https://muaklekcoop.com/js/quis.exe
+https://thepullmanfolkestone.com/ppisondeers.exe
+https://peniclean.com/nvd_driver_dll.exe
+https://microlsireqjn.com/nvd_driver_dll.exe
+https://peowlakjew.com/clean_driver_dll.exe
+http://64.89.161.122/SW.exe
+https://cim-kolea.com/3.exe
+https://wantsellonline.com/1.exe
+
+
 # Optimizely JavaScript Injection (from Excel file)
 # tlp:clear - Threat Level: High
 # 2026-11-18
