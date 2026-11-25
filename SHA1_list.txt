@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# APT-Q-27 Golden Gh0st RAT
+# tlp:clear - Threat Level: High
+# 2026-11-24
+
+0b6fa3c37d7a3c195542b9f08c5b5f951d8935f0
+4894bd80b86cad291ebe764768ef0607b4a4bf32
+a40de102963ef3ad4901ad68ff0109b58429a586
+b99fa10a3bf2a84b3f3866c8a23516ee337b01fb
+
+
 # APT43 SPICYTUNA Malware
 # tlp:amber - Threat Level: High
 # 2026-11-24

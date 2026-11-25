@@ -10,6 +10,25 @@
 ###############################################################################
 
 
+# GCollection APT42 Phishing
+# tlp:amber - Threat Level: High
+# 2026-11-23
+
+4ec45ff95ac0e9f9b83a52114a1dc0f3330ffb8dfb9064925f297b0911bd5839
+a10a1fe4afbf6bfdd108879a799e11bd1deb9559c489e5320db97ec4733914ab
+63dbf5c5d0ddd45ef16537de417d8199a99a2f3368aa6d354ba4e2f582aba442
+
+
+# APT-Q-27 Golden Gh0st RAT
+# tlp:clear - Threat Level: High
+# 2026-11-24
+
+813c4a2aab04fbb1f56ae5c0b4cb73188de57ffb3dc58b6019f631560de4ad33
+21498faad7283839d0b055c618693eb2affe910b6e8d030592d92a94cd266144
+e4ce31ca2ba1c1052b5583656137a59432aa0bb2d150431615210525f4ae47e4
+3f447a57f2545fa98a222e86046438eb590678189d79f98bc96b67dc892ce9cb
+
+
 # APT43 SPICYTUNA Malware
 # tlp:amber - Threat Level: High
 # 2026-11-24

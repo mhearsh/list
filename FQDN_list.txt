@@ -10,6 +10,30 @@
 ###############################################################################
 
 
+# GCollection APT42 Phishing
+# tlp:amber - Threat Level: High
+# 2026-11-23
+
+enter-your-session.site
+entering-you-now.web.id
+event-invitation.eu.cc
+face-talk.online
+home-looking-host.site
+join-groupcall.online
+kite-mount-profe.buzz
+looking-for-session.my.id
+online-session.site
+online-talking.site
+open-please-wait.online
+opening-your-session.online
+orange-juice.icu
+panel-bit-find.online
+panel-bit-search.online
+please-wait.eu.cc
+wso-bhsi-nbp.cyou
+yadlolim-zm-online.online
+
+
 # APT43 SPICYTUNA Malware
 # tlp:amber - Threat Level: High
 # 2026-11-24
