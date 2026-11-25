@@ -10,6 +10,14 @@
 ###############################################################################
 
 
+# MOONOAK and OAKBELL Malware
+# tlp:amber - Threat Level: High
+# 2026-11-24
+
+111.92.246.145
+85.132.63.35
+
+
 # ClickFix Campaign
 # tlp:amber - Threat Level: High
 # 2026-11-16

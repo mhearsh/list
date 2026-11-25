@@ -10,6 +10,56 @@
 ###############################################################################
 
 
+# APT43 SPICYTUNA Malware
+# tlp:amber - Threat Level: High
+# 2026-11-24
+
+clearglassenvironment.site
+pdfbloom.fit
+browsersecbrowsersec.site
+visitourhome.site
+https://inflow.pay.naver.com/rd?tr=ds&retUrl=hxxp%3A%2F%2Folkifmj.online%2Fshiba%2Fjegil%2Fspringroad19.php
+2folkifmj.online
+adljfhwdpdf.online
+coolautumnniceday.site
+efeltowerground.site
+friendlycomcleaver.site
+hugedrivercom.site
+linuxcom.site
+lovelyourland.site
+
+
+# Office 365 Phishing Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-24
+
+https://snugfit.co.za/log_notes/solid.html
+https://farberexltd.com/share/EjBJVtbcVig
+
+
+# Rogue MDM Phishing Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-24
+
+https://webdocusign.viewportal.es/Windows/download/index.php
+https://www.google.com/url?q=https://teams-microsoftcom5d41402abc4b2a76b9719d911017c592.kiratham.com/teams/?c4ca4238a0b923820dcc509a6f75849b&source=gmail&ust=1786728797008000&usg=AOvVaw1avg1ySoejqEF3554JUp0i
+https://teams-microsoftcom5d41402abc4b2a76b9719d911017c592.kiratham.com/teams/?c4ca4238a0b923820dcc509a6f75849b
+https://teams-microsoftcom5d41402abc4b2a76b9719d911017c592.kiratham.com/teams/14/enroll14.php
+pronconetydesire.online
+bobdthjau.com
+
+
+# MOONOAK and OAKBELL Malware
+# tlp:amber - Threat Level: High
+# 2026-11-24
+
+dothome.co.kr
+https://raw.githubusercontent.com/omskiwdcvoiuyfd0998/0ijnbjfke8djfefhkehhdkefkeu90djfkefh/refs/heads/main/okay.md
+https://raw.githubusercontent.com/omskiwdcvoiuyfd0998/0ijnbjfke8djfefhkehhdkefkeu90djfkefh/refs/heads/main/LICENSE
+https://raw.githubusercontent.com/omskiwdcvoiuyfd0998/zoominstaller/main/zoominstaller.exe
+https://dofamini.com.ua/media/CV_OlesiaTsvientukh_SocialResearcher_Sociologist_Qualitative.pdf
+
+
 # Auto-Fetch-ThreatIntel
 # URLhaus + ThreatFox
 # 2026-11-24
