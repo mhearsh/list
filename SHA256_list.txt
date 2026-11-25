@@ -10,6 +10,17 @@
 ###############################################################################
 
 
+# Auto-Fetch-ThreatIntel
+# MalwareBazaar + ThreatFox
+# 2026-11-25
+
+410 Gone: legacy MalwareBazaar file exports are no longer available at this URL.
+Get a free Auth-Key at https://auth.abuse.ch/ and switch to the new export URLs:
+Help: https://contact.abuse.ch/
+Since 21 October 2026, abuse.ch file exports need an Auth-Key.
+https://bazaar.abuse.ch/export/
+
+
 # GCollection APT42 Phishing
 # tlp:amber - Threat Level: High
 # 2026-11-23

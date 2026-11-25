@@ -10,6 +10,16 @@
 ###############################################################################
 
 
+# Auto-Fetch-MalwareBazaar
+# 2026-11-25
+
+410 Gone: legacy MalwareBazaar file exports are no longer available at this URL.
+Since 21 October 2026, abuse.ch file exports need an Auth-Key.
+Get a free Auth-Key at https://auth.abuse.ch/ and switch to the new export URLs:
+https://bazaar.abuse.ch/export/
+Help: https://contact.abuse.ch/
+
+
 # APT-Q-27 Golden Gh0st RAT
 # tlp:clear - Threat Level: High
 # 2026-11-24
