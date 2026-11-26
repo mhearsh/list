@@ -10,6 +10,42 @@
 ###############################################################################
 
 
+# MSSQL Malware Delivery Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-25
+
+vietnam852.com
+hfgjjkrewjk.com
+jiancai008.com
+swordaa.com
+
+
+# APT43 SEASURF Espionage Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-25
+
+https://github.com/nemotomui/gabiaxis/raw/refs/heads/main/aefsany/applevbs.vmd
+https://github.com/nemotomui/gabiaxis/raw/refs/heads/main/aefsany/orangeany.vmd
+https://github.com/nemotomui/gabiaxis/raw/refs/heads/main/aefsany/any.bat
+https://github.com/linuxboard/horimuz
+https://github.com/nemotomui/gabiaxis/raw/refs/heads/main/aefsany/tomatoxml.vmd
+https://github.com/nemotomui/gabiaxis/raw/refs/heads/main/aefsany/gamsys.vmd
+https://github.com/nemovoid/gansai
+https://github.com/jecoma/basco/raw/refs/heads/main/sus.ps1
+https://github.com/nemotomui/gabiaxis/raw/refs/heads/main/aefsany/gamser.vmd
+https://github.com/nemotomui/gabiaxis/raw/refs/heads/main/aefsany/bananaps1.vmd
+https://github.com/nemovoid/gansai/raw/refs/heads/main/serfas.txt
+
+
+# UNC4057 Spear Phishing Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-25
+
+fruichickreguli.com
+deducationist.com/rejets_6bc7c1/zibethdisowntexter.php?Sabo=vsbejyf63fwhrvbhk4u8wy7gerh
+swiftoak.com/colobus_24e89e/freestpewitsatoms.php?AT=cbjey723fvbnwl8fgrevhbnwa3dj28f4hkg
+
+
 # GCollection APT42 Phishing
 # tlp:amber - Threat Level: High
 # 2026-11-23

@@ -10,6 +10,49 @@
 ###############################################################################
 
 
+# n0n Ransomware
+# tlp:amber - Threat Level: High
+# 2026-11-25
+
+34eb57b759052eb5739c581ad83dd03beac1c6e4
+74e9fed8fafc5812fa22ae5cc38051d5875fda73
+e4f6a3dd676b4ee370bdd8c14c96b8f259dc0df3
+d2a8af63727d84669ecc9c2bf99185a8f162d05e
+
+
+# MSSQL Malware Delivery Campaign
+# tlp:clear - Threat Level: High
+# 2026-11-25
+
+ad592543105a36d075c2479441268212ae52dfdc
+41195c32d7dd7b10142522de9cd822617b81f4f4
+7e0567a6cfcd6be320844a88f3d61cc5769a4699
+9c511ed3bbfd6167779d0a5ccddcfb0bc7da0250
+3de514adbdd7314b8bb2a92171b4e0701552efff
+b79af091aa6e50b90f46f055e27913e728d55403
+abccbec905aae4d1748cdf94cd6819c6975c6e7e
+1fee6ba4f8609b52737880651298bd0afb5de4a4
+7a50887cc15c997ebaacfa4ef361f097c96eb823
+630121d82cbd5b82c38bdf86f80cd6ba49dc3695
+02e4df7b238e9a2cd3f8e3751660e297a4c25426
+2915848428eebd92156fa96797c165be8581d00f
+
+
+# APT43 SEASURF Espionage Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-25
+
+b4a5ca363579b249e5e50302aa8811c07ece40a6
+
+
+# UNC4057 Spear Phishing Campaign
+# tlp:amber - Threat Level: High
+# 2026-11-25
+
+aaf6cc0732f571415b9b0f7776e34bb9f5080f98
+3d97162ebd322cdd55fdacd3d5f08ba6108272e9
+
+
 # Auto-Fetch-MalwareBazaar
 # 2026-11-25
 
